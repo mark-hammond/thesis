@@ -1,0 +1,62 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Demory et~al.(2011)Demory, Gillon, Deming, Valencia, Seager, Benneke,
+  Lovis, Cubillos, Harrington, Stevenson, Mayor, Pepe, Queloz, S{\'e}gransan,
+  and Udry]{demory201155cnce}
+Demory, B.O. et~al.
+\newblock {Detection of a transit of the super-Earth 55 Cancri e with warm~
+  Spitzer}.
+\newblock \emph{Astronomy {\&} Astrophysics}, 533:\penalty0 A114, Sept. 2011.
+
+\bibitem[Demory et~al.(2016)Demory, Gillon, de~Wit, Madhusudhan, Bolmont, Heng,
+  Kataria, Lewis, Hu, Krick, Stamenkovi{\'c}, Benneke, Kane, and
+  Queloz]{demory201655cnce}
+Demory, B.O. et~al.
+\newblock {A map of the large day{\textendash}night temperature gradient of a
+  super-Earth exoplanet}.
+\newblock \emph{Nature}, 532\penalty0 (7598):\penalty0 207--209, Mar. 2016.
+
+\bibitem[Heng and Workman(2014)]{heng2014analytical}
+Heng, K. and Workman, J.
+\newblock {Analytical models of exoplanetary atmospheres. I. Atmospheric
+  dynamics via the shallow water system}.
+\newblock \emph{Astrophysical Journal, Supplement Series}, 213\penalty0
+  (2):\penalty0 27, Aug. 2014.
+
+\bibitem[Matsuno(1966)]{matsuno1966quasi}
+Matsuno, T.
+\newblock {Quasi-Geostrophic Motions in the Equatorial Area}.
+\newblock \emph{Journal of the Meteorological Society of Japan Ser II},
+  44\penalty0 (1):\penalty0 25--43, 1966.
+
+\bibitem[Pierrehumbert and Hammond(2018)]{pierrehumbert2018review}
+Pierrehumbert, R.T. and Hammond, M.
+\newblock {Atmospheric circulation of tide-locked exoplanets}.
+\newblock \emph{Annual Reviews, Submitted}, 2018.
+
+\bibitem[Showman and Polvani(2011)]{showman2011superrotation}
+Showman, A.P. and Polvani, L.M.
+\newblock {Equatorial Superrotation on Tidally Locked Exoplanets}.
+\newblock \emph{The Astrophysical Journal}, 738\penalty0 (1):\penalty0 71,
+  Sept. 2011.
+
+\bibitem[Vallis(2006)]{vallis2006book}
+Vallis, G.K.
+\newblock {Atmospheric and Oceanic Fluid Dynamics}.
+\newblock \emph{Atmospheric and Oceanic Fluid Dynamics}, pages 770--, Nov.
+  2006.
+
+\bibitem[Winn et~al.(2011)Winn, Matthews, Dawson, Fabrycky, Holman, Kallinger,
+  Kuschnig, Sasselov, Dragomir, Guenther, Moffat, Rowe, Rucinski, and
+  Weiss]{winn201155cnce}
+Winn, J.N. et~al.
+\newblock {A Super-Earth Transiting a Naked-Eye Star }.
+\newblock \emph{The Astrophysical Journal}, 737\penalty0 (1):\penalty0 L18,
+  Aug. 2011.
+
+\end{thebibliography}

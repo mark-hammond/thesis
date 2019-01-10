@@ -1,0 +1,138 @@
+\documentclass[a4paper,oneside,openany,12pt]{memoir}
+
+% Memoir linespacing
+\DoubleSpacing
+
+% LaTeX packages
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+%\usepackage{mathabx}
+\usepackage{bigfoot}
+\usepackage{bm}
+\usepackage{caption}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{indentfirst}
+\usepackage{subcaption}
+\usepackage{inconsolata}
+\usepackage[dvipsnames]{xcolor}
+
+
+% %\usepackage[pdfauthor={Mark Hammond},pdftitle={Thesis},colorlinks=true]{hyperref}%
+% %
+% \hypersetup{
+%   colorlinks=true,
+%   citecolor=MidnightBlue,
+%   urlcolor=MidnightBlue,
+%   linkcolor=Black
+%   %linkcolor=BrickRed
+% }
+
+%\usepackage[utf8]{inputenc}
+% \usepackage[
+%   safeinputenc,
+%   style=phys,
+%   backend=biber,
+%   sorting=none,
+%   minnames=10,
+%   maxnames=10,
+%   biblabel=brackets
+% ]{biblatex}
+% \addbibresource{references.bib}
+
+%\usepackage[no-math]   {fontspec}
+%\setmainfont{Minion Pro}
+
+\usepackage{MinionPro}
+%\defaultfontfeatures{Mapping=tex}
+%\setmainfont{Minion Pro}
+%\usepackage[italic]{mathastext}
+
+
+% \usepackage{libertine}
+%\usepackage{txfonts}
+
+
+%\usepackage[MnSymbol]{mathspec}
+
+%\setmainfont{Minion Pro}
+%\setmathfont[range=\mathup/{num,latin,Latin,greek,Greek}]{Minion Pro}
+%\setmathfont[range=\mathbfup/{num,latin,Latin,greek,Greek}]{MinionPro-Bold}
+%\setmathfont[range=\mathit/{num,latin,Latin,greek,Greek}]{MinionPro-It}
+%\setmathfont[range=\mathbfit/{num,latin,Latin,greek,Greek}]{MinionPro-BoldIt}
+
+\usepackage{lipsum}
+\usepackage{oxfordthesis}
+\usepackage{xr}
+\usepackage{xr-hyper}
+
+\usepackage[round]{natbib}
+
+% Title / Author / Date / Degree / etc.
+\input{metadata}
+
+\usepackage[
+	pdftitle={\oxfthetitle},
+	pdfauthor={\oxftheauthor},
+	pdfsubject={Thesis for the Degree of \oxfdegree, \oxfdegreedate},
+	pdfborder=0,
+	bookmarks=true,
+	bookmarksnumbered=true,
+	bookmarksopen=true,
+	bookmarksopenlevel=1,
+	plainpages=false,
+	pdfpagelabels=true,
+	colorlinks=true,
+    citecolor=MidnightBlue,
+		linkcolor=Black
+]{hyperref}
+\usepackage{memhfixc}
+
+% Your Macros File Here
+\include{macros}
+%\renewcommand\secheadstyle{\setSpacing{0.95}\Large\bfseries\memRTLraggedright}
+
+
+
+% Main document
+
+\begin{document}
+\begin{SingleSpace}
+\titlepage
+\end{SingleSpace}
+
+\frontmatter
+
+\include{dedication}
+\include{acknowledgements}
+\include{abstract}
+\tableofcontents
+\listoffigures
+
+\mainmatter
+
+\include{chapters/introduction}
+\include{chapters/lava-planets}
+\include{chapters/wave-mean-flow}
+\include{chapters/nonlinear-circulation}
+\include{chapters/eqm-circulation-states}
+\include{chapters/simulating-planets}
+\include{chapters/linking-climate-55cnce}
+\include{chapters/clouds-on-lava-planets}
+\include{chapters/conclusion}
+
+
+\begin{SingleSpace}
+	\bibliographystyle{abbrvnatetal.bst}
+	\bibliography{references.bib}
+\end{SingleSpace}
+
+
+\include{appendices}
+
+\backmatter
+
+
+
+\end{document}
