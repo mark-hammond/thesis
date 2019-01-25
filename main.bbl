@@ -1,9 +1,21 @@
-\begin{thebibliography}{8}
+\begin{thebibliography}{16}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Boyd(1978)]{boyd1978shearI}
+Boyd, J.P.
+\newblock {The Effects of Latitudinal Shear on Equatorial Waves. Past I: Theory
+  and Methods.}
+\newblock \emph{Journal of Atmospheric Sciences}, 35\penalty0 (1):\penalty0
+  2236--2258, Dec. 1978.
+
+\bibitem[Boyd(2000)]{boyd2000spectral}
+Boyd, J.P.
+\newblock \emph{{Chebyshev {\&} Fourier Spectral Methods}}.
+\newblock Springer, 2000.
 
 \bibitem[Demory et~al.(2011)Demory, Gillon, Deming, Valencia, Seager, Benneke,
   Lovis, Cubillos, Harrington, Stevenson, Mayor, Pepe, Queloz, S{\'e}gransan,
@@ -21,12 +33,26 @@ Demory, B.O. et~al.
   super-Earth exoplanet}.
 \newblock \emph{Nature}, 532\penalty0 (7598):\penalty0 207--209, Mar. 2016.
 
+\bibitem[Hammond and Pierrehumbert(2018)]{hammond2018wavemean}
+Hammond, M. and Pierrehumbert, R.T.
+\newblock {Wave-Mean Flow Interactions in the Atmospheric Circulation of
+  Tidally Locked Planets}.
+\newblock \emph{The Astrophysical Journal}, 869\penalty0 (1):\penalty0 65, Dec.
+  2018.
+
 \bibitem[Heng and Workman(2014)]{heng2014analytical}
 Heng, K. and Workman, J.
 \newblock {Analytical models of exoplanetary atmospheres. I. Atmospheric
   dynamics via the shallow water system}.
 \newblock \emph{Astrophysical Journal, Supplement Series}, 213\penalty0
   (2):\penalty0 27, Aug. 2014.
+
+\bibitem[Iga and Matsuda(2005)]{iga2005spherical}
+Iga, S.I. and Matsuda, Y.
+\newblock {Shear Instability in a Shallow Water Model with Implications for the
+  Venus Atmosphere.}
+\newblock \emph{Journal of Atmospheric Sciences}, 62\penalty0 (7):\penalty0
+  2514--2527, July 2005.
 
 \bibitem[Matsuno(1966)]{matsuno1966quasi}
 Matsuno, T.
@@ -39,11 +65,38 @@ Pierrehumbert, R.T. and Hammond, M.
 \newblock {Atmospheric circulation of tide-locked exoplanets}.
 \newblock \emph{Annual Reviews, Submitted}, 2018.
 
+\bibitem[Shell and Held(2004)]{shell2004superrotation}
+Shell, K.M. and Held, I.M.
+\newblock {Abrupt Transition to Strong Superrotation in an Axisymmetric Model
+  of the Upper Troposphere.}
+\newblock \emph{Journal of Atmospheric Sciences}, 61\penalty0 (2):\penalty0
+  2928--2935, Dec. 2004.
+
+\bibitem[Showman and Polvani(2010)]{showman2010superrotation}
+Showman, A.P. and Polvani, L.M.
+\newblock {The Matsuno-Gill model and equatorial superrotation}.
+\newblock \emph{Geophysical Research Letters}, 37\penalty0 (1):\penalty0
+  L18811--n/a, Sept. 2010.
+
 \bibitem[Showman and Polvani(2011)]{showman2011superrotation}
 Showman, A.P. and Polvani, L.M.
 \newblock {Equatorial Superrotation on Tidally Locked Exoplanets}.
 \newblock \emph{The Astrophysical Journal}, 738\penalty0 (1):\penalty0 71,
   Sept. 2011.
+
+\bibitem[Thuburn and Lagneau(1999)]{thuburn1999zonalmean}
+Thuburn, J. and Lagneau, V.
+\newblock {Eulerian Mean, Contour Integral, and Finite-Amplitude Wave Activity
+  Diagnostics Applied to a Single-Layer Model of the Winter Stratosphere.}
+\newblock \emph{Journal of Atmospheric Sciences}, 56\penalty0 (5):\penalty0
+  689--710, Mar. 1999.
+
+\bibitem[Tsai et~al.(2014)Tsai, Dobbs-Dixon, and Gu]{tsai2014three}
+Tsai, S.M., Dobbs-Dixon, I. and Gu, P.G.
+\newblock {Three-dimensional structures of equatorial waves and the resulting
+  super-rotation in the atmosphere of a tidally locked hot Jupiter}.
+\newblock \emph{Astrophysical Journal}, 793\penalty0 (2):\penalty0 141, Oct.
+  2014.
 
 \bibitem[Vallis(2006)]{vallis2006book}
 Vallis, G.K.

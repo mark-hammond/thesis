@@ -1,50 +1,67 @@
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
-\contentsline {chapter}{\chapternumberline {2}Lava Planets and 55 Cancri e}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Exoplanets}{6}{section.2.1}
-\contentsline {section}{\numberline {2.2}Lava Planets}{8}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Tidally Locked Planets}{8}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Lava Planets}{8}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}55 Cancri e}{9}{section.2.3}
-\contentsline {chapter}{\chapternumberline {3}Wave-Mean Flow Interactions in a Linear Theory of Tidally Locked Atmospheres}{10}{chapter.3}
-\contentsline {section}{\numberline {3.1}The Shallow-Water Equations}{11}{section.3.1}
-\contentsline {section}{\numberline {3.2}Zonal Acceleration}{13}{section.3.2}
-\contentsline {section}{\numberline {3.3}Wave Interactions with Shear Flow}{14}{section.3.3}
-\contentsline {section}{\numberline {3.4}Scaling Relations}{14}{section.3.4}
-\contentsline {chapter}{\chapternumberline {4}Non-Linear Tests of a Linear Theory of Tidally Locked Atmospheres}{15}{chapter.4}
-\contentsline {section}{\numberline {4.1}Non-Linear Tests of Linear Shallow-Water Theory}{16}{section.4.1}
-\contentsline {section}{\numberline {4.2}GCM Tests of Shallow-Water Theory}{22}{section.4.2}
-\contentsline {chapter}{\chapternumberline {5}Equilibrium Circulation States on Tidally Locked Planets}{23}{chapter.5}
-\contentsline {section}{\numberline {5.1}Equatorial Acceleration}{23}{section.5.1}
-\contentsline {section}{\numberline {5.2}Midlatitude Acceleration}{24}{section.5.2}
-\contentsline {section}{\numberline {5.3}Initial Conditions}{25}{section.5.3}
-\contentsline {section}{\numberline {5.4}Instabilities as deviations from equilibrium}{25}{section.5.4}
-\contentsline {section}{\numberline {5.5}Jet Scaling Relations}{25}{section.5.5}
-\contentsline {chapter}{\chapternumberline {6}Simulating Tidally Locked Exoplanets with Exo-FMS}{26}{chapter.6}
-\contentsline {section}{\numberline {6.1}Model Structure}{27}{section.6.1}
-\contentsline {section}{\numberline {6.2}Dynamics}{27}{section.6.2}
-\contentsline {section}{\numberline {6.3}Radiative Transfer}{27}{section.6.3}
-\contentsline {section}{\numberline {6.4}Cloud Microphysics}{27}{section.6.4}
-\contentsline {chapter}{\chapternumberline {7}Linking the Climate and Thermal Phase Curve of 55 Cancri e}{28}{chapter.7}
-\contentsline {section}{\numberline {7.1}Observations of 55 Cancri e}{30}{section.7.1}
-\contentsline {section}{\numberline {7.2}Simulating a Lava Planet}{35}{section.7.2}
-\contentsline {section}{\numberline {7.3}Simplified Scaling Theory}{35}{section.7.3}
-\contentsline {section}{\numberline {7.4}Idealised Simulations}{35}{section.7.4}
-\contentsline {subsection}{\numberline {7.4.1}Mean Molecular Weight}{35}{subsection.7.4.1}
-\contentsline {subsection}{\numberline {7.4.2}Surface Pressure}{35}{subsection.7.4.2}
-\contentsline {subsection}{\numberline {7.4.3}Optical Thickness}{35}{subsection.7.4.3}
-\contentsline {subsection}{\numberline {7.4.4}Vertical Structure}{35}{subsection.7.4.4}
-\contentsline {subsection}{\numberline {7.4.5}Phase Curves}{35}{subsection.7.4.5}
-\contentsline {section}{\numberline {7.5}Discussion}{35}{section.7.5}
-\contentsline {chapter}{\chapternumberline {8}Clouds on Lava Planets}{36}{chapter.8}
-\contentsline {section}{\numberline {8.1}Clouds on Lava Planets}{37}{section.8.1}
-\contentsline {section}{\numberline {8.2}Simulations of Clouds}{37}{section.8.2}
-\contentsline {section}{\numberline {8.3}Effect on Observations}{37}{section.8.3}
-\contentsline {chapter}{\chapternumberline {9}Conclusions}{38}{chapter.9}
-\contentsline {chapter}{Bibliography}{40}{chapter*.52}
-\contentsline {appendix}{\chapternumberline {A}Exo-FMS}{41}{appendix.A}
-\contentsline {section}{\numberline {A.1}Model Structure}{41}{section.A.1}
-\contentsline {section}{\numberline {A.2}Sharing Exo-FMS}{41}{section.A.2}
-\contentsline {appendix}{\chapternumberline {B}GFDL-SDC}{42}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}Pseudo-Spectral Methods}{43}{appendix.C}
-\contentsline {section}{\numberline {C.1}Beta-Plane}{43}{section.C.1}
-\contentsline {section}{\numberline {C.2}Spherical Geometry}{43}{section.C.2}
+\contentsline {chapter}{\chapternumberline {2}Tidally Locked Lava Planets and 55 Cancri e}{6}{chapter.2}
+\contentsline {section}{\numberline {2.1}Exoplanets}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Lava Planets}{9}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Tidally Locked Planets}{9}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}The Atmospheric Circulation of Tidally Locked Planets}{10}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Lava Planets}{10}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}55 Cancri e}{10}{section.2.3}
+\contentsline {chapter}{\chapternumberline {3}Wave-Mean Flow Interactions in a Linear Theory of Tidally Locked Atmospheres}{12}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Shallow-Water Equations}{15}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Free Solutions}{16}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Forced Solutions}{17}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Wave Interactions with Flow}{20}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Zonal Acceleration}{21}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Acceleration in a Matsuno-Gill Model}{21}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Correction to Vertical Momentum Transport}{23}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Equilibrium Equatorial Flow}{25}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Horizontal Momentum Transport from Stationary Waves}{26}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Horizontal Momentum Transport from Transient Waves}{26}{subsection.3.2.5}
+\contentsline {section}{\numberline {3.3}Wave Interactions with Shear Flow on the Beta-Plane}{26}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Free Modes}{30}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Forced Solutions}{33}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Equilibrium Circulation}{33}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Damping}{34}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Hot-Spot Shift}{34}{subsection.3.3.5}
+\contentsline {section}{\numberline {3.4}Wave Interactions with Shear Flow on a Sphere}{35}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Spherical Shallow-Water Equations}{35}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Forced Solutions}{35}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}Scaling Relations}{35}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}1D Scaling Relations}{35}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}2D Scaling Relations}{35}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}Other Jet Patterns}{35}{section.3.6}
+\contentsline {chapter}{\chapternumberline {4}Non-Linear Tests of a Linear Theory of Tidally Locked Atmospheres}{36}{chapter.4}
+\contentsline {section}{\numberline {4.1}Non-Linear Tests of Linear Shallow-Water Theory}{37}{section.4.1}
+\contentsline {section}{\numberline {4.2}GCM Tests of Shallow-Water Theory}{44}{section.4.2}
+\contentsline {chapter}{\chapternumberline {5}Equilibrium Circulation States on Tidally Locked Planets}{45}{chapter.5}
+\contentsline {section}{\numberline {5.1}Equilibrium Flow Profile}{45}{section.5.1}
+\contentsline {section}{\numberline {5.2}Initial Conditions}{47}{section.5.2}
+\contentsline {section}{\numberline {5.3}Instabilities as deviations from equilibrium}{47}{section.5.3}
+\contentsline {section}{\numberline {5.4}Jet Scaling Relations}{47}{section.5.4}
+\contentsline {chapter}{\chapternumberline {6}Linking the Climate and Thermal Phase Curve of 55 Cancri e}{48}{chapter.6}
+\contentsline {section}{\numberline {6.1}Observations of 55 Cancri e}{50}{section.6.1}
+\contentsline {section}{\numberline {6.2}Simulating a Lava Planet}{55}{section.6.2}
+\contentsline {section}{\numberline {6.3}Simplified Scaling Theory}{55}{section.6.3}
+\contentsline {section}{\numberline {6.4}Idealised Simulations}{56}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Mean Molecular Weight}{56}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Surface Pressure}{56}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Optical Thickness}{56}{subsection.6.4.3}
+\contentsline {subsection}{\numberline {6.4.4}Vertical Structure}{56}{subsection.6.4.4}
+\contentsline {subsection}{\numberline {6.4.5}Phase Curves}{56}{subsection.6.4.5}
+\contentsline {section}{\numberline {6.5}Discussion}{56}{section.6.5}
+\contentsline {chapter}{\chapternumberline {7}Clouds on Lava Planets}{57}{chapter.7}
+\contentsline {section}{\numberline {7.1}Clouds on Lava Planets}{58}{section.7.1}
+\contentsline {section}{\numberline {7.2}Simulations of Clouds}{58}{section.7.2}
+\contentsline {section}{\numberline {7.3}Effect on Observations}{58}{section.7.3}
+\contentsline {chapter}{\chapternumberline {8}Introduction}{59}{chapter.8}
+\contentsline {chapter}{\chapternumberline {9}Conclusions}{64}{chapter.9}
+\contentsline {chapter}{Bibliography}{65}{chapter*.51}
+\contentsline {appendix}{\chapternumberline {A}Exo-FMS}{67}{appendix.A}
+\contentsline {section}{\numberline {A.1}Model Structure}{68}{section.A.1}
+\contentsline {section}{\numberline {A.2}Dynamics}{68}{section.A.2}
+\contentsline {section}{\numberline {A.3}Radiative Transfer}{69}{section.A.3}
+\contentsline {section}{\numberline {A.4}Cloud Microphysics}{69}{section.A.4}
+\contentsline {appendix}{\chapternumberline {B}GFDL-SDC}{70}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}Pseudo-Spectral Methods}{71}{appendix.C}
+\contentsline {section}{\numberline {C.1}Solving Equations}{72}{section.C.1}
+\contentsline {section}{\numberline {C.2}Example Solutions}{75}{section.C.2}

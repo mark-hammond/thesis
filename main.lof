@@ -2,18 +2,32 @@
 \contentsline {figure}{\numberline {1.1}{\ignorespaces The population of known exoplanets plotted by semi-major axis and stellar mass. All the planets below the line have a timescale to reach a tidally locked state of less than 0.1 billion years, so are expected to be in this state.\relax }}{3}{figure.caption.1}
 \addvspace {10pt}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Zero Flow and Shear Flow.\relax }}{14}{figure.caption.13}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Example GCM results.\relax }}{13}{figure.caption.7}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Free Modes.\relax }}{17}{figure.caption.8}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Forced solutions.\relax }}{19}{figure.caption.9}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Acceleration terms.\relax }}{22}{figure.caption.10}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Acceleration terms with R.\relax }}{24}{figure.caption.11}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Eigenvalue shift.\relax }}{29}{figure.caption.12}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces The meridional structure of the free Kelvin mode.\relax }}{29}{figure.caption.13}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces The meridional structure of the free Rossby mode \citep {hammond2018wavemean}.\relax }}{30}{figure.caption.14}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Zero Flow and Shear Flow.\relax }}{34}{figure.caption.15}
 \addvspace {10pt}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces The linear response.\relax }}{17}{figure.caption.20}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces 5e3.\relax }}{19}{figure.caption.21}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Nonlinear.\relax }}{19}{figure.caption.22}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Matsuno jet control.\relax }}{20}{figure.caption.23}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Nonlinear.\relax }}{21}{figure.caption.24}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The linear response.\relax }}{38}{figure.caption.18}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 5e3.\relax }}{40}{figure.caption.19}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Nonlinear.\relax }}{40}{figure.caption.20}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Matsuno jet control.\relax }}{41}{figure.caption.21}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Nonlinear with and without imposed jet.\relax }}{42}{figure.caption.22}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Phase curve.\relax }}{51}{figure.caption.45}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Temperature map.\relax }}{52}{figure.caption.46}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {8.1}{\ignorespaces The population of known exoplanets plotted by semi-major axis and stellar mass. All the planets below the line have a timescale to reach a tidally locked state of less than 0.1 billion years, so are expected to be in this state.\relax }}{61}{figure.caption.50}
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}
 \addvspace {10pt}
-\addvspace {10pt}
-\addvspace {10pt}
-\addvspace {10pt}
-\addvspace {10pt}
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Basis functions used in beta-plane and spherical coordinates.\relax }}{75}{figure.caption.57}
+\contentsline {figure}{\numberline {C.2}{\ignorespaces Coefficients of the pseudo-spectral solution on the beta-plane coordinates with and without a background jet (the plots in Figure \ref {fig:shear-2D}). The method identifies the exact solution in the first case, and converges rapidly to an accurate solution in the second case. \relax }}{77}{figure.caption.59}
+\contentsline {figure}{\numberline {C.3}{\ignorespaces Coefficients of the pseudo-spectral solution in spherical coordinates (the first plot in Figure \ref {fig:spherical-tests}), with the height variable $h$ and the rescaled height $\gamma $. Rescaling the height makes the method converge to a smooth solution at the poles.\relax }}{78}{figure.caption.61}
