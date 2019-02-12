@@ -7,8 +7,8 @@ A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: chapters/introduction.aux
 A level-1 auxiliary file: chapters/lava-planets.aux
 A level-1 auxiliary file: chapters/wave-mean-flow.aux
-A level-1 auxiliary file: chapters/nonlinear-circulation.aux
 A level-1 auxiliary file: chapters/eqm-circulation-states.aux
+A level-1 auxiliary file: chapters/nonlinear-circulation.aux
 A level-1 auxiliary file: chapters/linking-climate-55cnce.aux
 A level-1 auxiliary file: chapters/clouds-on-lava-planets.aux
 A level-1 auxiliary file: chapters/comparing-lava-planets.aux
@@ -16,7 +16,36 @@ A level-1 auxiliary file: chapters/conclusion.aux
 The style file: abbrvnatetal.bst.bst
 A level-1 auxiliary file: appendices.aux
 Database file #1: references.bib
+Warning--I didn't find a database entry for "demory2016map"
+Warning--I didn't find a database entry for "miguel2011compositions"
 Warning--I didn't find a database entry for "wang2014instability"
+Warning--I didn't find a database entry for "lin2004vertically"
+Warning--I didn't find a database entry for "merlis2010atmospheric"
+Warning--I didn't find a database entry for "heng2011atmospheric"
+Warning--I didn't find a database entry for "koll2015deciphering"
+Warning--I didn't find a database entry for "koll2016temperature"
+Warning--I didn't find a database entry for "carone2014connecting"
+Warning--I didn't find a database entry for "kataria2014atmospheric"
+Warning--I didn't find a database entry for "charnay20153d"
+Warning--I didn't find a database entry for "von201155"
+Warning--I didn't find a database entry for "pierrehumbert2016dynamics"
+Warning--I didn't find a database entry for "pierrehumbert2011hydrogen"
+Warning--I didn't find a database entry for "ClimateBook"
+Warning--I didn't find a database entry for "liu2013atmospheric"
+Warning--I didn't find a database entry for "boutle2017proxima"
+Warning--I didn't find a database entry for "zhang2016effects"
+Warning--I didn't find a database entry for "komacek2016atmospheric"
+Warning--I didn't find a database entry for "freedman2014cia"
+Warning--I didn't find a database entry for "tsiaras2016detection"
+Warning--I didn't find a database entry for "wordsworth2013hydrogen"
+Warning--I didn't find a database entry for "cowan2008inverting"
+Warning--I didn't find a database entry for "crossfield2012acme"
+Warning--I didn't find a database entry for "parmentier2016transitions"
+Warning--I didn't find a database entry for "wetzel2013sio"
+Warning--I didn't find a database entry for "bolmont2013tidal"
+Warning--I didn't find a database entry for "castan2011hot"
+Warning--I didn't find a database entry for "demory2016variability"
+Warning--I didn't find a database entry for "armstrong2016variability"
 Name 1 in "Pierrehumbert, R. T., and Hammond, M." has a comma at the end for entry pierrehumbert2018review
 while executing---line 1366 of file abbrvnatetal.bst.bst
 Name 1 in "Pierrehumbert, R. T., and Hammond, M." has a comma at the end for entry pierrehumbert2018review
@@ -27,7 +56,7 @@ Name 1 in "Pierrehumbert, R. T., and Hammond, M." has a comma at the end for ent
 while executing---line 1448 of file abbrvnatetal.bst.bst
 You've used 16 entries,
             2807 wiz_defined-function locations,
-            710 strings with 8072 characters,
+            740 strings with 8616 characters,
 and the built_in function-call counts, 8263 in all, are:
 = -- 753
 > -- 524

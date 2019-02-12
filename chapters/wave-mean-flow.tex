@@ -510,13 +510,14 @@ Figure X shows the forced solution in shear flow.
 
 
 \begin{figure}
-  \begin{subfigure}[b]{0.4\textwidth}
+  \centering
+  \begin{subfigure}[b]{0.49\textwidth}
     \includegraphics[width=\textwidth]{figures/wave-mean-flow/ps-no-flow.png}
     \caption{Zero Flow.}
     \label{fig:ps-no-flow}
   \end{subfigure}
   %
-  \begin{subfigure}[b]{0.4\textwidth}
+  \begin{subfigure}[b]{0.49\textwidth}
     \includegraphics[width=\textwidth]{figures/wave-mean-flow/ps-shear-flow.png}
     \caption{Shear Flow.}
     \label{fig:ps-shear-flow}
@@ -529,6 +530,13 @@ Figure X shows the forced solution in shear flow.
 %SUBSECTION --
 \subsection{Equilibrium Circulation}
 
+\begin{figure}
+  \centering
+  \includegraphics[width=0.6\textwidth]{figures/wave-mean-flow/accn-vs-u.pdf}
+  \caption{Acceleration versus speed}
+  \label{fig:accn-vs-u}
+\end{figure}
+
 The equatorial superrotation reaches a steady equilibrium when the zonal acceleration is zero.
 
 As discussed in Section \ref{sec:zonal-acceleration}, the equatorial acceleration decreases as the zonal flow increases, reaching an equilibrium when the acceleration is zero.
@@ -536,10 +544,61 @@ As discussed in Section \ref{sec:zonal-acceleration}, the equatorial acceleratio
 %SUBSECTION --
 \subsection{Damping}
 
+
+\begin{figure}
+  \centering
+  \begin{subfigure}[b]{0.49\textwidth}
+    \includegraphics[width=\textwidth]{figures/wave-mean-flow/zero-alpha-dyn-zero-flow.png}
+    \caption{Zero Flow.}
+    \label{fig:zero-alpha-dyn-zero-flow}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.49\textwidth}
+    \includegraphics[width=\textwidth]{figures/wave-mean-flow/zero-alpha-dyn-1-flow.png}
+    \caption{Shear Flow.}
+    \label{fig:zero-alpha-dyn-1-flow}
+  \end{subfigure}
+  \caption{Zero Flow and Shear Flow.}
+  \label{fig:zero-alpha-dyn-flow}
+\end{figure}
+
+
 Figure X shows the effect of different damping rates.
 
 %SUBSECTION --
 \subsection{Hot-Spot Shift}
+
+
+\begin{figure}
+  \centering
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{figures/wave-mean-flow/expl-non-shifted-matsuno.png}
+    \caption{Zero Flow.}
+    \label{fig:expl-non-shifted-matsuno}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{figures/wave-mean-flow/expl-shifted-matsuno.png}
+    \caption{Shear Flow.}
+    \label{fig:expl-shifted-matsuno}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{figures/wave-mean-flow/expl-phibar.png}
+    \caption{Shear Flow.}
+    \label{fig:expl-phibar}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.24\textwidth}
+    \includegraphics[width=\textwidth]{figures/wave-mean-flow/expl-plot-total.png}
+    \caption{Shear Flow.}
+    \label{fig:expl-plot-total}
+  \end{subfigure}
+  \caption{Explanation.}
+  \label{fig:first-order-solutions}
+\end{figure}
+
+
 
 What is the relevance of these forced solutions for the atmospheres of tidally locked planets, and interpreting observations of them?
 
@@ -564,6 +623,32 @@ The beta-plane solutions are intuitive but less accurate for a sphere.
 %SUBSECTION --
 \subsection{Forced Solutions}
 
+\begin{figure}
+  \centering
+  \begin{subfigure}[b]{0.33\textwidth}
+    \includegraphics[width=\textwidth]{figures/wave-mean-flow/spherical-matsuno.png}
+    \caption{Zero Flow.}
+    \label{fig:spherical-matsuno}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.33\textwidth}
+    \includegraphics[width=\textwidth]{figures/wave-mean-flow/spherical-matsuno.png}
+    \caption{Zero Flow.}
+    \label{fig:spherical-matsuno}
+  \end{subfigure}
+  %
+  \begin{subfigure}[b]{0.33\textwidth}
+    \includegraphics[width=\textwidth]{figures/wave-mean-flow/spherical-shear-2d.png}
+    \caption{Zero Flow.}
+    \label{fig:spherical-shear-2d}
+  \end{subfigure}
+  %
+  \caption{Forced linear shallow-water solutions in spherical geometry with and without background shear flows. The parameters of the model are $\bar{U}=0.5 \cos\phi \exp(-(\phi/\phi_{0})^{2})$, $\phi_{0}=\pi / 3$, $\alpha_{dyn}=\alpha_{rad}=0.2$, $G=1$, $Q=0.5\cos(\phi)$, as discussed in Section \ref{sec:sphere-solutions}.}\label{fig:spherical-tests.}
+  \label{fig:spherical-tests}
+\end{figure}
+
+
+
 %SECTION CONCLUSIONS
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -587,6 +672,16 @@ The beta-plane solutions are intuitive but less accurate for a sphere.
 The suite of tests in Chapter XX show that the zonal mean wind profile on a tidally locked planet is not always well represented by a Gaussian. There can be only two jets in the midlatitudes, or three jets, one on the equator.
 
 In this section I find the forced response with different jet profiles, and show that the result is not particularly different to the Gaussian jet used up to this point.
+
+Two Jets:
+
+Three Jets:
+
+One Prograde, Two Retrograde:
+
+One Retrograde, two prograde (eddy-driven):
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
