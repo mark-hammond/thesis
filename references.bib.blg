@@ -1,0 +1,18 @@
+[0] Config.pm:304> INFO - This is Biber 2.12 running in TOOL mode
+[0] Config.pm:306> INFO - Config file is 'test.conf'
+[1] Config.pm:307> INFO - Logfile is 'references.bib.blg'
+[85] biber-darwin:315> INFO - === Wed Sep  4, 2019, 16:24:55
+[132] Biber.pm:4250> INFO - Looking for bibtex format file 'references.bib'
+[142] bibtex.pm:1523> INFO - LaTeX decoding ...
+[472] bibtex.pm:1340> INFO - Found BibTeX data source 'references.bib'
+[1928] Utils.pm:193> WARN - BibTeX subsystem: /var/folders/34/7v6_8w7523n4bm5__1ycjx8h0000gn/T/ppj_fY2lQu/references.bib_7354.utf8, line 314, warning: undefined macro "n/a"
+[1928] Utils.pm:193> WARN - BibTeX subsystem: /var/folders/34/7v6_8w7523n4bm5__1ycjx8h0000gn/T/ppj_fY2lQu/references.bib_7354.utf8, line 920, warning: undefined macro "n/a"
+[1928] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1928] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[1957] UCollate.pm:68> INFO - Overriding locale 'en_US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1958] UCollate.pm:68> INFO - Overriding locale 'en_US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1958] Biber.pm:3921> INFO - Sorting list 'tool/global//global/global' of type 'entry' with template 'tool' and locale 'en_US'
+[1958] Biber.pm:3927> INFO - No sort tailoring available for locale 'en_US'
+[2069] bibtex.pm:335> INFO - Writing 'references_bibertool.bib' with encoding 'UTF-8'
+[2073] bibtex.pm:365> INFO - Output to references_bibertool.bib
+[2073] Biber.pm:110> INFO - WARNINGS: 4

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.4)  12 FEB 2019 13:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.4)  30 SEP 2019 09:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -645,7 +645,230 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \zifour@ocount=\count164
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx.sty (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018-11-19 L3 programming layer (loader) 
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018-11-19 L3 programming layer (code)
+\c_max_int=\count165
+\l_tmpa_int=\count166
+\l_tmpb_int=\count167
+\g_tmpa_int=\count168
+\g_tmpb_int=\count169
+\g__kernel_prg_map_int=\count170
+\c_log_iow=\count171
+\l_iow_line_count_int=\count172
+\l__iow_line_target_int=\count173
+\l__iow_one_indent_int=\count174
+\l__iow_indent_int=\count175
+\c_zero_dim=\dimen168
+\c_max_dim=\dimen169
+\l_tmpa_dim=\dimen170
+\l_tmpb_dim=\dimen171
+\g_tmpa_dim=\dimen172
+\g_tmpb_dim=\dimen173
+\c_zero_skip=\skip189
+\c_max_skip=\skip190
+\l_tmpa_skip=\skip191
+\l_tmpb_skip=\skip192
+\g_tmpa_skip=\skip193
+\g_tmpb_skip=\skip256
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count176
+\l__intarray_loop_int=\count177
+\c__intarray_sp_dim=\dimen174
+\g__intarray_font_int=\count178
+\c__fp_leading_shift_int=\count179
+\c__fp_middle_shift_int=\count180
+\c__fp_trailing_shift_int=\count181
+\c__fp_big_leading_shift_int=\count182
+\c__fp_big_middle_shift_int=\count183
+\c__fp_big_trailing_shift_int=\count184
+\c__fp_Bigg_leading_shift_int=\count185
+\c__fp_Bigg_middle_shift_int=\count186
+\c__fp_Bigg_trailing_shift_int=\count187
+\c__kernel_randint_max_int=\count188
+\g__fp_array_int=\count189
+\l__fp_array_loop_int=\count190
+\l__sort_length_int=\count191
+\l__sort_min_int=\count192
+\l__sort_top_int=\count193
+\l__sort_max_int=\count266
+\l__sort_true_max_int=\count267
+\l__sort_block_int=\count268
+\l__sort_begin_int=\count269
+\l__sort_end_int=\count270
+\l__sort_A_int=\count271
+\l__sort_B_int=\count272
+\l__sort_C_int=\count273
+\l__tl_analysis_normal_int=\count274
+\l__tl_analysis_index_int=\count275
+\l__tl_analysis_nesting_int=\count276
+\l__tl_analysis_type_int=\count277
+\l__regex_internal_a_int=\count278
+\l__regex_internal_b_int=\count279
+\l__regex_internal_c_int=\count280
+\l__regex_balance_int=\count281
+\l__regex_group_level_int=\count282
+\l__regex_mode_int=\count283
+\c__regex_cs_in_class_mode_int=\count284
+\c__regex_cs_mode_int=\count285
+\l__regex_catcodes_int=\count286
+\l__regex_default_catcodes_int=\count287
+\c__regex_catcode_D_int=\count288
+\c__regex_catcode_S_int=\count289
+\c__regex_catcode_L_int=\count290
+\c__regex_catcode_O_int=\count291
+\c__regex_catcode_A_int=\count292
+\c__regex_all_catcodes_int=\count293
+\l__regex_show_lines_int=\count294
+\l__regex_min_state_int=\count295
+\l__regex_max_state_int=\count296
+\l__regex_left_state_int=\count297
+\l__regex_right_state_int=\count298
+\l__regex_capturing_group_int=\count299
+\l__regex_min_pos_int=\count300
+\l__regex_max_pos_int=\count301
+\l__regex_curr_pos_int=\count302
+\l__regex_start_pos_int=\count303
+\l__regex_success_pos_int=\count304
+\l__regex_curr_char_int=\count305
+\l__regex_curr_catcode_int=\count306
+\l__regex_last_char_int=\count307
+\l__regex_case_changed_char_int=\count308
+\l__regex_curr_state_int=\count309
+\l__regex_step_int=\count310
+\l__regex_min_active_int=\count311
+\l__regex_max_active_int=\count312
+\l__regex_replacement_csnames_int=\count313
+\l__regex_match_count_int=\count314
+\l__regex_min_submatch_int=\count315
+\l__regex_submatch_int=\count316
+\l__regex_zeroth_submatch_int=\count317
+\g__regex_trace_regex_int=\count318
+\c_empty_box=\box34
+\l_tmpa_box=\box35
+\l_tmpb_box=\box36
+\g_tmpa_box=\box37
+\g_tmpb_box=\box38
+\l__box_top_dim=\dimen175
+\l__box_bottom_dim=\dimen176
+\l__box_left_dim=\dimen177
+\l__box_right_dim=\dimen178
+\l__box_top_new_dim=\dimen179
+\l__box_bottom_new_dim=\dimen180
+\l__box_left_new_dim=\dimen181
+\l__box_right_new_dim=\dimen182
+\l__box_internal_box=\box39
+\l__coffin_internal_box=\box40
+\l__coffin_internal_dim=\dimen183
+\l__coffin_offset_x_dim=\dimen184
+\l__coffin_offset_y_dim=\dimen185
+\l__coffin_x_dim=\dimen186
+\l__coffin_y_dim=\dimen187
+\l__coffin_x_prime_dim=\dimen188
+\l__coffin_y_prime_dim=\dimen189
+\c_empty_coffin=\box41
+\l__coffin_aligned_coffin=\box42
+\l__coffin_aligned_internal_coffin=\box43
+\l_tmpa_coffin=\box44
+\l_tmpb_coffin=\box45
+\l__coffin_display_coffin=\box46
+\l__coffin_display_coord_coffin=\box47
+\l__coffin_display_pole_coffin=\box48
+\l__coffin_display_offset_dim=\dimen190
+\l__coffin_display_x_dim=\dimen191
+\l__coffin_display_y_dim=\dimen192
+\g__file_internal_ior=\read2
+\l__coffin_bounding_shift_dim=\dimen193
+\l__coffin_left_corner_dim=\dimen256
+\l__coffin_right_corner_dim=\dimen257
+\l__coffin_bottom_corner_dim=\dimen258
+\l__coffin_top_corner_dim=\dimen259
+\l__coffin_scaled_total_height_dim=\dimen260
+\l__coffin_scaled_width_dim=\dimen261
+\l__seq_internal_a_int=\count319
+\l__seq_internal_b_int=\count320
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2018-11-19 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count321
+)) (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2018-10-17 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count322
+\g__xparse_grabber_int=\count323
+\l__xparse_m_args_int=\count324
+\l__xparse_mandatory_args_int=\count325
+\l__xparse_v_nesting_int=\count326
+)
+Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box49
+\l__siunitx_tmp_dim=\dimen262
+\l__siunitx_tmp_int=\count327
+\l__siunitx_number_mantissa_length_int=\count328
+\l__siunitx_number_uncert_length_int=\count329
+\l__siunitx_round_int=\count330
+\l__siunitx_process_decimal_int=\count331
+\l__siunitx_process_uncertainty_int=\count332
+\l__siunitx_process_fixed_int=\count333
+\l__siunitx_process_integer_min_int=\count334
+\l__siunitx_process_precision_int=\count335
+\l__siunitx_group_min_int=\count336
+\l__siunitx_angle_marker_box=\box50
+\l__siunitx_angle_unit_box=\box51
+\l__siunitx_angle_marker_dim=\dimen263
+\l__siunitx_angle_unit_dim=\dimen264
+\l__siunitx_unit_int=\count337
+\l__siunitx_unit_denominator_int=\count338
+\l__siunitx_unit_numerator_int=\count339
+\l__siunitx_unit_prefix_int=\count340
+\l__siunitx_unit_prefix_base_int=\count341
+\l__siunitx_unit_prefix_gram_int=\count342
+\l__siunitx_number_product_int=\count343
+\c__siunitx_one_fill_skip=\skip257
+\l__siunitx_table_unit_align_skip=\skip258
+\l__siunitx_table_exponent_dim=\dimen265
+\l__siunitx_table_integer_dim=\dimen266
+\l__siunitx_table_mantissa_dim=\dimen267
+\l__siunitx_table_marker_dim=\dimen268
+\l__siunitx_table_result_dim=\dimen269
+\l__siunitx_table_uncert_dim=\dimen270
+\l__siunitx_table_fill_pre_dim=\dimen271
+\l__siunitx_table_fill_post_dim=\dimen272
+\l__siunitx_table_fill_mid_dim=\dimen273
+\l__siunitx_table_pre_box=\box52
+\l__siunitx_table_post_box=\box53
+\l__siunitx_table_mantissa_box=\box54
+\l__siunitx_table_result_box=\box55
+\l__siunitx_table_number_align_skip=\skip259
+\l__siunitx_table_text_align_skip=\skip260
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
+)) (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+\MT@toks=\toks31
+\MT@count=\count344
+LaTeX Info: Redefining \textls on input line 793.
+\MT@outer@kern=\dimen274
+LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
+\MT@listname@count=\count345
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 913.
+LaTeX Info: Redefining \lslig on input line 913.
+\MT@outer@space=\skip261
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+)) (/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
  (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -663,17 +886,7 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (./deluxetable.sty
-Package: deluxetable 
-\pt@box=\box34
-\pt@width=\dimen168
-\pt@line=\count165
-\pt@column=\count166
-\pt@nlines=\count167
-\pt@ncol=\count168
-\pt@page=\count169
-\pt@tmpcapwidth=\dimen169
-) (/usr/local/texlive/texmf-local/tex/latex/MinionPro/MinionPro.sty
+)) (/usr/local/texlive/texmf-local/tex/latex/MinionPro/MinionPro.sty
 Package: MinionPro 2012/08/03 v2.3 MinionPro support for LaTeX
  (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
@@ -683,8 +896,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
  (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -695,20 +907,21 @@ File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
  (/usr/local/texlive/texmf-local/tex/latex/MinionPro/otfontdef.sty
 Package: otfontdef 2005/06/04 v0.1e OpenType font definition
 )
-\Mn@option@normalsize=\dimen170
+\Mn@option@normalsize=\dimen275
 Package MinionPro-FontDef Info: Configuration: smallfamily, noopticals, normalsize=12.0pt on input line 52.
-\Mn@config@cnt=\count170
+\Mn@config@cnt=\count346
  (/usr/local/texlive/2016/texmf-dist/tex/generic/fltpoint/fltpoint.sty
 Package: fltpoint 2004/11/12 v1.1b floating point arithmetic
- (/usr/local/texlive/2016/texmf-dist/tex/generic/fltpoint/fltpoint.tex
-\fp@loopcount=\count171
-\fp@loopcountii=\count172
-\fp@result=\count173
-\fp@carryover=\count174
-\fp@tempcount=\count175
-\fp@tempcountii=\count176
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/fltpoint/fltpoint.tex
+\fp@loopcount=\count347
+\fp@loopcountii=\count348
+\fp@result=\count349
+\fp@carryover=\count350
+\fp@tempcount=\count351
+\fp@tempcountii=\count352
 ))
-\Mn@fontdimen=\dimen171
+\Mn@fontdimen=\dimen276
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/mnsymbol/MnSymbol.sty
 Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
 LaTeX Info: Redefining \dagger on input line 84.
@@ -810,14 +1023,14 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> T1/MinionPro-OsF/m/it on input line 186.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  T1/MinionPro-OsF/m/it --> T1/MinionPro-OsF/eb/it on input line 187.
-\c@mv@tabular=\count177
+\c@mv@tabular=\count353
 LaTeX Font Info:    Overwriting symbol font `operators' in version `tabular'
 (Font)                  T1/MinionPro-OsF/m/n --> T1/MinionPro-TOsF/m/n on input line 189.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `tabular'
 (Font)                  OML/MinionPro-TOsF/m/it --> OML/MinionPro-TOsF/m/it on input line 190.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `tabular'
 (Font)                  OT1/cmr/m/it --> T1/MinionPro-TOsF/m/it on input line 191.
-\c@mv@boldtabular=\count178
+\c@mv@boldtabular=\count354
 LaTeX Font Info:    Overwriting symbol font `operators' in version `boldtabular'
 (Font)                  T1/MinionPro-OsF/m/n --> T1/MinionPro-TOsF/eb/n on input line 194.
 LaTeX Font Info:    Overwriting symbol font `letters' in version `boldtabular'
@@ -853,192 +1066,33 @@ LaTeX Font Info:    Try loading font information for OT1+MinionPro-OsF on input 
 File: OT1MinionPro-OsF.fd 2005/01/23 v2.0 font definitions for OT1/MinionPro-OsF.
  (/usr/local/texlive/texmf-local/tex/latex/MinionPro/MinionPro-FontDef.sty
 File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
-))) (/usr/local/texlive/2016/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2018-11-19 L3 programming layer (loader) 
- (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2018-11-19 L3 programming layer (code)
-\c_max_int=\count179
-\l_tmpa_int=\count180
-\l_tmpb_int=\count181
-\g_tmpa_int=\count182
-\g_tmpb_int=\count183
-\g__kernel_prg_map_int=\count184
-\c_log_iow=\count185
-\l_iow_line_count_int=\count186
-\l__iow_line_target_int=\count187
-\l__iow_one_indent_int=\count188
-\l__iow_indent_int=\count189
-\c_zero_dim=\dimen172
-\c_max_dim=\dimen173
-\l_tmpa_dim=\dimen174
-\l_tmpb_dim=\dimen175
-\g_tmpa_dim=\dimen176
-\g_tmpb_dim=\dimen177
-\c_zero_skip=\skip189
-\c_max_skip=\skip190
-\l_tmpa_skip=\skip191
-\l_tmpb_skip=\skip192
-\g_tmpa_skip=\skip193
-\g_tmpb_skip=\skip256
-\c_zero_muskip=\muskip11
-\c_max_muskip=\muskip12
-\l_tmpa_muskip=\muskip13
-\l_tmpb_muskip=\muskip14
-\g_tmpa_muskip=\muskip15
-\g_tmpb_muskip=\muskip16
-\l_keys_choice_int=\count190
-\l__intarray_loop_int=\count191
-\c__intarray_sp_dim=\dimen178
-\g__intarray_font_int=\count192
-\c__fp_leading_shift_int=\count193
-\c__fp_middle_shift_int=\count266
-\c__fp_trailing_shift_int=\count267
-\c__fp_big_leading_shift_int=\count268
-\c__fp_big_middle_shift_int=\count269
-\c__fp_big_trailing_shift_int=\count270
-\c__fp_Bigg_leading_shift_int=\count271
-\c__fp_Bigg_middle_shift_int=\count272
-\c__fp_Bigg_trailing_shift_int=\count273
-\c__kernel_randint_max_int=\count274
-\g__fp_array_int=\count275
-\l__fp_array_loop_int=\count276
-\l__sort_length_int=\count277
-\l__sort_min_int=\count278
-\l__sort_top_int=\count279
-\l__sort_max_int=\count280
-\l__sort_true_max_int=\count281
-\l__sort_block_int=\count282
-\l__sort_begin_int=\count283
-\l__sort_end_int=\count284
-\l__sort_A_int=\count285
-\l__sort_B_int=\count286
-\l__sort_C_int=\count287
-\l__tl_analysis_normal_int=\count288
-\l__tl_analysis_index_int=\count289
-\l__tl_analysis_nesting_int=\count290
-\l__tl_analysis_type_int=\count291
-\l__regex_internal_a_int=\count292
-\l__regex_internal_b_int=\count293
-\l__regex_internal_c_int=\count294
-\l__regex_balance_int=\count295
-\l__regex_group_level_int=\count296
-\l__regex_mode_int=\count297
-\c__regex_cs_in_class_mode_int=\count298
-\c__regex_cs_mode_int=\count299
-\l__regex_catcodes_int=\count300
-\l__regex_default_catcodes_int=\count301
-\c__regex_catcode_D_int=\count302
-\c__regex_catcode_S_int=\count303
-\c__regex_catcode_L_int=\count304
-\c__regex_catcode_O_int=\count305
-\c__regex_catcode_A_int=\count306
-\c__regex_all_catcodes_int=\count307
-\l__regex_show_lines_int=\count308
-\l__regex_min_state_int=\count309
-\l__regex_max_state_int=\count310
-\l__regex_left_state_int=\count311
-\l__regex_right_state_int=\count312
-\l__regex_capturing_group_int=\count313
-\l__regex_min_pos_int=\count314
-\l__regex_max_pos_int=\count315
-\l__regex_curr_pos_int=\count316
-\l__regex_start_pos_int=\count317
-\l__regex_success_pos_int=\count318
-\l__regex_curr_char_int=\count319
-\l__regex_curr_catcode_int=\count320
-\l__regex_last_char_int=\count321
-\l__regex_case_changed_char_int=\count322
-\l__regex_curr_state_int=\count323
-\l__regex_step_int=\count324
-\l__regex_min_active_int=\count325
-\l__regex_max_active_int=\count326
-\l__regex_replacement_csnames_int=\count327
-\l__regex_match_count_int=\count328
-\l__regex_min_submatch_int=\count329
-\l__regex_submatch_int=\count330
-\l__regex_zeroth_submatch_int=\count331
-\g__regex_trace_regex_int=\count332
-\c_empty_box=\box35
-\l_tmpa_box=\box36
-\l_tmpb_box=\box37
-\g_tmpa_box=\box38
-\g_tmpb_box=\box39
-\l__box_top_dim=\dimen179
-\l__box_bottom_dim=\dimen180
-\l__box_left_dim=\dimen181
-\l__box_right_dim=\dimen182
-\l__box_top_new_dim=\dimen183
-\l__box_bottom_new_dim=\dimen184
-\l__box_left_new_dim=\dimen185
-\l__box_right_new_dim=\dimen186
-\l__box_internal_box=\box40
-\l__coffin_internal_box=\box41
-\l__coffin_internal_dim=\dimen187
-\l__coffin_offset_x_dim=\dimen188
-\l__coffin_offset_y_dim=\dimen189
-\l__coffin_x_dim=\dimen190
-\l__coffin_y_dim=\dimen191
-\l__coffin_x_prime_dim=\dimen192
-\l__coffin_y_prime_dim=\dimen193
-\c_empty_coffin=\box42
-\l__coffin_aligned_coffin=\box43
-\l__coffin_aligned_internal_coffin=\box44
-\l_tmpa_coffin=\box45
-\l_tmpb_coffin=\box46
-\l__coffin_display_coffin=\box47
-\l__coffin_display_coord_coffin=\box48
-\l__coffin_display_pole_coffin=\box49
-\l__coffin_display_offset_dim=\dimen256
-\l__coffin_display_x_dim=\dimen257
-\l__coffin_display_y_dim=\dimen258
-\g__file_internal_ior=\read2
-\l__coffin_bounding_shift_dim=\dimen259
-\l__coffin_left_corner_dim=\dimen260
-\l__coffin_right_corner_dim=\dimen261
-\l__coffin_bottom_corner_dim=\dimen262
-\l__coffin_top_corner_dim=\dimen263
-\l__coffin_scaled_total_height_dim=\dimen264
-\l__coffin_scaled_width_dim=\dimen265
-\l__seq_internal_a_int=\count333
-\l__seq_internal_b_int=\count334
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2018-11-19 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count335
-)) (/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2018-10-17 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count336
-\g__xparse_grabber_int=\count337
-\l__xparse_m_args_int=\count338
-\l__xparse_mandatory_args_int=\count339
-\l__xparse_v_nesting_int=\count340
-)
+))) (/usr/local/texlive/2016/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2018/11/24 v2.1a 150 paragraphs of Lorem Ipsum dummy text
-)
-(./oxfordthesis.sty
+) (./oxfordthesis.sty
 Package: oxfordthesis 2011/06/18 v0.1 Oxford Thesis
-\toptafiddle=\skip257
-\bottafiddle=\skip258
-\topfiddle=\skip259
-\botfiddle=\skip260
-\linespace=\skip261
+\toptafiddle=\skip262
+\bottafiddle=\skip263
+\topfiddle=\skip264
+\botfiddle=\skip265
+\linespace=\skip266
 
 
 ******************************************************
 Stock height and width: 845.04684pt by 597.50787pt
 Top and edge trims: 0pt and 0pt
 Page height and width: 845.04684pt by 597.50787pt
-Text height and width: 539.94461pt by 426pt
-Spine and edge margins: 99.58464pt and 71.13188pt
-Upper and lower margins: 179.13875pt and 125.96349pt
+Text height and width: 587.93958pt by 435pt
+Spine and edge margins: 91.04872pt and 71.13188pt
+Upper and lower margins: 137.21873pt and 119.88853pt
 Headheight and headsep: 14.5pt and 35.99496pt
 Footskip: 30pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 7pt and 57.13188pt
-Sidecapsep and sidecapwidth: 7pt and 42pt
-Sidebarhsep and sidebarwidth: 7pt and 42pt
+Sidecapsep and sidecapwidth: 7pt and 92pt
+Sidebarhsep and sidebarwidth: 7pt and 92pt
 Sidebarvsep and sidebartopsep: 14.5pt and 0pt
 Sidebarheight: 590.14995pt
-Sidefoothsep and sidefootwidth: 7pt and 42pt
+Sidefoothsep and sidefootwidth: 7pt and 92pt
 Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
 ******************************************************
 
@@ -1048,10 +1102,10 @@ Package: xr 1994/05/28 v5.02 eXternal References (DPC)
 Package: xr-hyper 2000/03/22 v6.00beta4 eXternal References (DPC)
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip262
-\bibsep=\skip263
+\bibhang=\skip267
+\bibsep=\skip268
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count341
+\c@NAT@ctr=\count355
 ) (./metadata.tex) (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
  (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
@@ -1091,15 +1145,15 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen266
-\Hy@linkcounter=\count342
-\Hy@pagecounter=\count343
+\@linkdim=\dimen277
+\Hy@linkcounter=\count356
+\Hy@pagecounter=\count357
  (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count344
+\Hy@SavedSpaceFactor=\count358
  (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
@@ -1123,16 +1177,16 @@ Package hyperref Info: Plain pages OFF on input line 4534.
 Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count345
+\c@Hy@tempcnt=\count359
 (/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen267
-\Fld@menulength=\count346
-\Field@Width=\dimen268
-\Fld@charsize=\dimen269
+\XeTeXLinkMargin=\dimen278
+\Fld@menulength=\count360
+\Field@Width=\dimen279
+\Fld@charsize=\dimen280
 Package hyperref Info: Hyper figures OFF on input line 6380.
 Package hyperref Info: Link nesting OFF on input line 6385.
 Package hyperref Info: Hyper index ON on input line 6388.
@@ -1142,38 +1196,1995 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6405.
 Package hyperref Info: PDF/A mode OFF on input line 6410.
 LaTeX Info: Redefining \ref on input line 6450.
 LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count347
-\c@Item=\count348
+\Hy@abspage=\count361
+\c@Item=\count362
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/memoir/memhfixc.sty
 Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir class
-\c@memhycontfloat=\count349
+\c@memhycontfloat=\count363
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
-\Fld@listcount=\count350
-\c@bookmark@seq@number=\count351
+\Fld@listcount=\count364
+\c@bookmark@seq@number=\count365
  (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
 )
-\Hy@SectionHShift=\skip264
+\Hy@SectionHShift=\skip269
 )
-./main.tex:98: TeX capacity exceeded, sorry [input stack size=5000].
-<to be read again> 
-                   {
-l.98 \include{macros}
-                     
-If you really absolutely need more capacity,
-you can ask a wizard to enlarge me.
+\@input{macros.aux}
+\openout2 = `macros.aux'.
 
- 
+(./macros.tex)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 635.93454pt by 398pt
+Spine and edge margins: 99.58464pt and 99.58464pt
+Upper and lower margins: 99.58464pt and 109.52766pt
+Headheight and headsep: 14.5pt and 35.99496pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 85.58464pt
+Sidecapsep and sidecapwidth: 7pt and 92pt
+Sidebarhsep and sidebarwidth: 7pt and 92pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 590.14995pt
+Sidefoothsep and sidefootwidth: 7pt and 92pt
+Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
+******************************************************
+
+(./main.aux (./abstract.aux) (./acknowledgements.aux) (./chapters/introduction.aux) (./chapters/lava-planets.aux) (./chapters/new-eqm-zonal-flow.aux
+
+LaTeX Warning: Label `eqn:zonal-mean-mom-zeta-no-R' multiply defined.
+
+) (./chapters/new-wave-mean-flow.aux
+
+LaTeX Warning: Label `eqn:sw-eqns-1' multiply defined.
+
+
+LaTeX Warning: Label `eqn:sw-eqns-1' multiply defined.
+
+
+LaTeX Warning: Label `sec:shear-flow-beta-plane' multiply defined.
+
+
+LaTeX Warning: Label `fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `fig:spherical-high-omega' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:spherical-high-omega' multiply defined.
+
+
+LaTeX Warning: Label `fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `fig:spherical-high-omega' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:spherical-high-omega' multiply defined.
+
+
+LaTeX Warning: Label `fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `fig:spherical-high-omega' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:spherical-high-omega' multiply defined.
+
+
+LaTeX Warning: Label `fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `fig:spherical-low-omega' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:spherical-low-omega' multiply defined.
+
+) (./chapters/new-linking-climate-55cnce.aux
+
+LaTeX Warning: Label `fig:free-u-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-u-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-v-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-v-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-h-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-h-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-u-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-u-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-v-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-v-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-h-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-h-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-u-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-u-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-v-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-v-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-h-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-h-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-u-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-u-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-v-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-v-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-h-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-h-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-u-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-u-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-v-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-v-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-h-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-h-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-u-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-u-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-v-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-v-shear' multiply defined.
+
+
+LaTeX Warning: Label `fig:free-h-shear' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:free-h-shear' multiply defined.
+
+) (./chapters/soc-lava-planets.aux
+
+LaTeX Warning: Label `fig:soc-tp-h2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:soc-tp-h2' multiply defined.
+
+
+LaTeX Warning: Label `fig:soc-tp-n2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:soc-tp-n2' multiply defined.
+
+) (./chapters/conclusion.aux) (./appendices.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 121.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 121.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+\footinsdefault=\insert252
+\FN@cache252=\box56
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+ (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count366
+\scratchdimen=\dimen281
+\scratchbox=\box57
+\nofMPsegments=\count367
+\nofMParguments=\count368
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count369
+\MPscratchDim=\dimen282
+\MPnumerator=\count370
+\makeMPintoPDFobject=\count371
+\everyMPtoPDFconversion=\toks33
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) (/usr/local/texlive/2016/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
+)
+LaTeX Info: Redefining \microtypecontext on input line 121.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (/usr/local/texlive/texmf-local/tex/latex/MinionPro/mt-MinionPro.cfg
+File: mt-MinionPro.cfg 2015/01/10 v1.1 microtype config file for MinionPro
+)
+\AtBeginShipoutBox=\box58
+Package hyperref Info: Link coloring ON on input line 121.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+ (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count372
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 121.
+LaTeX Info: Redefining \ref on input line 121.
+LaTeX Info: Redefining \pageref on input line 121.
+LaTeX Info: Redefining \nameref on input line 121.
+(./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+LaTeX Font Info:    Try loading font information for T1+MinionPro-OsF on input line 121.
+ (/usr/local/texlive/texmf-local/tex/latex/MinionPro/T1MinionPro-OsF.fd
+File: T1MinionPro-OsF.fd 2005/01/23 v2.0 font definitions for T1/MinionPro-OsF.
+ (/usr/local/texlive/texmf-local/tex/latex/MinionPro/MinionPro-FontDef.sty
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+))
+LaTeX Font Info:    Try loading font information for OML+MinionPro-TOsF on input line 121.
+ (/usr/local/texlive/texmf-local/tex/latex/MinionPro/OMLMinionPro-TOsF.fd
+File: OMLMinionPro-TOsF.fd 2005/01/23 v2.0 font definitions for OML/MinionPro-TOsF.
+ (/usr/local/texlive/texmf-local/tex/latex/MinionPro/MinionPro-FontDef.sty
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 121.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 121.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/MinionPro-OsF/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/MinionPro-OsF/b/n' tried instead on input line 123.
+<graphics/ox-logo-cmyk.pdf, id=188, 393.65547pt x 393.65547pt>
+File: graphics/ox-logo-cmyk.pdf Graphic file (type pdf)
+<use graphics/ox-logo-cmyk.pdf>
+Package pdftex.def Info: graphics/ox-logo-cmyk.pdf  used on input line 123.
+(pdftex.def)             Requested size: 199.16928pt x 199.17586pt.
+ [1
+
+
+
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./graphics/ox-logo-cmyk.pdf>] [2
+
+
+]
+\openout2 = `abstract.aux'.
+
+ (./abstract.tex
+LaTeX Font Info:    Font shape `OT1/MinionPro-OsF/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/MinionPro-OsF/b/n' tried instead on input line 1.
+) [1
+
+
+] [2
+
+
+]
+\openout2 = `acknowledgements.aux'.
+
+ (./acknowledgements.tex) [3
+
+] [4
+
+
+] (./main.toc
+LaTeX Font Info:    Font shape `OT1/MinionPro-OsF/bx/n' in size <12> not available
+(Font)              Font shape `OT1/MinionPro-OsF/b/n' tried instead on input line 2.
+ [5
+
+]) [6]
+\openout2 = `chapters/introduction.aux'.
+
+ (./chapters/introduction.tex
+LaTeX Font Info:    Try loading font information for OT1+zi4 on input line 11.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/inconsolata/ot1zi4.fd
+File: ot1zi4.fd 2018/01/14 OT1/zi4 (Inconsolata)
+)
+LaTeX Font Info:    Font shape `OT1/zi4/m/n' will be
+(Font)              scaled to size 10.0pt on input line 11.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zi4' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+<figures/introduction/tide-locked-population.pdf, id=293, 722.7pt x 505.89pt>
+File: figures/introduction/tide-locked-population.pdf Graphic file (type pdf)
+<use figures/introduction/tide-locked-population.pdf>
+Package pdftex.def Info: figures/introduction/tide-locked-population.pdf  used on input line 16.
+(pdftex.def)             Requested size: 398.0pt x 278.60315pt.
+
+Underfull \vbox (badness 3148) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.24 
+      [1
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.28 
+      [2 <./figures/introduction/tide-locked-population.pdf>] [3]) [4]
+\openout2 = `chapters/lava-planets.aux'.
+
+ (./chapters/lava-planets.tex
+LaTeX Font Info:    Font shape `OT1/MinionPro-OsF/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/MinionPro-OsF/b/n' tried instead on input line 13.
+
+Underfull \vbox (badness 3078) has occurred while \output is active []
+
+ [5
+
+
+
+]
+<figures/lit-review/planet-population.pdf, id=387, 722.7pt x 505.89pt>
+File: figures/lit-review/planet-population.pdf Graphic file (type pdf)
+<use figures/lit-review/planet-population.pdf>
+Package pdftex.def Info: figures/lit-review/planet-population.pdf  used on input line 23.
+(pdftex.def)             Requested size: 398.0pt x 278.60315pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./figures/lit-review/planet-population.pdf>]
+Underfull \vbox (badness 6526) has occurred while \output is active []
+
+ [7] [8] [9]
+Underfull \vbox (badness 4279) has occurred while \output is active []
+
+ [10]
+<figures/lit-review/leconte-tl.jpg, id=492, 308.352pt x 294.6207pt>
+File: figures/lit-review/leconte-tl.jpg Graphic file (type jpg)
+<use figures/lit-review/leconte-tl.jpg>
+Package pdftex.def Info: figures/lit-review/leconte-tl.jpg  used on input line 77.
+(pdftex.def)             Requested size: 238.80243pt x 228.17133pt.
+ [11 <./figures/lit-review/leconte-tl.jpg>]
+<figures/linking-climate-55cnce/demory-phase-curve.jpg, id=528, 929.4725pt x 473.77pt>
+File: figures/linking-climate-55cnce/demory-phase-curve.jpg Graphic file (type jpg)
+<use figures/linking-climate-55cnce/demory-phase-curve.jpg>
+Package pdftex.def Info: figures/linking-climate-55cnce/demory-phase-curve.jpg  used on input line 101.
+(pdftex.def)             Requested size: 278.59879pt x 142.00197pt.
+LaTeX Font Info:    Try loading font information for TS1+MinionPro-OsF on input line 102.
+ (/usr/local/texlive/texmf-local/tex/latex/MinionPro/TS1MinionPro-OsF.fd
+File: TS1MinionPro-OsF.fd 2005/01/23 v2.0 font definitions for TS1/MinionPro-OsF.
+ (/usr/local/texlive/texmf-local/tex/latex/MinionPro/MinionPro-FontDef.sty
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+))
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `MinionPro-OsF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \vbox (badness 2165) has occurred while \output is active []
+
+ [12 <./figures/linking-climate-55cnce/demory-phase-curve.jpg>]
+<figures/linking-climate-55cnce/demory-temp-maps.jpg, id=558, 929.4725pt x 231.86626pt>
+File: figures/linking-climate-55cnce/demory-temp-maps.jpg Graphic file (type jpg)
+<use figures/linking-climate-55cnce/demory-temp-maps.jpg>
+Package pdftex.def Info: figures/linking-climate-55cnce/demory-temp-maps.jpg  used on input line 110.
+(pdftex.def)             Requested size: 378.09879pt x 94.31926pt.
+ [13 <./figures/linking-climate-55cnce/demory-temp-maps.jpg>] [14] [15] [16]
+<figures/lit-review/ar_mediumT_10day.pdf, id=714, 590.39284pt x 386.52612pt>
+File: figures/lit-review/ar_mediumT_10day.pdf Graphic file (type pdf)
+<use figures/lit-review/ar_mediumT_10day.pdf>
+Package pdftex.def Info: figures/lit-review/ar_mediumT_10day.pdf  used on input line 168.
+(pdftex.def)             Requested size: 258.69757pt x 169.37016pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+Underfull \vbox (badness 3590) has occurred while \output is active []
+
+ [18 <./figures/lit-review/ar_mediumT_10day.pdf>]) [19]
+\openout2 = `chapters/new-eqm-zonal-flow.aux'.
+
+ (./chapters/new-eqm-zonal-flow.tex [20
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21] [22]
+<figures/eqm-zonal-flow/beta-plane-free-rossby.pdf, id=861, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/beta-plane-free-rossby.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/beta-plane-free-rossby.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/beta-plane-free-rossby.pdf  used on input line 94.
+(pdftex.def)             Requested size: 195.02219pt x 111.44391pt.
+<figures/eqm-zonal-flow/beta-plane-free-kelvin.pdf, id=862, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/beta-plane-free-kelvin.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/beta-plane-free-kelvin.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/beta-plane-free-kelvin.pdf  used on input line 100.
+(pdftex.def)             Requested size: 195.02219pt x 111.44391pt.
+
+Underfull \vbox (badness 2790) has occurred while \output is active []
+
+ [23] [24 <./figures/eqm-zonal-flow/beta-plane-free-rossby.pdf> <./figures/eqm-zonal-flow/beta-plane-free-kelvin.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/beta-plane-free-kelvin.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/eqm-zonal-flow/beta-plane-forced.pdf, id=955, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/beta-plane-forced.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/beta-plane-forced.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/beta-plane-forced.pdf  used on input line 152.
+(pdftex.def)             Requested size: 258.69757pt x 147.83025pt.
+
+Underfull \hbox (badness 1097) in paragraph at lines 153--153
+[]\OT1/MinionPro-OsF/m/n/12 (+20) Figure 3.2: |Non-dimensional re-sponse of Equa-tion [][]3.3[][] to forc-ing $\OML/MinionPro-TOsF/m/it/12 Q\OMX/MnSymbolE/m/n/12 à\OML/MinionPro-TOsF/m/it/12 x; y\OMX/MnSymbolE/m/n/12 ç \U/MnSymbolD/m/n/12 ^^@
+ []
+
+
+Underfull \vbox (badness 2111) has occurred while \output is active []
+
+ [25 <./figures/eqm-zonal-flow/beta-plane-forced.pdf>]
+<figures/eqm-zonal-flow/beta-fluxes-no-R.pdf, id=1012, 571.59213pt x 209.59023pt>
+File: figures/eqm-zonal-flow/beta-fluxes-no-R.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/beta-fluxes-no-R.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/beta-fluxes-no-R.pdf  used on input line 170.
+(pdftex.def)             Requested size: 398.0pt x 145.94461pt.
+
+Underfull \vbox (badness 4582) has occurred while \output is active []
+
+ [26 <./figures/eqm-zonal-flow/beta-fluxes-no-R.pdf>]
+Underfull \vbox (badness 1484) has occurred while \output is active []
+
+ [27]
+<figures/eqm-zonal-flow/beta-fluxes.pdf, id=1266, 576.17241pt x 213.3197pt>
+File: figures/eqm-zonal-flow/beta-fluxes.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/beta-fluxes.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/beta-fluxes.pdf  used on input line 209.
+(pdftex.def)             Requested size: 398.0pt x 147.35675pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28 <./figures/eqm-zonal-flow/beta-fluxes.pdf>]
+Underfull \vbox (badness 6364) has occurred while \output is active []
+
+ [29]
+Underfull \vbox (badness 6526) has occurred while \output is active []
+
+ [30]
+<figures/eqm-zonal-flow/gierasch-tl.pdf, id=1440, 503.55476pt x 286.26697pt>
+File: figures/eqm-zonal-flow/gierasch-tl.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/gierasch-tl.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/gierasch-tl.pdf  used on input line 288.
+(pdftex.def)             Requested size: 298.5pt x 169.69975pt.
+
+Underfull \vbox (badness 6110) has occurred while \output is active []
+
+ [31 <./figures/eqm-zonal-flow/gierasch-tl.pdf>] [32]
+<figures/eqm-zonal-flow/beta-fluxes-plus-merid.pdf, id=1510, 577.97597pt x 213.31973pt>
+File: figures/eqm-zonal-flow/beta-fluxes-plus-merid.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/beta-fluxes-plus-merid.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/beta-fluxes-plus-merid.pdf  used on input line 350.
+(pdftex.def)             Requested size: 398.0pt x 146.89456pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33 <./figures/eqm-zonal-flow/beta-fluxes-plus-merid.pdf>]
+LaTeX Font Info:    Font shape `OT1/zi4/m/n' will be
+(Font)              scaled to size 7.0pt on input line 383.
+LaTeX Font Info:    Font shape `OT1/zi4/m/n' will be
+(Font)              scaled to size 5.0pt on input line 383.
+ [34]
+<figures/eqm-zonal-flow/test-A-h.pdf, id=1600, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/test-A-h.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/test-A-h.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/test-A-h.pdf  used on input line 410.
+(pdftex.def)             Requested size: 206.9617pt x 118.2633pt.
+<figures/eqm-zonal-flow/test-A-u-v.pdf, id=1601, 397.485pt x 267.39899pt>
+File: figures/eqm-zonal-flow/test-A-u-v.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/test-A-u-v.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/test-A-u-v.pdf  used on input line 416.
+(pdftex.def)             Requested size: 187.06049pt x 125.84482pt.
+<figures/eqm-zonal-flow/test-B-h.pdf, id=1602, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/test-B-h.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/test-B-h.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/test-B-h.pdf  used on input line 425.
+(pdftex.def)             Requested size: 206.9617pt x 118.2633pt.
+<figures/eqm-zonal-flow/test-B-u-v.pdf, id=1603, 397.485pt x 267.39899pt>
+File: figures/eqm-zonal-flow/test-B-u-v.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/test-B-u-v.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/test-B-u-v.pdf  used on input line 431.
+(pdftex.def)             Requested size: 187.06049pt x 125.84482pt.
+<figures/eqm-zonal-flow/test-C-h.pdf, id=1604, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/test-C-h.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/test-C-h.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/test-C-h.pdf  used on input line 440.
+(pdftex.def)             Requested size: 206.9617pt x 118.2633pt.
+<figures/eqm-zonal-flow/test-C-u-v.pdf, id=1605, 397.485pt x 267.39899pt>
+File: figures/eqm-zonal-flow/test-C-u-v.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/test-C-u-v.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/test-C-u-v.pdf  used on input line 446.
+(pdftex.def)             Requested size: 187.06049pt x 125.84482pt.
+ [35] [36 <./figures/eqm-zonal-flow/test-A-h.pdf> <./figures/eqm-zonal-flow/test-A-u-v.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/test-A-u-v.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/test-B-h.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/test-B-h.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/test-B-u-v.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/test-B-u-v.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/test-C-h.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/test-C-h.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/test-C-u-v.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/test-C-u-v.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [37]
+Underfull \vbox (badness 1616) has occurred while \output is active []
+
+ [38] [39]
+<figures/eqm-zonal-flow/nonlin-balance.pdf, id=1868, 580.52951pt x 226.67307pt>
+File: figures/eqm-zonal-flow/nonlin-balance.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/nonlin-balance.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/nonlin-balance.pdf  used on input line 540.
+(pdftex.def)             Requested size: 398.0pt x 155.40845pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40 <./figures/eqm-zonal-flow/nonlin-balance.pdf>]
+Underfull \vbox (badness 2707) has occurred while \output is active []
+
+ [41]
+<figures/eqm-zonal-flow/default-gcm-temp.pdf, id=1938, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/default-gcm-temp.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/default-gcm-temp.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/default-gcm-temp.pdf  used on input line 599.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/eqm-zonal-flow/default-gcm-zonal-flow.pdf, id=1939, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/default-gcm-zonal-flow.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/default-gcm-zonal-flow.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/default-gcm-zonal-flow.pdf  used on input line 604.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/eqm-zonal-flow/default-gcm-axi-temp.pdf, id=1940, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/default-gcm-axi-temp.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/default-gcm-axi-temp.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/default-gcm-axi-temp.pdf  used on input line 614.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/eqm-zonal-flow/default-gcm-axi-zonal-flow.pdf, id=1941, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/default-gcm-axi-zonal-flow.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/default-gcm-axi-zonal-flow.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/default-gcm-axi-zonal-flow.pdf  used on input line 619.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42 <./figures/eqm-zonal-flow/default-gcm-temp.pdf> <./figures/eqm-zonal-flow/default-gcm-zonal-flow.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/default-gcm-zonal-flow.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/default-gcm-axi-temp.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/default-gcm-axi-temp.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/default-gcm-axi-zonal-flow.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/default-gcm-axi-zonal-flow.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/eqm-zonal-flow/zonal-wind-map-tide-day1.pdf, id=2228, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/zonal-wind-map-tide-day1.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/zonal-wind-map-tide-day1.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/zonal-wind-map-tide-day1.pdf  used on input line 646.
+(pdftex.def)             Requested size: 123.37903pt x 70.501pt.
+<figures/eqm-zonal-flow/zonal-wind-tide-day1.pdf, id=2229, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/zonal-wind-tide-day1.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/zonal-wind-tide-day1.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/zonal-wind-tide-day1.pdf  used on input line 651.
+(pdftex.def)             Requested size: 123.37903pt x 70.501pt.
+<figures/eqm-zonal-flow/streamfunction-tide-day1.pdf, id=2230, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/streamfunction-tide-day1.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/streamfunction-tide-day1.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/streamfunction-tide-day1.pdf  used on input line 656.
+(pdftex.def)             Requested size: 123.37903pt x 70.501pt.
+<figures/eqm-zonal-flow/zonal-wind-map-axi-day1.pdf, id=2231, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/zonal-wind-map-axi-day1.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/zonal-wind-map-axi-day1.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/zonal-wind-map-axi-day1.pdf  used on input line 661.
+(pdftex.def)             Requested size: 123.37903pt x 70.501pt.
+<figures/eqm-zonal-flow/zonal-wind-axi-day1.pdf, id=2232, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/zonal-wind-axi-day1.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/zonal-wind-axi-day1.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/zonal-wind-axi-day1.pdf  used on input line 666.
+(pdftex.def)             Requested size: 123.37903pt x 70.501pt.
+<figures/eqm-zonal-flow/streamfunction-axi-day1.pdf, id=2233, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/streamfunction-axi-day1.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/streamfunction-axi-day1.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/streamfunction-axi-day1.pdf  used on input line 671.
+(pdftex.def)             Requested size: 123.37903pt x 70.501pt.
+ [43] [44 <./figures/eqm-zonal-flow/zonal-wind-map-tide-day1.pdf> <./figures/eqm-zonal-flow/zonal-wind-tide-day1.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/zonal-wind-tide-day1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/streamfunction-tide-day1.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/streamfunction-tide-day1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/zonal-wind-map-axi-day1.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/zonal-wind-map-axi-day1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/zonal-wind-axi-day1.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/zonal-wind-axi-day1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/streamfunction-axi-day1.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/streamfunction-axi-day1.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/eqm-zonal-flow/global-m.pdf, id=2473, 505.89pt x 361.35pt>
+File: figures/eqm-zonal-flow/global-m.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/global-m.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/global-m.pdf  used on input line 711.
+(pdftex.def)             Requested size: 191.0383pt x 136.45428pt.
+<figures/eqm-zonal-flow/jet-layer-m.pdf, id=2474, 505.89pt x 361.35pt>
+File: figures/eqm-zonal-flow/jet-layer-m.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/jet-layer-m.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/jet-layer-m.pdf  used on input line 716.
+(pdftex.def)             Requested size: 191.0383pt x 136.45428pt.
+File: figures/eqm-zonal-flow/zonal-wind-tide-day1.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/zonal-wind-tide-day1.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/zonal-wind-tide-day1.pdf  used on input line 733.
+(pdftex.def)             Requested size: 123.37903pt x 70.501pt.
+<figures/eqm-zonal-flow/tl-zonal-u-5day.pdf, id=2481, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/tl-zonal-u-5day.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/tl-zonal-u-5day.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/tl-zonal-u-5day.pdf  used on input line 738.
+(pdftex.def)             Requested size: 123.37903pt x 70.501pt.
+File: figures/eqm-zonal-flow/default-gcm-zonal-flow.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/default-gcm-zonal-flow.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/default-gcm-zonal-flow.pdf  used on input line 743.
+(pdftex.def)             Requested size: 123.37903pt x 70.501pt.
+File: figures/eqm-zonal-flow/zonal-wind-axi-day1.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/zonal-wind-axi-day1.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/zonal-wind-axi-day1.pdf  used on input line 753.
+(pdftex.def)             Requested size: 123.37903pt x 70.501pt.
+<figures/eqm-zonal-flow/axi-zonal-u-5day.pdf, id=2482, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/axi-zonal-u-5day.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/axi-zonal-u-5day.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/axi-zonal-u-5day.pdf  used on input line 758.
+(pdftex.def)             Requested size: 123.37903pt x 70.501pt.
+File: figures/eqm-zonal-flow/default-gcm-axi-zonal-flow.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/default-gcm-axi-zonal-flow.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/default-gcm-axi-zonal-flow.pdf  used on input line 763.
+(pdftex.def)             Requested size: 123.37903pt x 70.501pt.
+
+Underfull \vbox (badness 1762) has occurred while \output is active []
+
+ [45 <./figures/eqm-zonal-flow/global-m.pdf> <./figures/eqm-zonal-flow/jet-layer-m.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/jet-layer-m.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 2932) has occurred while \output is active []
+
+ [46 <./figures/eqm-zonal-flow/tl-zonal-u-5day.pdf> <./figures/eqm-zonal-flow/axi-zonal-u-5day.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/axi-zonal-u-5day.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [47]
+<figures/eqm-zonal-flow/0_flux.pdf, id=2666, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/0_flux.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/0_flux.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/0_flux.pdf  used on input line 803.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/eqm-zonal-flow/1_flux.pdf, id=2667, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/1_flux.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/1_flux.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/1_flux.pdf  used on input line 808.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/eqm-zonal-flow/2_flux.pdf, id=2668, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/2_flux.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/2_flux.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/2_flux.pdf  used on input line 813.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/eqm-zonal-flow/3_flux.pdf, id=2669, 505.89pt x 289.08pt>
+File: figures/eqm-zonal-flow/3_flux.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/3_flux.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/3_flux.pdf  used on input line 818.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+ [48 <./figures/eqm-zonal-flow/0_flux.pdf> <./figures/eqm-zonal-flow/1_flux.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/1_flux.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/2_flux.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/2_flux.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/3_flux.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/3_flux.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/eqm-zonal-flow/accn-terms-jet-level.pdf, id=2825, 577.0467pt x 223.78606pt>
+File: figures/eqm-zonal-flow/accn-terms-jet-level.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/accn-terms-jet-level.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/accn-terms-jet-level.pdf  used on input line 851.
+(pdftex.def)             Requested size: 358.19757pt x 138.91666pt.
+ [49 <./figures/eqm-zonal-flow/accn-terms-jet-level.pdf>]
+<figures/eqm-zonal-flow/u_Q_scaling.pdf, id=2886, 462.52798pt x 346.89601pt>
+File: figures/eqm-zonal-flow/u_Q_scaling.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/u_Q_scaling.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/u_Q_scaling.pdf  used on input line 885.
+(pdftex.def)             Requested size: 318.40121pt x 238.8133pt.
+ [50]
+Underfull \vbox (badness 2828) has occurred while \output is active []
+
+ [51 <./figures/eqm-zonal-flow/u_Q_scaling.pdf>]
+<figures/eqm-zonal-flow/wind-hot-10.pdf, id=2947, 722.7pt x 505.89pt>
+File: figures/eqm-zonal-flow/wind-hot-10.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/wind-hot-10.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/wind-hot-10.pdf  used on input line 921.
+(pdftex.def)             Requested size: 127.36292pt x 89.14961pt.
+<figures/eqm-zonal-flow/wind-med-10.pdf, id=2948, 722.7pt x 505.89pt>
+File: figures/eqm-zonal-flow/wind-med-10.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/wind-med-10.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/wind-med-10.pdf  used on input line 925.
+(pdftex.def)             Requested size: 127.36292pt x 89.14961pt.
+<figures/eqm-zonal-flow/wind-cold-10.pdf, id=2949, 722.7pt x 505.89pt>
+File: figures/eqm-zonal-flow/wind-cold-10.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/wind-cold-10.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/wind-cold-10.pdf  used on input line 929.
+(pdftex.def)             Requested size: 127.36292pt x 89.14961pt.
+<figures/eqm-zonal-flow/wind-hot-5.pdf, id=2950, 722.7pt x 505.89pt>
+File: figures/eqm-zonal-flow/wind-hot-5.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/wind-hot-5.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/wind-hot-5.pdf  used on input line 934.
+(pdftex.def)             Requested size: 127.36292pt x 89.14961pt.
+<figures/eqm-zonal-flow/wind-med-5.pdf, id=2951, 722.7pt x 505.89pt>
+File: figures/eqm-zonal-flow/wind-med-5.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/wind-med-5.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/wind-med-5.pdf  used on input line 938.
+(pdftex.def)             Requested size: 127.36292pt x 89.14961pt.
+<figures/eqm-zonal-flow/wind-cold-5.pdf, id=2952, 722.7pt x 505.89pt>
+File: figures/eqm-zonal-flow/wind-cold-5.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/wind-cold-5.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/wind-cold-5.pdf  used on input line 942.
+(pdftex.def)             Requested size: 127.36292pt x 89.14961pt.
+<figures/eqm-zonal-flow/wind-hot-2.pdf, id=2953, 722.7pt x 505.89pt>
+File: figures/eqm-zonal-flow/wind-hot-2.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/wind-hot-2.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/wind-hot-2.pdf  used on input line 947.
+(pdftex.def)             Requested size: 127.36292pt x 89.14961pt.
+<figures/eqm-zonal-flow/wind-med-2.pdf, id=2954, 722.7pt x 505.89pt>
+File: figures/eqm-zonal-flow/wind-med-2.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/wind-med-2.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/wind-med-2.pdf  used on input line 951.
+(pdftex.def)             Requested size: 127.36292pt x 89.14961pt.
+<figures/eqm-zonal-flow/wind-cold-2.pdf, id=2955, 722.7pt x 505.89pt>
+File: figures/eqm-zonal-flow/wind-cold-2.pdf Graphic file (type pdf)
+<use figures/eqm-zonal-flow/wind-cold-2.pdf>
+Package pdftex.def Info: figures/eqm-zonal-flow/wind-cold-2.pdf  used on input line 955.
+(pdftex.def)             Requested size: 127.36292pt x 89.14961pt.
+ [52 <./figures/eqm-zonal-flow/wind-hot-10.pdf> <./figures/eqm-zonal-flow/wind-med-10.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/wind-med-10.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/wind-cold-10.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/wind-cold-10.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/wind-hot-5.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/wind-hot-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/wind-med-5.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/wind-med-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/wind-cold-5.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/wind-cold-5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/wind-hot-2.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/wind-hot-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/wind-med-2.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/wind-med-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/eqm-zonal-flow/wind-cold-2.pdf
+
+pdfTeX warning: pdflatex (file ./figures/eqm-zonal-flow/wind-cold-2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [53] [54]) [55]
+\openout2 = `chapters/new-wave-mean-flow.aux'.
+
+ (./chapters/new-wave-mean-flow.tex [56
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57]
+Underfull \vbox (badness 1102) has occurred while \output is active []
+
+ [58] [59]
+<figures/wave-mean-flow/beta-damping.pdf, id=3872, 505.89pt x 289.08pt>
+File: figures/wave-mean-flow/beta-damping.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/beta-damping.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/beta-damping.pdf  used on input line 95.
+(pdftex.def)             Requested size: 119.40121pt x 68.22934pt.
+<figures/wave-mean-flow/beta-eigenvalue.pdf, id=3873, 505.89pt x 289.08pt>
+File: figures/wave-mean-flow/beta-eigenvalue.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/beta-eigenvalue.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/beta-eigenvalue.pdf  used on input line 101.
+(pdftex.def)             Requested size: 119.40121pt x 68.22934pt.
+<figures/wave-mean-flow/beta-flow.pdf, id=3874, 505.89pt x 289.08pt>
+File: figures/wave-mean-flow/beta-flow.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/beta-flow.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/beta-flow.pdf  used on input line 107.
+(pdftex.def)             Requested size: 119.40121pt x 68.22934pt.
+ [60]
+Underfull \vbox (badness 7740) has occurred while \output is active []
+
+ [61 <./figures/wave-mean-flow/beta-damping.pdf> <./figures/wave-mean-flow/beta-eigenvalue.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/beta-eigenvalue.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/beta-flow.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/beta-flow.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 5862) has occurred while \output is active []
+
+ [62]
+<figures/wave-mean-flow/shear-flow-eval-shift.pdf, id=4012, 578.16pt x 525.965pt>
+File: figures/wave-mean-flow/shear-flow-eval-shift.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/shear-flow-eval-shift.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/shear-flow-eval-shift.pdf  used on input line 202.
+(pdftex.def)             Requested size: 218.90121pt x 199.13844pt.
+<figures/wave-mean-flow/free-u-shear-kelvin.pdf, id=4015, 361.35pt x 242.9075pt>
+File: figures/wave-mean-flow/free-u-shear-kelvin.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/free-u-shear-kelvin.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/free-u-shear-kelvin.pdf  used on input line 209.
+(pdftex.def)             Requested size: 127.36292pt x 85.61563pt.
+<figures/wave-mean-flow/free-v-shear-kelvin.pdf, id=4016, 361.35pt x 238.8925pt>
+File: figures/wave-mean-flow/free-v-shear-kelvin.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/free-v-shear-kelvin.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/free-v-shear-kelvin.pdf  used on input line 215.
+(pdftex.def)             Requested size: 127.36292pt x 84.2005pt.
+<figures/wave-mean-flow/free-h-shear-kelvin.pdf, id=4017, 361.35pt x 242.9075pt>
+File: figures/wave-mean-flow/free-h-shear-kelvin.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/free-h-shear-kelvin.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/free-h-shear-kelvin.pdf  used on input line 221.
+(pdftex.def)             Requested size: 127.36292pt x 85.61563pt.
+<figures/wave-mean-flow/free-u-shear.pdf, id=4022, 361.35pt x 241.90375pt>
+File: figures/wave-mean-flow/free-u-shear.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/free-u-shear.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/free-u-shear.pdf  used on input line 235.
+(pdftex.def)             Requested size: 127.36292pt x 85.26184pt.
+<figures/wave-mean-flow/free-v-shear.pdf, id=4023, 361.35pt x 235.88126pt>
+File: figures/wave-mean-flow/free-v-shear.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/free-v-shear.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/free-v-shear.pdf  used on input line 241.
+(pdftex.def)             Requested size: 127.36292pt x 83.13914pt.
+<figures/wave-mean-flow/free-h-shear.pdf, id=4024, 361.35pt x 242.9075pt>
+File: figures/wave-mean-flow/free-h-shear.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/free-h-shear.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/free-h-shear.pdf  used on input line 247.
+(pdftex.def)             Requested size: 127.36292pt x 85.61563pt.
+
+
+LaTeX Warning: Float too large for page by 4.42154pt on input line 254.
+
+[63] [64 <./figures/wave-mean-flow/shear-flow-eval-shift.pdf> <./figures/wave-mean-flow/free-u-shear-kelvin.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/free-u-shear-kelvin.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/free-v-shear-kelvin.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/free-v-shear-kelvin.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/free-h-shear-kelvin.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/free-h-shear-kelvin.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/free-u-shear.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/free-u-shear.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/free-v-shear.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/free-v-shear.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/free-h-shear.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/free-h-shear.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [65]
+<figures/wave-mean-flow/example-gcm-results.pdf, id=4181, 595.9762pt x 379.2991pt>
+File: figures/wave-mean-flow/example-gcm-results.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/example-gcm-results.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/example-gcm-results.pdf  used on input line 299.
+(pdftex.def)             Requested size: 278.59879pt x 177.30984pt.
+ [66 <./figures/wave-mean-flow/example-gcm-results.pdf>]
+<figures/wave-mean-flow/ps-no-flow.png, id=4234, 501.7947pt x 315.0972pt>
+File: figures/wave-mean-flow/ps-no-flow.png Graphic file (type png)
+<use figures/wave-mean-flow/ps-no-flow.png>
+Package pdftex.def Info: figures/wave-mean-flow/ps-no-flow.png  used on input line 344.
+(pdftex.def)             Requested size: 191.0383pt x 119.95934pt.
+<figures/wave-mean-flow/ps-shear-flow.png, id=4239, 501.7947pt x 311.4837pt>
+File: figures/wave-mean-flow/ps-shear-flow.png Graphic file (type png)
+<use figures/wave-mean-flow/ps-shear-flow.png>
+Package pdftex.def Info: figures/wave-mean-flow/ps-shear-flow.png  used on input line 350.
+(pdftex.def)             Requested size: 191.0383pt x 118.58366pt.
+ [67]
+Underfull \vbox (badness 7613) has occurred while \output is active []
+
+ [68 <./figures/wave-mean-flow/ps-no-flow.png (PNG copy)> <./figures/wave-mean-flow/ps-shear-flow.png (PNG copy)>]
+<figures/wave-mean-flow/zero-alpha-dyn-zero-flow.png, id=4279, 501.7947pt x 316.5426pt>
+File: figures/wave-mean-flow/zero-alpha-dyn-zero-flow.png Graphic file (type png)
+<use figures/wave-mean-flow/zero-alpha-dyn-zero-flow.png>
+Package pdftex.def Info: figures/wave-mean-flow/zero-alpha-dyn-zero-flow.png  used on input line 379.
+(pdftex.def)             Requested size: 191.0383pt x 120.50961pt.
+<figures/wave-mean-flow/zero-alpha-dyn-1-flow.png, id=4280, 501.7947pt x 316.5426pt>
+File: figures/wave-mean-flow/zero-alpha-dyn-1-flow.png Graphic file (type png)
+<use figures/wave-mean-flow/zero-alpha-dyn-1-flow.png>
+Package pdftex.def Info: figures/wave-mean-flow/zero-alpha-dyn-1-flow.png  used on input line 385.
+(pdftex.def)             Requested size: 191.0383pt x 120.50961pt.
+ [69 <./figures/wave-mean-flow/zero-alpha-dyn-zero-flow.png (PNG copy)> <./figures/wave-mean-flow/zero-alpha-dyn-1-flow.png (PNG copy)>]
+<figures/wave-mean-flow/expl-non-shifted-matsuno.png, id=4293, 448.074pt x 339.669pt>
+File: figures/wave-mean-flow/expl-non-shifted-matsuno.png Graphic file (type png)
+<use figures/wave-mean-flow/expl-non-shifted-matsuno.png>
+Package pdftex.def Info: figures/wave-mean-flow/expl-non-shifted-matsuno.png  used on input line 412.
+(pdftex.def)             Requested size: 191.0383pt x 144.82127pt.
+<figures/wave-mean-flow/expl-shifted-matsuno.png, id=4294, 448.074pt x 339.669pt>
+File: figures/wave-mean-flow/expl-shifted-matsuno.png Graphic file (type png)
+<use figures/wave-mean-flow/expl-shifted-matsuno.png>
+Package pdftex.def Info: figures/wave-mean-flow/expl-shifted-matsuno.png  used on input line 418.
+(pdftex.def)             Requested size: 191.0383pt x 144.82127pt.
+<figures/wave-mean-flow/expl-phibar.png, id=4295, 448.074pt x 339.669pt>
+File: figures/wave-mean-flow/expl-phibar.png Graphic file (type png)
+<use figures/wave-mean-flow/expl-phibar.png>
+Package pdftex.def Info: figures/wave-mean-flow/expl-phibar.png  used on input line 424.
+(pdftex.def)             Requested size: 191.0383pt x 144.82127pt.
+<figures/wave-mean-flow/expl-plot-total.png, id=4296, 448.074pt x 339.669pt>
+File: figures/wave-mean-flow/expl-plot-total.png Graphic file (type png)
+<use figures/wave-mean-flow/expl-plot-total.png>
+Package pdftex.def Info: figures/wave-mean-flow/expl-plot-total.png  used on input line 430.
+(pdftex.def)             Requested size: 191.0383pt x 144.82127pt.
+ [70] [71 <./figures/wave-mean-flow/expl-non-shifted-matsuno.png (PNG copy)> <./figures/wave-mean-flow/expl-shifted-matsuno.png (PNG copy)> <./figures/wave-mean-flow/expl-phibar.png (PNG copy)> <./figures/wave-mean-flow/expl-plot-total.png (PNG copy)>]
+Underfull \vbox (badness 4726) has occurred while \output is active []
+
+ [72]
+Underfull \vbox (badness 1112) has occurred while \output is active []
+
+ [73]
+<figures/wave-mean-flow/new-sphere-non-shifted.pdf, id=4363, 505.89pt x 289.08pt>
+File: figures/wave-mean-flow/new-sphere-non-shifted.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/new-sphere-non-shifted.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/new-sphere-non-shifted.pdf  used on input line 533.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/wave-mean-flow/new-sphere-shifted.pdf, id=4368, 505.89pt x 289.08pt>
+File: figures/wave-mean-flow/new-sphere-shifted.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/new-sphere-shifted.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/new-sphere-shifted.pdf  used on input line 539.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+ [74] [75 <./figures/wave-mean-flow/new-sphere-non-shifted.pdf> <./figures/wave-mean-flow/new-sphere-shifted.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/new-sphere-shifted.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/wave-mean-flow/spherical-low-F.pdf, id=4480, 505.89pt x 289.08pt>
+File: figures/wave-mean-flow/spherical-low-F.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/spherical-low-F.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/spherical-low-F.pdf  used on input line 609.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/wave-mean-flow/spherical-high-F.pdf, id=4481, 505.89pt x 289.08pt>
+File: figures/wave-mean-flow/spherical-high-F.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/spherical-high-F.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/spherical-high-F.pdf  used on input line 615.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+ [76]
+Underfull \vbox (badness 6658) has occurred while \output is active []
+
+ [77 <./figures/wave-mean-flow/spherical-low-F.pdf> <./figures/wave-mean-flow/spherical-high-F.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/spherical-high-F.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/wave-mean-flow/spherical-low-damp.pdf, id=4569, 505.89pt x 289.08pt>
+File: figures/wave-mean-flow/spherical-low-damp.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/spherical-low-damp.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/spherical-low-damp.pdf  used on input line 637.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/wave-mean-flow/spherical-high-damp.pdf, id=4570, 505.89pt x 289.08pt>
+File: figures/wave-mean-flow/spherical-high-damp.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/spherical-high-damp.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/spherical-high-damp.pdf  used on input line 643.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/wave-mean-flow/spherical-low-omega.pdf, id=4571, 505.89pt x 289.08pt>
+File: figures/wave-mean-flow/spherical-low-omega.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/spherical-low-omega.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/spherical-low-omega.pdf  used on input line 655.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/wave-mean-flow/spherical-high-omega.pdf, id=4572, 505.89pt x 289.08pt>
+File: figures/wave-mean-flow/spherical-high-omega.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/spherical-high-omega.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/spherical-high-omega.pdf  used on input line 661.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+ [78 <./figures/wave-mean-flow/spherical-low-damp.pdf> <./figures/wave-mean-flow/spherical-high-damp.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/spherical-high-damp.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/wave-mean-flow/ar_lowT_10day.pdf, id=4653, 588.69618pt x 386.52612pt>
+File: figures/wave-mean-flow/ar_lowT_10day.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/ar_lowT_10day.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/ar_lowT_10day.pdf  used on input line 682.
+(pdftex.def)             Requested size: 127.36292pt x 83.6205pt.
+<figures/wave-mean-flow/ar_mediumT_10day.pdf, id=4654, 590.39284pt x 386.52612pt>
+File: figures/wave-mean-flow/ar_mediumT_10day.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/ar_mediumT_10day.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/ar_mediumT_10day.pdf  used on input line 687.
+(pdftex.def)             Requested size: 127.36292pt x 83.3787pt.
+<figures/wave-mean-flow/ar_highT_10day.pdf, id=4655, 588.69618pt x 386.52612pt>
+File: figures/wave-mean-flow/ar_highT_10day.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/ar_highT_10day.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/ar_highT_10day.pdf  used on input line 692.
+(pdftex.def)             Requested size: 127.36292pt x 83.6205pt.
+<figures/wave-mean-flow/ar_lowT_5day.pdf, id=4656, 590.39284pt x 386.52612pt>
+File: figures/wave-mean-flow/ar_lowT_5day.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/ar_lowT_5day.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/ar_lowT_5day.pdf  used on input line 698.
+(pdftex.def)             Requested size: 127.36292pt x 83.3787pt.
+<figures/wave-mean-flow/ar_mediumT_5day.pdf, id=4657, 590.39284pt x 386.52612pt>
+File: figures/wave-mean-flow/ar_mediumT_5day.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/ar_mediumT_5day.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/ar_mediumT_5day.pdf  used on input line 703.
+(pdftex.def)             Requested size: 127.36292pt x 83.3787pt.
+<figures/wave-mean-flow/ar_highT_5day.pdf, id=4658, 588.69618pt x 386.52612pt>
+File: figures/wave-mean-flow/ar_highT_5day.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/ar_highT_5day.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/ar_highT_5day.pdf  used on input line 708.
+(pdftex.def)             Requested size: 127.36292pt x 83.6205pt.
+<figures/wave-mean-flow/ar_lowT_2day.pdf, id=4659, 590.39284pt x 386.52612pt>
+File: figures/wave-mean-flow/ar_lowT_2day.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/ar_lowT_2day.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/ar_lowT_2day.pdf  used on input line 714.
+(pdftex.def)             Requested size: 127.36292pt x 83.3787pt.
+<figures/wave-mean-flow/ar_mediumT_2day.pdf, id=4660, 588.69618pt x 386.52612pt>
+File: figures/wave-mean-flow/ar_mediumT_2day.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/ar_mediumT_2day.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/ar_mediumT_2day.pdf  used on input line 719.
+(pdftex.def)             Requested size: 127.36292pt x 83.6205pt.
+<figures/wave-mean-flow/ar_highT_2day.pdf, id=4661, 588.69618pt x 386.52612pt>
+File: figures/wave-mean-flow/ar_highT_2day.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/ar_highT_2day.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/ar_highT_2day.pdf  used on input line 724.
+(pdftex.def)             Requested size: 127.36292pt x 83.6205pt.
+ [79 <./figures/wave-mean-flow/spherical-low-omega.pdf> <./figures/wave-mean-flow/spherical-high-omega.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/spherical-high-omega.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80 <./figures/wave-mean-flow/ar_lowT_10day.pdf> <./figures/wave-mean-flow/ar_mediumT_10day.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/ar_mediumT_10day.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/ar_highT_10day.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/ar_highT_10day.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/ar_lowT_5day.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/ar_lowT_5day.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/ar_mediumT_5day.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/ar_mediumT_5day.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/ar_highT_5day.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/ar_highT_5day.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/ar_lowT_2day.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/ar_lowT_2day.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/ar_mediumT_2day.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/ar_mediumT_2day.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/wave-mean-flow/ar_highT_2day.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/ar_highT_2day.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [81]
+<figures/wave-mean-flow/decomp-temp-10day-12.pdf, id=5080, 588.69618pt x 379.2991pt>
+File: figures/wave-mean-flow/decomp-temp-10day-12.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/decomp-temp-10day-12.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/decomp-temp-10day-12.pdf  used on input line 758.
+(pdftex.def)             Requested size: 187.06049pt x 120.52162pt.
+<figures/wave-mean-flow/decomp-sf-10day-12.pdf, id=5081, 590.39284pt x 383.67484pt>
+File: figures/wave-mean-flow/decomp-sf-10day-12.pdf Graphic file (type pdf)
+<use figures/wave-mean-flow/decomp-sf-10day-12.pdf>
+Package pdftex.def Info: figures/wave-mean-flow/decomp-sf-10day-12.pdf  used on input line 764.
+(pdftex.def)             Requested size: 187.06049pt x 121.56073pt.
+ [82 <./figures/wave-mean-flow/decomp-temp-10day-12.pdf> <./figures/wave-mean-flow/decomp-sf-10day-12.pdf
+
+pdfTeX warning: pdflatex (file ./figures/wave-mean-flow/decomp-sf-10day-12.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]) [83]
+\openout2 = `chapters/new-linking-climate-55cnce.aux'.
+
+ (./chapters/new-linking-climate-55cnce.tex [84
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85] [86]
+<figures/linking-climate-55cnce/phase-curve-diagram.pdf, id=5239, 853.58266pt x 625.96065pt>
+File: figures/linking-climate-55cnce/phase-curve-diagram.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/phase-curve-diagram.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/phase-curve-diagram.pdf  used on input line 61.
+(pdftex.def)             Requested size: 358.19757pt x 262.68199pt.
+ [87]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [88 <./figures/linking-climate-55cnce/phase-curve-diagram.pdf>] [89]
+File: figures/linking-climate-55cnce/demory-phase-curve.jpg Graphic file (type jpg)
+<use figures/linking-climate-55cnce/demory-phase-curve.jpg>
+Package pdftex.def Info: figures/linking-climate-55cnce/demory-phase-curve.jpg  used on input line 83.
+(pdftex.def)             Requested size: 278.59879pt x 142.00197pt.
+File: figures/linking-climate-55cnce/demory-temp-maps.jpg Graphic file (type jpg)
+<use figures/linking-climate-55cnce/demory-temp-maps.jpg>
+Package pdftex.def Info: figures/linking-climate-55cnce/demory-temp-maps.jpg  used on input line 89.
+(pdftex.def)             Requested size: 378.09879pt x 94.31926pt.
+ [90] [91] [92] [93]
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/param_map_edited.eps>
+(epstopdf)                    date: 2017-09-18 11:24:13
+(epstopdf)                    size: 78859 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/param_map_edited-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-12 12:47:13
+(epstopdf)                    size: 25015 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/param_map_edited-eps-converted-to.pdf figures/linking-climate-55cnce/param_map_edited.eps>
+(epstopdf)             \includegraphics on input line 208.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/param_map_edited-eps-converted-to.pdf, id=5439, 722.7pt x 433.62pt>
+File: figures/linking-climate-55cnce/param_map_edited-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/param_map_edited-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/param_map_edited-eps-converted-to.pdf  used on input line 208.
+(pdftex.def)             Requested size: 298.5pt x 179.10204pt.
+
+Underfull \vbox (badness 1776) has occurred while \output is active []
+
+ [94] [95 <./figures/linking-climate-55cnce/param_map_edited-eps-converted-to.pdf>] [96]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 241.
+
+
+Underfull \vbox (badness 1622) has occurred while \output is active []
+
+ [97]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [98]
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/H210bar_surfp.eps>
+(epstopdf)                    date: 2017-04-09 10:52:42
+(epstopdf)                    size: 440084 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/H210bar_surfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:04:08
+(epstopdf)                    size: 93483 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/H210bar_surfp-eps-converted-to.pdf figures/linking-climate-55cnce/H210bar_surfp.eps>
+(epstopdf)             \includegraphics on input line 286.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/H210bar_surfp-eps-converted-to.pdf, id=5532, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/H210bar_surfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/H210bar_surfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/H210bar_surfp-eps-converted-to.pdf  used on input line 286.
+(pdftex.def)             Requested size: 127.36292pt x 87.5622pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/H210bar_halfp.eps>
+(epstopdf)                    date: 2017-04-09 10:51:20
+(epstopdf)                    size: 447713 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/H210bar_halfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:04:09
+(epstopdf)                    size: 96254 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/H210bar_halfp-eps-converted-to.pdf figures/linking-climate-55cnce/H210bar_halfp.eps>
+(epstopdf)             \includegraphics on input line 292.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/H210bar_halfp-eps-converted-to.pdf, id=5533, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/H210bar_halfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/H210bar_halfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/H210bar_halfp-eps-converted-to.pdf  used on input line 292.
+(pdftex.def)             Requested size: 127.36292pt x 87.5622pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/H210bar_brightT.eps>
+(epstopdf)                    date: 2017-04-09 10:53:57
+(epstopdf)                    size: 255623 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/H210bar_brightT-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:04:10
+(epstopdf)                    size: 55339 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/H210bar_brightT-eps-converted-to.pdf figures/linking-climate-55cnce/H210bar_brightT.eps>
+(epstopdf)             \includegraphics on input line 298.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/H210bar_brightT-eps-converted-to.pdf, id=5534, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/H210bar_brightT-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/H210bar_brightT-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/H210bar_brightT-eps-converted-to.pdf  used on input line 298.
+(pdftex.def)             Requested size: 127.36292pt x 87.5622pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/N2_surfp.eps>
+(epstopdf)                    date: 2017-04-21 10:49:25
+(epstopdf)                    size: 450906 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/N2_surfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:12:57
+(epstopdf)                    size: 94877 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/N2_surfp-eps-converted-to.pdf figures/linking-climate-55cnce/N2_surfp.eps>
+(epstopdf)             \includegraphics on input line 304.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/N2_surfp-eps-converted-to.pdf, id=5535, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/N2_surfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/N2_surfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/N2_surfp-eps-converted-to.pdf  used on input line 304.
+(pdftex.def)             Requested size: 127.36292pt x 87.5622pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/N2_halfp.eps>
+(epstopdf)                    date: 2017-04-21 10:48:22
+(epstopdf)                    size: 468895 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/N2_halfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:12:58
+(epstopdf)                    size: 98502 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/N2_halfp-eps-converted-to.pdf figures/linking-climate-55cnce/N2_halfp.eps>
+(epstopdf)             \includegraphics on input line 310.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/N2_halfp-eps-converted-to.pdf, id=5536, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/N2_halfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/N2_halfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/N2_halfp-eps-converted-to.pdf  used on input line 310.
+(pdftex.def)             Requested size: 127.36292pt x 87.5622pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/N2_brightT.eps>
+(epstopdf)                    date: 2017-04-21 10:50:25
+(epstopdf)                    size: 484832 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/N2_brightT-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:12:59
+(epstopdf)                    size: 102132 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/N2_brightT-eps-converted-to.pdf figures/linking-climate-55cnce/N2_brightT.eps>
+(epstopdf)             \includegraphics on input line 316.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/N2_brightT-eps-converted-to.pdf, id=5537, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/N2_brightT-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/N2_brightT-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/N2_brightT-eps-converted-to.pdf  used on input line 316.
+(pdftex.def)             Requested size: 127.36292pt x 87.5622pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/10sh_surfp.eps>
+(epstopdf)                    date: 2017-08-25 13:36:07
+(epstopdf)                    size: 179334 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/10sh_surfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:04:10
+(epstopdf)                    size: 45944 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/10sh_surfp-eps-converted-to.pdf figures/linking-climate-55cnce/10sh_surfp.eps>
+(epstopdf)             \includegraphics on input line 322.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/10sh_surfp-eps-converted-to.pdf, id=5538, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/10sh_surfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/10sh_surfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/10sh_surfp-eps-converted-to.pdf  used on input line 322.
+(pdftex.def)             Requested size: 127.36292pt x 87.5622pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/10sh_halfp.eps>
+(epstopdf)                    date: 2017-08-25 13:36:16
+(epstopdf)                    size: 224086 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/10sh_halfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:04:11
+(epstopdf)                    size: 58477 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/10sh_halfp-eps-converted-to.pdf figures/linking-climate-55cnce/10sh_halfp.eps>
+(epstopdf)             \includegraphics on input line 328.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/10sh_halfp-eps-converted-to.pdf, id=5539, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/10sh_halfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/10sh_halfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/10sh_halfp-eps-converted-to.pdf  used on input line 328.
+(pdftex.def)             Requested size: 127.36292pt x 87.5622pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/10sh_brightT.eps>
+(epstopdf)                    date: 2017-08-25 13:36:33
+(epstopdf)                    size: 223754 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/10sh_brightT-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:04:11
+(epstopdf)                    size: 57374 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/10sh_brightT-eps-converted-to.pdf figures/linking-climate-55cnce/10sh_brightT.eps>
+(epstopdf)             \includegraphics on input line 334.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/10sh_brightT-eps-converted-to.pdf, id=5540, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/10sh_brightT-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/10sh_brightT-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/10sh_brightT-eps-converted-to.pdf  used on input line 334.
+(pdftex.def)             Requested size: 127.36292pt x 87.5622pt.
+ [99] [100 <./figures/linking-climate-55cnce/H210bar_surfp-eps-converted-to.pdf> <./figures/linking-climate-55cnce/H210bar_halfp-eps-converted-to.pdf> <./figures/linking-climate-55cnce/H210bar_brightT-eps-converted-to.pdf> <./figures/linking-climate-55cnce/N2_surfp-eps-converted-to.pdf> <./figures/linking-climate-55cnce/N2_halfp-eps-converted-to.pdf> <./figures/linking-climate-55cnce/N2_brightT-eps-converted-to.pdf> <./figures/linking-climate-55cnce/10sh_surfp-eps-converted-to.pdf> <./figures/linking-climate-55cnce/10sh_halfp-eps-converted-to.pdf> <./figures/linking-climate-55cnce/10sh_brightT-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/H2N2_10_halfp.eps>
+(epstopdf)                    date: 2017-07-28 09:51:47
+(epstopdf)                    size: 547359 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/H2N2_10_halfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:00
+(epstopdf)                    size: 118611 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/H2N2_10_halfp-eps-converted-to.pdf figures/linking-climate-55cnce/H2N2_10_halfp.eps>
+(epstopdf)             \includegraphics on input line 361.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/H2N2_10_halfp-eps-converted-to.pdf, id=5772, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/H2N2_10_halfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/H2N2_10_halfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/H2N2_10_halfp-eps-converted-to.pdf  used on input line 361.
+(pdftex.def)             Requested size: 131.34073pt x 90.2915pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/H2N2_5_halfp.eps>
+(epstopdf)                    date: 2017-07-28 09:51:24
+(epstopdf)                    size: 537396 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/H2N2_5_halfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:01
+(epstopdf)                    size: 114209 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/H2N2_5_halfp-eps-converted-to.pdf figures/linking-climate-55cnce/H2N2_5_halfp.eps>
+(epstopdf)             \includegraphics on input line 367.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/H2N2_5_halfp-eps-converted-to.pdf, id=5773, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/H2N2_5_halfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/H2N2_5_halfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/H2N2_5_halfp-eps-converted-to.pdf  used on input line 367.
+(pdftex.def)             Requested size: 131.34073pt x 90.2915pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/H2N2_3_halfp.eps>
+(epstopdf)                    date: 2017-07-28 09:51:36
+(epstopdf)                    size: 431729 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/H2N2_3_halfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:01
+(epstopdf)                    size: 92636 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/H2N2_3_halfp-eps-converted-to.pdf figures/linking-climate-55cnce/H2N2_3_halfp.eps>
+(epstopdf)             \includegraphics on input line 373.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/H2N2_3_halfp-eps-converted-to.pdf, id=5774, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/H2N2_3_halfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/H2N2_3_halfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/H2N2_3_halfp-eps-converted-to.pdf  used on input line 373.
+(pdftex.def)             Requested size: 131.34073pt x 90.2915pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/15GMOL_10_halfp.eps>
+(epstopdf)                    date: 2017-08-25 13:53:15
+(epstopdf)                    size: 231733 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/15GMOL_10_halfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:02
+(epstopdf)                    size: 59755 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/15GMOL_10_halfp-eps-converted-to.pdf figures/linking-climate-55cnce/15GMOL_10_halfp.eps>
+(epstopdf)             \includegraphics on input line 379.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/15GMOL_10_halfp-eps-converted-to.pdf, id=5775, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/15GMOL_10_halfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/15GMOL_10_halfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/15GMOL_10_halfp-eps-converted-to.pdf  used on input line 379.
+(pdftex.def)             Requested size: 131.34073pt x 90.2915pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/15GMOL_5_halfp.eps>
+(epstopdf)                    date: 2017-08-14 14:30:02
+(epstopdf)                    size: 222341 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/15GMOL_5_halfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:03
+(epstopdf)                    size: 55476 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/15GMOL_5_halfp-eps-converted-to.pdf figures/linking-climate-55cnce/15GMOL_5_halfp.eps>
+(epstopdf)             \includegraphics on input line 385.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/15GMOL_5_halfp-eps-converted-to.pdf, id=5776, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/15GMOL_5_halfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/15GMOL_5_halfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/15GMOL_5_halfp-eps-converted-to.pdf  used on input line 385.
+(pdftex.def)             Requested size: 131.34073pt x 90.2915pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/15GMOL_3_halfp.eps>
+(epstopdf)                    date: 2017-08-14 14:30:15
+(epstopdf)                    size: 167613 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/15GMOL_3_halfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:03
+(epstopdf)                    size: 42571 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/15GMOL_3_halfp-eps-converted-to.pdf figures/linking-climate-55cnce/15GMOL_3_halfp.eps>
+(epstopdf)             \includegraphics on input line 391.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/15GMOL_3_halfp-eps-converted-to.pdf, id=5777, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/15GMOL_3_halfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/15GMOL_3_halfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/15GMOL_3_halfp-eps-converted-to.pdf  used on input line 391.
+(pdftex.def)             Requested size: 131.34073pt x 90.2915pt.
+ [101]
+Underfull \vbox (badness 1490) has occurred while \output is active []
+
+ [102 <./figures/linking-climate-55cnce/H2N2_10_halfp-eps-converted-to.pdf> <./figures/linking-climate-55cnce/H2N2_5_halfp-eps-converted-to.pdf> <./figures/linking-climate-55cnce/H2N2_3_halfp-eps-converted-to.pdf> <./figures/linking-climate-55cnce/15GMOL_10_halfp-eps-converted-to.pdf> <./figures/linking-climate-55cnce/15GMOL_5_halfp-eps-converted-to.pdf> <./figures/linking-climate-55cnce/15GMOL_3_halfp-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/5sh_2_halfp.eps>
+(epstopdf)                    date: 2017-09-01 09:11:50
+(epstopdf)                    size: 204063 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/5sh_2_halfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:04
+(epstopdf)                    size: 52580 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/5sh_2_halfp-eps-converted-to.pdf figures/linking-climate-55cnce/5sh_2_halfp.eps>
+(epstopdf)             \includegraphics on input line 408.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/5sh_2_halfp-eps-converted-to.pdf, id=5937, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/5sh_2_halfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/5sh_2_halfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/5sh_2_halfp-eps-converted-to.pdf  used on input line 408.
+(pdftex.def)             Requested size: 127.36292pt x 87.5622pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/H2N2_5_halfp.eps>
+(epstopdf)                    date: 2017-07-28 09:51:24
+(epstopdf)                    size: 537396 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/H2N2_5_halfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:01
+(epstopdf)                    size: 114209 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/H2N2_5_halfp-eps-converted-to.pdf figures/linking-climate-55cnce/H2N2_5_halfp.eps>
+(epstopdf)             \includegraphics on input line 414.
+Package epstopdf Info: Output file is already uptodate.
+File: figures/linking-climate-55cnce/H2N2_5_halfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/H2N2_5_halfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/H2N2_5_halfp-eps-converted-to.pdf  used on input line 414.
+(pdftex.def)             Requested size: 127.36292pt x 87.5622pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/5sh_8_halfp.eps>
+(epstopdf)                    date: 2017-09-19 09:49:40
+(epstopdf)                    size: 201055 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/5sh_8_halfp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:05
+(epstopdf)                    size: 51903 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/5sh_8_halfp-eps-converted-to.pdf figures/linking-climate-55cnce/5sh_8_halfp.eps>
+(epstopdf)             \includegraphics on input line 420.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/5sh_8_halfp-eps-converted-to.pdf, id=5938, 578.16pt x 397.485pt>
+File: figures/linking-climate-55cnce/5sh_8_halfp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/5sh_8_halfp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/5sh_8_halfp-eps-converted-to.pdf  used on input line 420.
+(pdftex.def)             Requested size: 127.36292pt x 87.5622pt.
+ [103 <./figures/linking-climate-55cnce/5sh_2_halfp-eps-converted-to.pdf> <./figures/linking-climate-55cnce/5sh_8_halfp-eps-converted-to.pdf>] [104]
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/Tprofiles.eps>
+(epstopdf)                    date: 2017-04-28 10:18:31
+(epstopdf)                    size: 32747 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/Tprofiles-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:06
+(epstopdf)                    size: 22332 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/Tprofiles-eps-converted-to.pdf figures/linking-climate-55cnce/Tprofiles.eps>
+(epstopdf)             \includegraphics on input line 445.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/Tprofiles-eps-converted-to.pdf, id=6007, 433.62pt x 650.43pt>
+File: figures/linking-climate-55cnce/Tprofiles-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/Tprofiles-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/Tprofiles-eps-converted-to.pdf  used on input line 445.
+(pdftex.def)             Requested size: 127.36292pt x 191.0415pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/dncontrast.eps>
+(epstopdf)                    date: 2017-09-19 10:56:35
+(epstopdf)                    size: 28896 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/dncontrast-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:07
+(epstopdf)                    size: 24207 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/dncontrast-eps-converted-to.pdf figures/linking-climate-55cnce/dncontrast.eps>
+(epstopdf)             \includegraphics on input line 451.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/dncontrast-eps-converted-to.pdf, id=6008, 433.62pt x 650.43pt>
+File: figures/linking-climate-55cnce/dncontrast-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/dncontrast-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/dncontrast-eps-converted-to.pdf  used on input line 451.
+(pdftex.def)             Requested size: 127.36292pt x 191.0415pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/hotspotlocation.eps>
+(epstopdf)                    date: 2017-09-19 10:57:24
+(epstopdf)                    size: 28630 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/hotspotlocation-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:09
+(epstopdf)                    size: 22390 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/hotspotlocation-eps-converted-to.pdf figures/linking-climate-55cnce/hotspotlocation.eps>
+(epstopdf)             \includegraphics on input line 457.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/hotspotlocation-eps-converted-to.pdf, id=6009, 433.62pt x 650.43pt>
+File: figures/linking-climate-55cnce/hotspotlocation-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/hotspotlocation-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/hotspotlocation-eps-converted-to.pdf  used on input line 457.
+(pdftex.def)             Requested size: 127.36292pt x 191.0415pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [105 <./figures/linking-climate-55cnce/Tprofiles-eps-converted-to.pdf> <./figures/linking-climate-55cnce/dncontrast-eps-converted-to.pdf> <./figures/linking-climate-55cnce/hotspotlocation-eps-converted-to.pdf>] [106]
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/phasecurves_p_level.eps>
+(epstopdf)                    date: 2017-07-11 14:40:06
+(epstopdf)                    size: 35663 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/phasecurves_p_level-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-26 15:52:10
+(epstopdf)                    size: 20639 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/phasecurves_p_level-eps-converted-to.pdf figures/linking-climate-55cnce/phasecurves_p_level.eps>
+(epstopdf)             \includegraphics on input line 509.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/phasecurves_p_level-eps-converted-to.pdf, id=6153, 722.7pt x 433.62pt>
+File: figures/linking-climate-55cnce/phasecurves_p_level-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/phasecurves_p_level-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/phasecurves_p_level-eps-converted-to.pdf  used on input line 509.
+(pdftex.def)             Requested size: 298.5pt x 179.10204pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [107 <./figures/linking-climate-55cnce/phasecurves_p_level-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/phasecurves_flux.eps>
+(epstopdf)                    date: 2017-08-01 17:31:00
+(epstopdf)                    size: 32253 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/phasecurves_flux-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-05-01 16:27:58
+(epstopdf)                    size: 20441 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/phasecurves_flux-eps-converted-to.pdf figures/linking-climate-55cnce/phasecurves_flux.eps>
+(epstopdf)             \includegraphics on input line 524.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/phasecurves_flux-eps-converted-to.pdf, id=6204, 722.7pt x 433.62pt>
+File: figures/linking-climate-55cnce/phasecurves_flux-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/phasecurves_flux-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/phasecurves_flux-eps-converted-to.pdf  used on input line 524.
+(pdftex.def)             Requested size: 298.5pt x 179.10204pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/phasecurves_temp.eps>
+(epstopdf)                    date: 2017-07-13 11:13:48
+(epstopdf)                    size: 33499 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/phasecurves_temp-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-05-01 16:27:59
+(epstopdf)                    size: 20829 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/phasecurves_temp-eps-converted-to.pdf figures/linking-climate-55cnce/phasecurves_temp.eps>
+(epstopdf)             \includegraphics on input line 530.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/phasecurves_temp-eps-converted-to.pdf, id=6209, 722.7pt x 433.62pt>
+File: figures/linking-climate-55cnce/phasecurves_temp-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/phasecurves_temp-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/phasecurves_temp-eps-converted-to.pdf  used on input line 530.
+(pdftex.def)             Requested size: 298.5pt x 179.10204pt.
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/phasecurves_vary_p.eps>
+(epstopdf)                    date: 2017-07-28 09:58:30
+(epstopdf)                    size: 31746 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/phasecurves_vary_p-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-05-08 16:28:22
+(epstopdf)                    size: 19853 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/phasecurves_vary_p-eps-converted-to.pdf figures/linking-climate-55cnce/phasecurves_vary_p.eps>
+(epstopdf)             \includegraphics on input line 539.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/phasecurves_vary_p-eps-converted-to.pdf, id=6222, 722.7pt x 433.62pt>
+File: figures/linking-climate-55cnce/phasecurves_vary_p-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/phasecurves_vary_p-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/phasecurves_vary_p-eps-converted-to.pdf  used on input line 539.
+(pdftex.def)             Requested size: 298.5pt x 179.10204pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [108] [109 <./figures/linking-climate-55cnce/phasecurves_flux-eps-converted-to.pdf> <./figures/linking-climate-55cnce/phasecurves_temp-eps-converted-to.pdf>]
+Underfull \vbox (badness 2293) has occurred while \output is active []
+
+ [110 <./figures/linking-climate-55cnce/phasecurves_vary_p-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/phasecurves_vs_tau.eps>
+(epstopdf)                    date: 2017-09-19 09:42:59
+(epstopdf)                    size: 31899 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/phasecurves_vs_tau-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-05-01 16:27:57
+(epstopdf)                    size: 20292 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/phasecurves_vs_tau-eps-converted-to.pdf figures/linking-climate-55cnce/phasecurves_vs_tau.eps>
+(epstopdf)             \includegraphics on input line 555.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/phasecurves_vs_tau-eps-converted-to.pdf, id=6354, 722.7pt x 433.62pt>
+File: figures/linking-climate-55cnce/phasecurves_vs_tau-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/phasecurves_vs_tau-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/phasecurves_vs_tau-eps-converted-to.pdf  used on input line 555.
+(pdftex.def)             Requested size: 298.5pt x 179.10204pt.
+ [111 <./figures/linking-climate-55cnce/phasecurves_vs_tau-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/linking-climate-55cnce/phasecurves_clouds.eps>
+(epstopdf)                    date: 2017-08-30 10:09:18
+(epstopdf)                    size: 40589 bytes
+(epstopdf)             Output file: <figures/linking-climate-55cnce/phasecurves_clouds-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-05-27 16:59:41
+(epstopdf)                    size: 24294 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/linking-climate-55cnce/phasecurves_clouds-eps-converted-to.pdf figures/linking-climate-55cnce/phasecurves_clouds.eps>
+(epstopdf)             \includegraphics on input line 574.
+Package epstopdf Info: Output file is already uptodate.
+<figures/linking-climate-55cnce/phasecurves_clouds-eps-converted-to.pdf, id=6399, 722.7pt x 433.62pt>
+File: figures/linking-climate-55cnce/phasecurves_clouds-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/linking-climate-55cnce/phasecurves_clouds-eps-converted-to.pdf>
+Package pdftex.def Info: figures/linking-climate-55cnce/phasecurves_clouds-eps-converted-to.pdf  used on input line 574.
+(pdftex.def)             Requested size: 298.5pt x 179.10204pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [112 <./figures/linking-climate-55cnce/phasecurves_clouds-eps-converted-to.pdf>] [113] [114] [115]) [116]
+\openout2 = `chapters/soc-lava-planets.aux'.
+
+ (./chapters/soc-lava-planets.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [117
+
+
+
+] [118]
+<figures/soc-lava-planets/co-absorption.pdf, id=6535, 505.89pt x 289.08pt>
+File: figures/soc-lava-planets/co-absorption.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/co-absorption.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/co-absorption.pdf  used on input line 62.
+(pdftex.def)             Requested size: 338.30243pt x 193.32088pt.
+ [119 <./figures/soc-lava-planets/co-absorption.pdf>] [120]
+<figures/soc-lava-planets/h2-soc-temp.pdf, id=6607, 505.89pt x 289.08pt>
+File: figures/soc-lava-planets/h2-soc-temp.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/h2-soc-temp.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/h2-soc-temp.pdf  used on input line 104.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/soc-lava-planets/n2-soc-temp.pdf, id=6608, 505.89pt x 289.08pt>
+File: figures/soc-lava-planets/n2-soc-temp.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/n2-soc-temp.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/n2-soc-temp.pdf  used on input line 109.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+
+Underfull \vbox (badness 3260) has occurred while \output is active []
+
+ [121 <./figures/soc-lava-planets/h2-soc-temp.pdf> <./figures/soc-lava-planets/n2-soc-temp.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/n2-soc-temp.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/soc-lava-planets/h2-soc-zonal-u.pdf, id=6690, 505.89pt x 289.08pt>
+File: figures/soc-lava-planets/h2-soc-zonal-u.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/h2-soc-zonal-u.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/h2-soc-zonal-u.pdf  used on input line 127.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/soc-lava-planets/n2-soc-zonal-u.pdf, id=6691, 505.89pt x 289.08pt>
+File: figures/soc-lava-planets/n2-soc-zonal-u.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/n2-soc-zonal-u.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/n2-soc-zonal-u.pdf  used on input line 132.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+
+Underfull \vbox (badness 6526) has occurred while \output is active []
+
+ [122]
+<figures/soc-lava-planets/h2-soc-tp.pdf, id=6700, 462.52798pt x 346.89601pt>
+File: figures/soc-lava-planets/h2-soc-tp.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/h2-soc-tp.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/h2-soc-tp.pdf  used on input line 144.
+(pdftex.def)             Requested size: 195.02219pt x 146.26698pt.
+<figures/soc-lava-planets/n2-soc-tp.pdf, id=6701, 462.52798pt x 346.89601pt>
+File: figures/soc-lava-planets/n2-soc-tp.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/n2-soc-tp.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/n2-soc-tp.pdf  used on input line 149.
+(pdftex.def)             Requested size: 195.02219pt x 146.26698pt.
+
+Underfull \vbox (badness 1681) has occurred while \output is active []
+
+ [123 <./figures/soc-lava-planets/h2-soc-zonal-u.pdf> <./figures/soc-lava-planets/n2-soc-zonal-u.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/n2-soc-zonal-u.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/soc-lava-planets/h2-soc-tp.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/h2-soc-tp.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/soc-lava-planets/n2-soc-tp.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/n2-soc-tp.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/soc-lava-planets/h2-spec-olr.pdf, id=6843, 578.16pt x 397.485pt>
+File: figures/soc-lava-planets/h2-spec-olr.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/h2-spec-olr.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/h2-spec-olr.pdf  used on input line 175.
+(pdftex.def)             Requested size: 191.0383pt x 131.33421pt.
+<figures/soc-lava-planets/n2-spec-olr.pdf, id=6844, 578.16pt x 397.485pt>
+File: figures/soc-lava-planets/n2-spec-olr.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/n2-spec-olr.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/n2-spec-olr.pdf  used on input line 180.
+(pdftex.def)             Requested size: 191.0383pt x 131.33421pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [124]
+<figures/soc-lava-planets/h2-emission-spec.pdf, id=6863, 505.89pt x 361.35pt>
+File: figures/soc-lava-planets/h2-emission-spec.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/h2-emission-spec.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/h2-emission-spec.pdf  used on input line 198.
+(pdftex.def)             Requested size: 191.0383pt x 136.45428pt.
+<figures/soc-lava-planets/n2-emission-spec.pdf, id=6864, 505.89pt x 361.35pt>
+File: figures/soc-lava-planets/n2-emission-spec.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/n2-emission-spec.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/n2-emission-spec.pdf  used on input line 203.
+(pdftex.def)             Requested size: 191.0383pt x 136.45428pt.
+ [125 <./figures/soc-lava-planets/h2-spec-olr.pdf> <./figures/soc-lava-planets/n2-spec-olr.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/n2-spec-olr.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/soc-lava-planets/h2-spec-pc.pdf, id=6959, 578.16pt x 397.485pt>
+File: figures/soc-lava-planets/h2-spec-pc.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/h2-spec-pc.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/h2-spec-pc.pdf  used on input line 221.
+(pdftex.def)             Requested size: 195.02219pt x 134.07564pt.
+<figures/soc-lava-planets/n2-spec-pc.pdf, id=6960, 578.16pt x 397.485pt>
+File: figures/soc-lava-planets/n2-spec-pc.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/n2-spec-pc.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/n2-spec-pc.pdf  used on input line 226.
+(pdftex.def)             Requested size: 195.02219pt x 134.07564pt.
+ [126 <./figures/soc-lava-planets/h2-emission-spec.pdf> <./figures/soc-lava-planets/n2-emission-spec.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/n2-emission-spec.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [127 <./figures/soc-lava-planets/h2-spec-pc.pdf> <./figures/soc-lava-planets/n2-spec-pc.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/n2-spec-pc.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/soc-lava-planets/h2n2-soc-temp.pdf, id=7169, 505.89pt x 289.08pt>
+File: figures/soc-lava-planets/h2n2-soc-temp.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/h2n2-soc-temp.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/h2n2-soc-temp.pdf  used on input line 269.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/soc-lava-planets/n2-100bar-soc-temp.pdf, id=7170, 505.89pt x 289.08pt>
+File: figures/soc-lava-planets/n2-100bar-soc-temp.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/n2-100bar-soc-temp.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/n2-100bar-soc-temp.pdf  used on input line 274.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+ [128]
+<figures/soc-lava-planets/h2n2-soc-zonal-u.pdf, id=7180, 505.89pt x 289.08pt>
+File: figures/soc-lava-planets/h2n2-soc-zonal-u.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/h2n2-soc-zonal-u.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/h2n2-soc-zonal-u.pdf  used on input line 290.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/soc-lava-planets/n2-100bar-soc-zonal-u.pdf, id=7181, 505.89pt x 289.08pt>
+File: figures/soc-lava-planets/n2-100bar-soc-zonal-u.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/n2-100bar-soc-zonal-u.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/n2-100bar-soc-zonal-u.pdf  used on input line 295.
+(pdftex.def)             Requested size: 191.0383pt x 109.16342pt.
+<figures/soc-lava-planets/h2n2-soc-tp.pdf, id=7184, 462.52798pt x 346.89601pt>
+File: figures/soc-lava-planets/h2n2-soc-tp.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/h2n2-soc-tp.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/h2n2-soc-tp.pdf  used on input line 307.
+(pdftex.def)             Requested size: 195.02219pt x 146.26698pt.
+<figures/soc-lava-planets/n2-100bar-soc-tp.pdf, id=7185, 462.52798pt x 346.89601pt>
+File: figures/soc-lava-planets/n2-100bar-soc-tp.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/n2-100bar-soc-tp.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/n2-100bar-soc-tp.pdf  used on input line 312.
+(pdftex.def)             Requested size: 195.02219pt x 146.26698pt.
+<figures/soc-lava-planets/h2n2-spec-olr.pdf, id=7186, 578.16pt x 397.485pt>
+File: figures/soc-lava-planets/h2n2-spec-olr.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/h2n2-spec-olr.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/h2n2-spec-olr.pdf  used on input line 344.
+(pdftex.def)             Requested size: 195.02219pt x 134.07564pt.
+<figures/soc-lava-planets/n2-100bar-spec-olr.pdf, id=7187, 578.16pt x 397.485pt>
+File: figures/soc-lava-planets/n2-100bar-spec-olr.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/n2-100bar-spec-olr.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/n2-100bar-spec-olr.pdf  used on input line 349.
+(pdftex.def)             Requested size: 195.02219pt x 134.07564pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [129 <./figures/soc-lava-planets/h2n2-soc-temp.pdf> <./figures/soc-lava-planets/n2-100bar-soc-temp.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/n2-100bar-soc-temp.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [130 <./figures/soc-lava-planets/h2n2-soc-zonal-u.pdf> <./figures/soc-lava-planets/n2-100bar-soc-zonal-u.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/n2-100bar-soc-zonal-u.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/soc-lava-planets/h2n2-soc-tp.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/h2n2-soc-tp.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/soc-lava-planets/n2-100bar-soc-tp.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/n2-100bar-soc-tp.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/soc-lava-planets/h2n2-spec-olr.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/h2n2-spec-olr.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./figures/soc-lava-planets/n2-100bar-spec-olr.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/n2-100bar-spec-olr.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/soc-lava-planets/h2n2-emission-spec.pdf, id=7473, 505.89pt x 361.35pt>
+File: figures/soc-lava-planets/h2n2-emission-spec.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/h2n2-emission-spec.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/h2n2-emission-spec.pdf  used on input line 364.
+(pdftex.def)             Requested size: 195.02219pt x 139.30489pt.
+<figures/soc-lava-planets/n2-100bar-emission-spec.pdf, id=7474, 505.89pt x 361.35pt>
+File: figures/soc-lava-planets/n2-100bar-emission-spec.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/n2-100bar-emission-spec.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/n2-100bar-emission-spec.pdf  used on input line 369.
+(pdftex.def)             Requested size: 195.02219pt x 139.30489pt.
+ [131 <./figures/soc-lava-planets/h2n2-emission-spec.pdf> <./figures/soc-lava-planets/n2-100bar-emission-spec.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/n2-100bar-emission-spec.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figures/soc-lava-planets/h2n2-spec-pc.pdf, id=7586, 578.16pt x 397.485pt>
+File: figures/soc-lava-planets/h2n2-spec-pc.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/h2n2-spec-pc.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/h2n2-spec-pc.pdf  used on input line 413.
+(pdftex.def)             Requested size: 191.0383pt x 131.33421pt.
+<figures/soc-lava-planets/n2-100bar-spec-pc.pdf, id=7587, 578.16pt x 397.485pt>
+File: figures/soc-lava-planets/n2-100bar-spec-pc.pdf Graphic file (type pdf)
+<use figures/soc-lava-planets/n2-100bar-spec-pc.pdf>
+Package pdftex.def Info: figures/soc-lava-planets/n2-100bar-spec-pc.pdf  used on input line 418.
+(pdftex.def)             Requested size: 191.0383pt x 131.33421pt.
+ [132]
+Underfull \vbox (badness 5847) has occurred while \output is active []
+
+ [133 <./figures/soc-lava-planets/h2n2-spec-pc.pdf> <./figures/soc-lava-planets/n2-100bar-spec-pc.pdf
+
+pdfTeX warning: pdflatex (file ./figures/soc-lava-planets/n2-100bar-spec-pc.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [134] [135] [136] [137] [138]
+Underfull \vbox (badness 2707) has occurred while \output is active []
+
+ [139]) [140]
+\openout2 = `chapters/conclusion.aux'.
+
+ (./chapters/conclusion.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [141
+
+
+
+] [142] [143]) [144] (./main.bbl [145
+
+
+] [146] [147] [148] [149] [150] [151]) [152]
+\openout2 = `appendices.aux'.
+
+ (./appendices.tex
+LaTeX Font Info:    Font shape `OT1/zi4/m/n' will be
+(Font)              scaled to size 12.0pt on input line 11.
+
+Underfull \vbox (badness 1648) has occurred while \output is active []
+
+ [153
+
+
+] [154] [155]
+<figures/appendices/lat-lon-grid.pdf, id=7887, 260.37274pt x 260.37274pt>
+File: figures/appendices/lat-lon-grid.pdf Graphic file (type pdf)
+<use figures/appendices/lat-lon-grid.pdf>
+Package pdftex.def Info: figures/appendices/lat-lon-grid.pdf  used on input line 61.
+(pdftex.def)             Requested size: 147.25806pt x 147.26183pt.
+<figures/appendices/cubed-sphere-grid.pdf, id=7888, 218.25539pt x 218.25539pt>
+File: figures/appendices/cubed-sphere-grid.pdf Graphic file (type pdf)
+<use figures/appendices/cubed-sphere-grid.pdf>
+Package pdftex.def Info: figures/appendices/cubed-sphere-grid.pdf  used on input line 68.
+(pdftex.def)             Requested size: 147.25806pt x 147.2594pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [156 <./figures/appendices/lat-lon-grid.pdf> <./figures/appendices/cubed-sphere-grid.pdf
+
+pdfTeX warning: pdflatex (file ./figures/appendices/cubed-sphere-grid.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [157] [158
+
+]
+Underfull \vbox (badness 1442) has occurred while \output is active []
+
+ [159]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [160]
+Underfull \vbox (badness 3884) has occurred while \output is active []
+
+ [161] [162]
+<figures/appendices/herm_polys.pdf, id=8252, 462.52798pt x 346.89601pt>
+File: figures/appendices/herm_polys.pdf Graphic file (type pdf)
+<use figures/appendices/herm_polys.pdf>
+Package pdftex.def Info: figures/appendices/herm_polys.pdf  used on input line 298.
+(pdftex.def)             Requested size: 191.0383pt x 143.28163pt.
+<figures/appendices/cheb_polys.pdf, id=8253, 462.52798pt x 346.89601pt>
+File: figures/appendices/cheb_polys.pdf Graphic file (type pdf)
+<use figures/appendices/cheb_polys.pdf>
+Package pdftex.def Info: figures/appendices/cheb_polys.pdf  used on input line 303.
+(pdftex.def)             Requested size: 191.0383pt x 143.28163pt.
+ [163 <./figures/appendices/herm_polys.pdf> <./figures/appendices/cheb_polys.pdf
+
+pdfTeX warning: pdflatex (file ./figures/appendices/cheb_polys.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [164]
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+ [165]) [166]
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 428.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 428.
+ (./main.aux (./abstract.aux) (./acknowledgements.aux) (./chapters/introduction.aux) (./chapters/lava-planets.aux) (./chapters/new-eqm-zonal-flow.aux) (./chapters/new-wave-mean-flow.aux) (./chapters/new-linking-climate-55cnce.aux) (./chapters/soc-lava-planets.aux) (./chapters/conclusion.aux) (./appendices.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 428.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 428.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 0768344E822DE20F58017F58ED65821F;3520.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 428.
+ ) 
 Here is how much of TeX's memory you used:
- 23503 strings out of 492639
- 393696 string characters out of 6129302
- 606258 words of memory out of 5000000
- 27235 multiletter control sequences out of 15000+600000
- 537057 words of font info for 27 fonts, out of 8000000 for 9000
+ 31804 strings out of 492639
+ 604337 string characters out of 6129302
+ 814404 words of memory out of 5000000
+ 33761 multiletter control sequences out of 15000+600000
+ 1101407 words of font info for 817 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 5000i,1n,4994p,231b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
-./main.tex:98:  ==> Fatal error occurred, no output PDF file produced!
+ 58i,25n,97p,1799b,1329s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/local/texlive/texmf-local/fonts/enc/dvips/MinionPro/base-MinionPro-ad.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc}{/usr/local/texlive/texmf-local/fonts/enc/dvips/MinionPro/base-MinionPro-ae.enc}{/usr/local/texlive/texmf-local/fonts/enc/dvips/MinionPro/base-MinionPro-ac.enc}{/usr/local/texlive/texmf-local/fonts/enc/dvips/MinionPro/base-MinionPro-ab.enc}{/usr/local/texlive/texmf-local/fonts/enc/dvips/MinionPro/base-MinionPro-aa.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/texmf-local/fonts/type1/adobe/MinionPr
+o/MinionPro-Bold.pfb></usr/local/texlive/texmf-local/fonts/type1/adobe/MinionPro/MinionPro-It.pfb></usr/local/texlive/texmf-local/fonts/type1/adobe/MinionPro/MinionPro-Regular.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb>
+Output written on main.pdf (174 pages, 13334101 bytes).
+PDF statistics:
+ 8507 PDF objects out of 8907 (max. 8388607)
+ 4554 compressed objects within 46 object streams
+ 541 named destinations out of 1000 (max. 500000)
+ 102470 words of extra memory for PDF output out of 106986 (max. 10000000)
+

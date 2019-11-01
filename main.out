@@ -1,96 +1,46 @@
 \BOOKMARK [0][]{contents.0}{Contents}{}% 1
-\BOOKMARK [0][]{figures.0}{List of Figures}{}% 2
-\BOOKMARK [0][]{chapter.1}{1 Introduction}{}% 3
-\BOOKMARK [0][]{chapter.2}{2 Tidally Locked Lava Planets and 55 Cancri e}{}% 4
-\BOOKMARK [1][-]{section.2.1}{2.1 Exoplanets}{chapter.2}% 5
-\BOOKMARK [1][-]{section.2.2}{2.2 Lava Planets}{chapter.2}% 6
-\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 Tidally Locked Planets}{section.2.2}% 7
-\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 The Atmospheric Circulation of Tidally Locked Planets}{section.2.2}% 8
-\BOOKMARK [2][-]{subsection.2.2.3}{2.2.3 Lava Planets}{section.2.2}% 9
-\BOOKMARK [1][-]{section.2.3}{2.3 55 Cancri e}{chapter.2}% 10
-\BOOKMARK [0][]{chapter.3}{3 Wave-Mean Flow Interactions in a Linear Theory of Tidally Locked Atmospheres}{}% 11
-\BOOKMARK [1][-]{section.3.1}{3.1 The Shallow-Water Equations}{chapter.3}% 12
-\BOOKMARK [2][-]{subsection.3.1.1}{3.1.1 Free Solutions}{section.3.1}% 13
-\BOOKMARK [2][-]{subsection.3.1.2}{3.1.2 Forced Solutions}{section.3.1}% 14
-\BOOKMARK [2][-]{subsection.3.1.3}{3.1.3 Wave Interactions with Flow}{section.3.1}% 15
-\BOOKMARK [1][-]{section.3.2}{3.2 Zonal Acceleration}{chapter.3}% 16
-\BOOKMARK [2][-]{subsection.3.2.1}{3.2.1 Acceleration in a Matsuno-Gill Model}{section.3.2}% 17
-\BOOKMARK [2][-]{subsection.3.2.2}{3.2.2 Correction to Vertical Momentum Transport}{section.3.2}% 18
-\BOOKMARK [2][-]{subsection.3.2.3}{3.2.3 Equilibrium Equatorial Flow}{section.3.2}% 19
-\BOOKMARK [2][-]{subsection.3.2.4}{3.2.4 Horizontal Momentum Transport from Stationary Waves}{section.3.2}% 20
-\BOOKMARK [2][-]{subsection.3.2.5}{3.2.5 Horizontal Momentum Transport from Transient Waves}{section.3.2}% 21
-\BOOKMARK [1][-]{section.3.3}{3.3 Wave Interactions with Shear Flow on the Beta-Plane}{chapter.3}% 22
-\BOOKMARK [2][-]{subsection.3.3.1}{3.3.1 Free Modes}{section.3.3}% 23
-\BOOKMARK [2][-]{subsection.3.3.2}{3.3.2 Forced Solutions}{section.3.3}% 24
-\BOOKMARK [2][-]{subsection.3.3.3}{3.3.3 Equilibrium Circulation}{section.3.3}% 25
-\BOOKMARK [2][-]{subsection.3.3.4}{3.3.4 Damping}{section.3.3}% 26
-\BOOKMARK [2][-]{subsection.3.3.5}{3.3.5 Hot-Spot Shift}{section.3.3}% 27
-\BOOKMARK [1][-]{section.3.4}{3.4 Wave Interactions with Shear Flow on a Sphere}{chapter.3}% 28
-\BOOKMARK [2][-]{subsection.3.4.1}{3.4.1 Spherical Shallow-Water Equations}{section.3.4}% 29
-\BOOKMARK [2][-]{subsection.3.4.2}{3.4.2 Forced Solutions}{section.3.4}% 30
-\BOOKMARK [1][-]{section.3.5}{3.5 Scaling Relations}{chapter.3}% 31
-\BOOKMARK [2][-]{subsection.3.5.1}{3.5.1 1D Scaling Relations}{section.3.5}% 32
-\BOOKMARK [2][-]{subsection.3.5.2}{3.5.2 2D Scaling Relations}{section.3.5}% 33
-\BOOKMARK [1][-]{section.3.6}{3.6 Other Jet Patterns}{chapter.3}% 34
-\BOOKMARK [0][]{chapter.4}{4 Equilibrium Circulation States on Tidally Locked Planets}{}% 35
-\BOOKMARK [1][-]{section.4.1}{4.1 Equilibrium Flow Profile}{chapter.4}% 36
-\BOOKMARK [1][-]{section.4.2}{4.2 Initial Conditions}{chapter.4}% 37
-\BOOKMARK [1][-]{section.4.3}{4.3 Instabilities as deviations from equilibrium}{chapter.4}% 38
-\BOOKMARK [1][-]{section.4.4}{4.4 Jet Scaling Relations}{chapter.4}% 39
-\BOOKMARK [0][]{chapter.5}{5 Non-Linear Tests of a Linear Theory of Tidally Locked Atmospheres}{}% 40
-\BOOKMARK [1][-]{section.5.1}{5.1 Non-Linear Tests of Linear Shallow-Water Theory}{chapter.5}% 41
-\BOOKMARK [1][-]{section.5.2}{5.2 GCM Tests of Shallow-Water Theory}{chapter.5}% 42
-\BOOKMARK [0][]{chapter.6}{6 Linking the Climate and Thermal Phase Curve of 55 Cancri e}{}% 43
-\BOOKMARK [1][-]{section.6.1}{6.1 Observations of 55 Cancri e}{chapter.6}% 44
-\BOOKMARK [1][-]{section.6.2}{6.2 Simulating a Lava Planet}{chapter.6}% 45
-\BOOKMARK [1][-]{section.6.3}{6.3 Simplified Scaling Theory}{chapter.6}% 46
-\BOOKMARK [1][-]{section.6.4}{6.4 Results}{chapter.6}% 47
-\BOOKMARK [2][-]{subsection.6.4.1}{6.4.1 Effect of Mean Molecular Weight}{section.6.4}% 48
-\BOOKMARK [2][-]{subsection.6.4.2}{6.4.2 Effect of Surface Pressure}{section.6.4}% 49
-\BOOKMARK [2][-]{subsection.6.4.3}{6.4.3 Effect of Optical Thickness}{section.6.4}% 50
-\BOOKMARK [2][-]{subsection.6.4.4}{6.4.4 Vertical Structure}{section.6.4}% 51
-\BOOKMARK [2][-]{subsection.6.4.5}{6.4.5 Mean Molecular Weight}{section.6.4}% 52
-\BOOKMARK [2][-]{subsection.6.4.6}{6.4.6 Surface Pressure}{section.6.4}% 53
-\BOOKMARK [2][-]{subsection.6.4.7}{6.4.7 Optical Thickness}{section.6.4}% 54
-\BOOKMARK [2][-]{subsection.6.4.8}{6.4.8 Vertical Structure}{section.6.4}% 55
-\BOOKMARK [2][-]{subsection.6.4.9}{6.4.9 Phase Curves}{section.6.4}% 56
-\BOOKMARK [1][-]{section.6.5}{6.5 Simulated Observations}{chapter.6}% 57
-\BOOKMARK [2][-]{subsection.6.5.1}{6.5.1 Condensables and Clouds}{section.6.5}% 58
-\BOOKMARK [1][-]{section.6.6}{6.6 Discussion}{chapter.6}% 59
-\BOOKMARK [1][-]{section.6.7}{6.7 Conclusions}{chapter.6}% 60
-\BOOKMARK [0][]{chapter.7}{7 Clouds on Lava Planets}{}% 61
-\BOOKMARK [1][-]{section.7.1}{7.1 Clouds on Lava Planets}{chapter.7}% 62
-\BOOKMARK [1][-]{section.7.2}{7.2 Methods}{chapter.7}% 63
-\BOOKMARK [2][-]{subsection.7.2.1}{7.2.1 SOCRATES Radiative Transfer}{section.7.2}% 64
-\BOOKMARK [2][-]{subsection.7.2.2}{7.2.2 DIHRT Dynamical Clouds}{section.7.2}% 65
-\BOOKMARK [1][-]{section.7.3}{7.3 Cloud-Free Simulation}{chapter.7}% 66
-\BOOKMARK [2][-]{subsection.7.3.1}{7.3.1 Observations}{section.7.3}% 67
-\BOOKMARK [1][-]{section.7.4}{7.4 Simulations}{chapter.7}% 68
-\BOOKMARK [2][-]{subsection.7.4.1}{7.4.1 Pure CO Atmosphere}{section.7.4}% 69
-\BOOKMARK [2][-]{subsection.7.4.2}{7.4.2 Pure CO Atmosphere with Na}{section.7.4}% 70
-\BOOKMARK [2][-]{subsection.7.4.3}{7.4.3 Pure CO Atmosphere with H2O}{section.7.4}% 71
-\BOOKMARK [2][-]{subsection.7.4.4}{7.4.4 H2 Atmosphere}{section.7.4}% 72
-\BOOKMARK [1][-]{section.7.5}{7.5 Discussion}{chapter.7}% 73
-\BOOKMARK [2][-]{subsection.7.5.1}{7.5.1 Implications for Climate}{section.7.5}% 74
-\BOOKMARK [2][-]{subsection.7.5.2}{7.5.2 Implications for Observations}{section.7.5}% 75
-\BOOKMARK [0][]{chapter.8}{8 Comparing Lava Planets}{}% 76
-\BOOKMARK [1][-]{section.8.1}{8.1 55 Cancri e}{chapter.8}% 77
-\BOOKMARK [1][-]{section.8.2}{8.2 K2-141b}{chapter.8}% 78
-\BOOKMARK [1][-]{section.8.3}{8.3 LHS 3844b}{chapter.8}% 79
-\BOOKMARK [0][]{chapter.9}{9 Conclusions}{}% 80
-\BOOKMARK [0][]{chapter*.66}{Bibliography}{}% 81
-\BOOKMARK [0][]{appendix.A}{A Exo-FMS}{}% 82
-\BOOKMARK [1][-]{section.A.1}{A.1 Model Structure}{appendix.A}% 83
-\BOOKMARK [1][-]{section.A.2}{A.2 Dynamics}{appendix.A}% 84
-\BOOKMARK [1][-]{section.A.3}{A.3 Radiative Transfer}{appendix.A}% 85
-\BOOKMARK [1][-]{section.A.4}{A.4 Cloud Microphysics}{appendix.A}% 86
-\BOOKMARK [1][-]{section.A.5}{A.5 Example Planets}{appendix.A}% 87
-\BOOKMARK [2][-]{subsection.A.5.1}{A.5.1 Temperate Terrestrial Planets}{section.A.5}% 88
-\BOOKMARK [2][-]{subsection.A.5.2}{A.5.2 Lava Planets}{section.A.5}% 89
-\BOOKMARK [2][-]{subsection.A.5.3}{A.5.3 Gas Planets}{section.A.5}% 90
-\BOOKMARK [0][]{appendix.B}{B GFDL-SDC}{}% 91
-\BOOKMARK [1][-]{section.B.1}{B.1 Model Details}{appendix.B}% 92
-\BOOKMARK [1][-]{section.B.2}{B.2 Simulation Details}{appendix.B}% 93
-\BOOKMARK [0][]{appendix.C}{C Pseudo-Spectral Methods}{}% 94
-\BOOKMARK [1][-]{section.C.1}{C.1 Solving Equations}{appendix.C}% 95
-\BOOKMARK [1][-]{section.C.2}{C.2 Example Solutions}{appendix.C}% 96
+\BOOKMARK [0][]{chapter.1}{1 Introduction}{}% 2
+\BOOKMARK [0][]{chapter.2}{2 The Atmospheric Circulation of Tidally Locked Exoplanets}{}% 3
+\BOOKMARK [1][-]{section.2.1}{2.1 Exoplanets}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.2}{2.2 Tidally Locked Planets}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.3}{2.3 Atmospheric Dynamics}{chapter.2}% 6
+\BOOKMARK [0][]{chapter.3}{3 The Gierasch-Rossow-Williams Mechanism on Tidally Locked Planets}{}% 7
+\BOOKMARK [1][-]{section.3.1}{3.1 Linear Shallow-Water Model of a Tidally Locked Atmosphere}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.2}{3.2 Linear Model of the GRW Mechanism}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.3}{3.3 Non-Linear Model of the GRW Mechanism}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.4}{3.4 GCM Simulations of the GRW Mechanism}{chapter.3}% 11
+\BOOKMARK [1][-]{section.3.5}{3.5 Scaling Behaviour of Zonal Jets on Tidally Locked Planets}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.6}{3.6 Discussion}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.7}{3.7 Conclusions}{chapter.3}% 14
+\BOOKMARK [0][]{chapter.4}{4 Wave-Mean Flow Interactions in Tidally Locked Atmospheres}{}% 15
+\BOOKMARK [1][-]{section.4.1}{4.1 Linear Shallow-Water Model in Zonal Flow}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.2}{4.2 Free Modes in Shear Flow on the Beta-Plane}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.3}{4.3 Forced Response in Shear Flow on the Beta-Plane}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.4}{4.4 Forced Response in Shear Flow on a Sphere}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.5}{4.5 Scaling Relations}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.6}{4.6 Discussion}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.7}{4.7 Conclusions}{chapter.4}% 22
+\BOOKMARK [0][]{chapter.5}{5 Linking the Climate and Thermal Phase Curve of 55 Cancri e}{}% 23
+\BOOKMARK [1][-]{section.5.1}{5.1 Observations of 55 Cancri e}{chapter.5}% 24
+\BOOKMARK [1][-]{section.5.2}{5.2 Simplified Scaling Theory}{chapter.5}% 25
+\BOOKMARK [1][-]{section.5.3}{5.3 Exo-FMS Configuration}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.4}{5.4 Simulation Results}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.5}{5.5 Simulated Observations}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.6}{5.6 Discussion}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.7}{5.7 Conclusions}{chapter.5}% 30
+\BOOKMARK [0][]{chapter.6}{6 Phase-Resolved Emission Spectra of Potential Climates on 55 Cancri e}{}% 31
+\BOOKMARK [1][-]{section.6.1}{6.1 Improvements to Exo-FMS}{chapter.6}% 32
+\BOOKMARK [1][-]{section.6.2}{6.2 Control Simulation Results}{chapter.6}% 33
+\BOOKMARK [1][-]{section.6.3}{6.3 Best-Fit Simulation Results}{chapter.6}% 34
+\BOOKMARK [1][-]{section.6.4}{6.4 Thick Atmosphere Results}{chapter.6}% 35
+\BOOKMARK [1][-]{section.6.5}{6.5 Discussion}{chapter.6}% 36
+\BOOKMARK [1][-]{section.6.6}{6.6 Conclusions}{chapter.6}% 37
+\BOOKMARK [0][]{chapter.7}{7 Conclusions}{}% 38
+\BOOKMARK [0][]{chapter*.65}{Bibliography}{}% 39
+\BOOKMARK [0][]{appendix.A}{A The Exo-FMS GCM}{}% 40
+\BOOKMARK [1][-]{section.A.1}{A.1 Model Structure}{appendix.A}% 41
+\BOOKMARK [1][-]{section.A.2}{A.2 Finite-Volume Dynamical Core}{appendix.A}% 42
+\BOOKMARK [0][]{appendix.B}{B Pseudo-Spectral Methods for the Shallow-Water Equations}{}% 43
+\BOOKMARK [1][-]{section.B.1}{B.1 Pseudo-Spectral Collocation for a Single Equation}{appendix.B}% 44
+\BOOKMARK [1][-]{section.B.2}{B.2 Beta-Plane Shallow Water Equations}{appendix.B}% 45
+\BOOKMARK [1][-]{section.B.3}{B.3 Spherical Shallow-Water Equations}{appendix.B}% 46

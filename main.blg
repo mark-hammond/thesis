@@ -1,98 +1,59 @@
 This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: main.aux
-A level-1 auxiliary file: dedication.aux
-A level-1 auxiliary file: acknowledgements.aux
 A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: acknowledgements.aux
 A level-1 auxiliary file: chapters/introduction.aux
 A level-1 auxiliary file: chapters/lava-planets.aux
-A level-1 auxiliary file: chapters/wave-mean-flow.aux
-A level-1 auxiliary file: chapters/eqm-circulation-states.aux
-A level-1 auxiliary file: chapters/nonlinear-circulation.aux
-A level-1 auxiliary file: chapters/linking-climate-55cnce.aux
-A level-1 auxiliary file: chapters/clouds-on-lava-planets.aux
-A level-1 auxiliary file: chapters/comparing-lava-planets.aux
+A level-1 auxiliary file: chapters/new-eqm-zonal-flow.aux
+A level-1 auxiliary file: chapters/new-wave-mean-flow.aux
+A level-1 auxiliary file: chapters/new-linking-climate-55cnce.aux
+A level-1 auxiliary file: chapters/soc-lava-planets.aux
 A level-1 auxiliary file: chapters/conclusion.aux
 The style file: abbrvnatetal.bst.bst
 A level-1 auxiliary file: appendices.aux
 Database file #1: references.bib
-Warning--I didn't find a database entry for "demory2016map"
-Warning--I didn't find a database entry for "miguel2011compositions"
-Warning--I didn't find a database entry for "wang2014instability"
-Warning--I didn't find a database entry for "lin2004vertically"
-Warning--I didn't find a database entry for "merlis2010atmospheric"
-Warning--I didn't find a database entry for "heng2011atmospheric"
-Warning--I didn't find a database entry for "koll2015deciphering"
-Warning--I didn't find a database entry for "koll2016temperature"
-Warning--I didn't find a database entry for "carone2014connecting"
-Warning--I didn't find a database entry for "kataria2014atmospheric"
-Warning--I didn't find a database entry for "charnay20153d"
-Warning--I didn't find a database entry for "von201155"
-Warning--I didn't find a database entry for "pierrehumbert2016dynamics"
-Warning--I didn't find a database entry for "pierrehumbert2011hydrogen"
-Warning--I didn't find a database entry for "ClimateBook"
-Warning--I didn't find a database entry for "liu2013atmospheric"
-Warning--I didn't find a database entry for "boutle2017proxima"
-Warning--I didn't find a database entry for "zhang2016effects"
-Warning--I didn't find a database entry for "komacek2016atmospheric"
-Warning--I didn't find a database entry for "freedman2014cia"
-Warning--I didn't find a database entry for "tsiaras2016detection"
-Warning--I didn't find a database entry for "wordsworth2013hydrogen"
-Warning--I didn't find a database entry for "cowan2008inverting"
-Warning--I didn't find a database entry for "crossfield2012acme"
-Warning--I didn't find a database entry for "parmentier2016transitions"
-Warning--I didn't find a database entry for "wetzel2013sio"
-Warning--I didn't find a database entry for "bolmont2013tidal"
-Warning--I didn't find a database entry for "castan2011hot"
-Warning--I didn't find a database entry for "demory2016variability"
-Warning--I didn't find a database entry for "armstrong2016variability"
-Name 1 in "Pierrehumbert, R. T., and Hammond, M." has a comma at the end for entry pierrehumbert2018review
-while executing---line 1366 of file abbrvnatetal.bst.bst
-Name 1 in "Pierrehumbert, R. T., and Hammond, M." has a comma at the end for entry pierrehumbert2018review
-while executing---line 1366 of file abbrvnatetal.bst.bst
-Name 1 in "Pierrehumbert, R. T., and Hammond, M." has a comma at the end for entry pierrehumbert2018review
-while executing---line 1448 of file abbrvnatetal.bst.bst
-Name 1 in "Pierrehumbert, R. T., and Hammond, M." has a comma at the end for entry pierrehumbert2018review
-while executing---line 1448 of file abbrvnatetal.bst.bst
-You've used 16 entries,
+Warning--string name "n/a" is undefined
+--line 1116 of file references.bib
+You've used 112 entries,
             2807 wiz_defined-function locations,
-            740 strings with 8616 characters,
-and the built_in function-call counts, 8263 in all, are:
-= -- 753
-> -- 524
-< -- 13
-+ -- 190
-- -- 161
-* -- 693
-:= -- 1272
-add.period$ -- 48
-call.type$ -- 16
-change.case$ -- 113
-chr.to.int$ -- 16
-cite$ -- 32
-duplicate$ -- 344
-empty$ -- 609
-format.name$ -- 205
-if$ -- 1702
+            1235 strings with 26959 characters,
+and the built_in function-call counts, 57241 in all, are:
+= -- 5190
+> -- 3717
+< -- 59
++ -- 1360
+- -- 1138
+* -- 4867
+:= -- 8877
+add.period$ -- 337
+call.type$ -- 112
+change.case$ -- 779
+chr.to.int$ -- 112
+cite$ -- 224
+duplicate$ -- 2407
+empty$ -- 4261
+format.name$ -- 1417
+if$ -- 11792
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 17
-newline$ -- 88
-num.names$ -- 64
-pop$ -- 231
+missing$ -- 115
+newline$ -- 568
+num.names$ -- 448
+pop$ -- 1552
 preamble$ -- 1
-purify$ -- 98
+purify$ -- 670
 quote$ -- 0
-skip$ -- 278
+skip$ -- 1934
 stack$ -- 0
-substring$ -- 299
-swap$ -- 38
-text.length$ -- 1
+substring$ -- 1964
+swap$ -- 168
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 171
+type$ -- 1217
 warning$ -- 0
-while$ -- 71
+while$ -- 490
 width$ -- 0
-write$ -- 213
-(There were 4 error messages)
+write$ -- 1460
+(There was 1 warning)

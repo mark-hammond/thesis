@@ -381,6 +381,31 @@ Test &  \colhead{p\textsubscript{s}}  & \colhead{$\mu$} & \colhead{$\tau_{\infty
 
 \end{deluxetable}
 
+\begin{table}
+  \centering
+  \begin{tabular}{c|c|c|c|c|c}
+    Test &  \colhead{p\textsubscript{s}}  & \colhead{$\mu$} & \colhead{$\tau_{\infty}$} & \colhead{$\kappa$} \\
+    &  \colhead{(bar)} & \colhead{(gmol\textsuperscript{-1})} & & \colhead{(cm\textsuperscript{2}kg\textsuperscript{-1}) \\
+    \hline
+    1 -- H\textsubscript{2} & 10 & 2.0 & 8.0 & 22.4  \\
+    2 -- N\textsubscript{2} & 10 & 28.0 & 8.0 & 22.4 \\
+    & & & & \\
+    3 -- H\textsubscript{2}+N\textsubscript{2} & 10 & 4.6 & 8.0 & 22.4 \\
+    4 -- H\textsubscript{2}+N\textsubscript{2} & 5 & 4.6 & 4.0 & 22.4 \\
+    5 -- H\textsubscript{2}+N\textsubscript{2} & 3 & 4.6 & 2.4 & 22.4 \\
+    & & & & \\
+    6 -- H\textsubscript{2}+N\textsubscript{2} & 10 & 15.0 & 8.0 & 22.4 \\
+    7 -- H\textsubscript{2}+N\textsubscript{2} & 5 & 15.0 & 4.0 & 22.4 \\
+    8 -- H\textsubscript{2}+N\textsubscript{2} & 3 & 15.0 & 2.4 & 22.4 \\
+    & & & & \\
+    9 -- H\textsubscript{2}+N\textsubscript{2} & 5 & 4.6 & 2.0 & 11.2 \\
+    10 -- H\textsubscript{2}+N\textsubscript{2} & 5 & 4.6 & 8.0 & 44.8 \\
+  \end{tabular}
+  \caption{Exo-FMS Test Parameters. The first three tests are intended to show the different regimes discussed in section \ref{sec:theory}, and Test 5 is the ``best-fit'' composition discussed in section \ref{sec:ps_effect}. Note that the molar heat capacity of H\textsubscript{2} and N\textsubscript{2} is almost the same. The opacity $\kappa$ has been calculated from the chosen $\tau_{\infty}$. The 10 bar H\textsubscript{2} opacity is consistent with the CIA-only results of \citet{freedman2014cia}.}\label{tab:paramstable}
+\end{table}
+
+
+
 This section shows the results of our tests in Exo-FMS. We modelled ten different atmospheres and compared their phase curves and temperature distributions to those measured and reconstructed by \citet{demory2016map}. Sections \ref{sec:model_results}, \ref{sec:ps_effect}, and \ref{sec:tauinf_effect} investigate the effects of mean molecular weight $\mu$, surface pressure p\textsubscript{s}, and optical thickness $\tau_{inf}$. We focus on the hot-spot shift and day-night contrast of the temperature distributions, which correspond to the offset and amplitude of the phase curves. We then discuss which atmospheres are consistent with the observed phase curve, and how real-gas radiative transfer and cloud formation could fully explain the observations. %***Replace "six" here with the current number
 
 
@@ -412,18 +437,6 @@ Observations & &  & +(41 $\pm$ 12) & (1300 $\pm$ 670)   \\
 
 \subsection{Effect of Mean Molecular Weight}\label{sec:model_results}
 
-\begin{figure*}
- \gridline{\fig{H210bar_surfp.eps}{0.3\textwidth}{H\textsubscript{2}, 10 bar: surface air temperature}
-           \fig{H210bar_halfp.eps}{0.3\textwidth}{H\textsubscript{2}, 10 bar: half-surface-pressure air temperature}
-           \fig{H210bar_brightT.eps}{0.3\textwidth}{H\textsubscript{2}, 10 bar: brightness temperature}}
- \gridline{\fig{N2_surfp.eps}{0.3\textwidth}{N\textsubscript{2}, 10 bar: surface air temperature}
-           \fig{N2_halfp.eps}{0.3\textwidth}{N\textsubscript{2}, 10 bar: half-surface-pressure air temperature}
-           \fig{N2_brightT.eps}{0.3\textwidth}{N\textsubscript{2}, 10 bar: brightness temperature}}
- \gridline{\fig{10sh_surfp.eps}{0.3\textwidth}{H\textsubscript{2}+N\textsubscript{2}, $4.6\ \mathrm{gmol}^{-1}$, 10 bar: surface air temperature}
-           \fig{10sh_halfp.eps}{0.3\textwidth}{H\textsubscript{2}+N\textsubscript{2}, $4.6\ \mathrm{gmol}^{-1}$, 10 bar: half-surface-pressure air temperature}
-           \fig{10sh_brightT.eps}{0.3\textwidth}{H\textsubscript{2}+N\textsubscript{2}, , $4.6\ \mathrm{gmol}^{-1}$, 10 bar: brightness temperature}}
-\caption{10-day average temperature maps centred on the substellar point, after each Exo-FMS test reaches top-of-atmosphere radiative balance. The first column is surface air temperature, which generally shows the largest day-night contrast as it is strongly coupled to the surface temperature and incoming stellar flux. The second column is the half-pressure air temperature, which generally shows the largest hot-spot shift as it is normally close to the height of the superrotating jet. The third column is the brightness temperature, which determines the thermal phase curve for the model grey-gas radiation -- in reality, the thermal emission could be from a different level of the atmosphere.\label{fig:allT_results}}
-\end{figure*}
 
 We use a pure H\textsubscript{2} atmosphere as a starting point, as the measurements of  \citet{tsiaras2016detection} suggested that the atmosphere is H\textsubscript{2}-rich.
 
@@ -440,18 +453,6 @@ In summary, Tests 1, 2 and 3 do not match the measured temperature distribution,
 
 \subsection{Effect of Surface Pressure}\label{sec:ps_effect}
 
-\begin{figure*}[t]
- \gridline{\fig{H2N2_10_halfp.eps}{0.3\textwidth}{$4.6\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, 10 bar: half-surface-pressure air temperature}
-           \fig{H2N2_5_halfp.eps}{0.3\textwidth}{$4.6\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, 5 bar: half-surface-pressure air temperature}
-           \fig{H2N2_3_halfp.eps}{0.3\textwidth}{$4.6\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, 3 bar: half-surface-pressure air temperature}}
-
- \gridline{\fig{15GMOL_10_halfp.eps}{0.3\textwidth}{$15\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, 10 bar: half-surface-pressure air temperature}
-           \fig{15GMOL_5_halfp.eps}{0.3\textwidth}{$15\ \mathrm{gmol}^{-1}$, \textsubscript{2}+N\textsubscript{2}, 5 bar: half-surface-pressure air temperature}
-           \fig{15GMOL_3_halfp.eps}{0.3\textwidth}{$15\ \mathrm{gmol}^{-1}$, 15H\textsubscript{2}+N\textsubscript{2}, 3 bar: half-surface-pressure air temperature}}
-
-\caption{10-day average temperature maps of the half-surface-pressure level for $4.6\ \mathrm{gmol}^{-1}$ and $15\ \mathrm{gmol}^{-1}$ H\textsubscript{2} + N\textsubscript{2} atmospheres with surface pressures of 3, 5, and 10 bar, and constant opacity $\kappa = 22.4$ cm\textsuperscript{2}kg\textsuperscript{-1}. The global temperature distributions are similar but the maximum and minimum temperatures differ.\label{fig:H2N2_T_maps}}
-\end{figure*}
-
 In this section we discuss a number of simulations with surface pressures of 3, 5, and 10 bar. The tests either have mean molecular weight $\mu = 4.6\ \mathrm{gmol}^{-1}$ or $15\ \mathrm{gmol}^{-1}$, corresponding to an H\textsubscript{2}-N\textsubscript{2} mixture with molar concentrations of 90\%  H\textsubscript{2} and 10\%   N\textsubscript{2}, or 50\%  H\textsubscript{2} and 50\%   N\textsubscript{2}. We used the same opacity $\kappa$ in all these tests.
 
 We will focus on the temperature of the half-pressure level, which fits the observations better in general (see Section \ref{sec:vertical_structure}). The observed high maximum brightness temperature suggests that the greenhouse gas supplying the optical thickness has a window at $4.5\ \micron$, as an optically thick grey-gas-like continuum would have a radiating level high in the atmosphere, which does not fit the observed high day-side temperature and large day-night contrast.
@@ -467,29 +468,17 @@ In the rest of this paper, we discuss the effect of vertical structure on the br
 \subsection{Effect of Optical Thickness}\label{sec:tauinf_effect}
 
 
-\begin{figure*}[t]
- \gridline{\fig{5sh_2_halfp.eps}{0.3\textwidth}{$4.6\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, $\tau_{\infty} = 2.0$: half-surface-pressure air temperature}
-           \fig{H2N2_5_halfp.eps}{0.3\textwidth}{$4.6\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, $\tau_{\infty} = 4.0$: half-surface-pressure air temperature}
-           \fig{5sh_8_halfp.eps}{0.3\textwidth}{$4.6\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, $\tau_{\infty} = 8.0$: half-surface-pressure air temperature}}
-
-\caption{10-day average temperature maps of the half-surface-pressure level for $4.6\ \mathrm{gmol}^{-1}$  H\textsubscript{2} + N\textsubscript{2} atmospheres with surface pressure 5 bar and optical thicknesses of 2.0, 4.0, and 8.0.\label{fig:vary_tau_maps}}
-\end{figure*}
-
 The previous section tested the effect of changing the surface pressure. We kept the atmospheric composition and opacity the same, but this meant that the optical thickness $\tau_{\infty}$ changed with the surface pressure. In this section, we test the effect of changing the optical thickness with all other parameters constant, and demonstrate that the optical thickness does not greatly affect the global circulation, temperature distribution, and phase curve as discussed in Section \ref{sec:theory}.
 
 We modelled three 5 bar $4.6\ \mathrm{gmol}^{-1}$ atmospheres with $\tau_{\infty} =$ 8.0, 4.0, and 2.0. Section \ref{sec:theory} predicts that the optical thickness will not have a large effect on the global circulation and temperature distribution (other than on the magnitude of the temperatures). Figure \ref{fig:vary_tau_maps} shows the temperature at the half surface pressure level for these three tests. All the tests have a similar global temperature distribution, and the tests with higher optical thickness have higher temperatures as expected. Figure \ref{fig:phasecurves_tauinf} in the next section shows that $\tau_{\infty}$ only affects the magnitude of the thermal phase curves of these tests.
 
 The test with $\tau_{\infty} = 2.0$ is not hot enough to match the observations. The test with $\tau_{\infty} = 8.0$ matches the peak of the observed phase curve better than the $\tau_{\infty} = 4.0$ case, but its night-side is much hotter than the observations. If the criterion was only to match the magnitude and position of the peak of the phase curve, the $\tau_{\infty} = 8.0$ case would be our ``best-fit''. However, in Section \ref{sec:condensables} we show that the $\tau_{\infty} = 4.0$ case could also match the night-side observations given high night-side cloud formation, so we choose this to be our ``best-fit'' case.
 
+%SUBSECTION --
+\subsection{Vertical Structure}\label{sec:vertical_structure}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\subsection{Vertical Structure}\label{sec:vertical_structure}
-\begin{figure*}
-  \gridline{\fig{Tprofiles.eps}{0.3\textwidth}{(a) Temperature profile for several columns around the equator of the 5 bar $4.6\ \mathrm{gmol}^{-1}$ H\textsubscript{2}+N\textsubscript{2} atmosphere, with adiabats plotted in grey.}
-            \fig{dncontrast.eps}{0.3\textwidth}{(b) Day-night contrast versus pressure level, defined as the difference between the warmest and coolest hemispheres for consistency with \citet{demory2016map}.}
-            \fig{hotspotlocation.eps}{0.3\textwidth}{(c) Hot-spot shift versus pressure level for all atmospheres, up to a level where the zonal temperature gradient is too small for a distinct hot-spot shift.}}
-\caption{Vertical structure of the tested atmospheres. The best-fit ``H\textsubscript{2}+N\textsubscript{2}, 5 bar'' case here has mean molecular weight $4.6\ \mathrm{gmol}^{-1}$ and $\tau_{\infty} = 4.0$. The T(p) profiles follow the dry adiabat on the lower atmosphere of the day-side, but tend towards isothermal elsewhere. The day-night contrast always increases closer to the surface. The hot-spot shift generally increases further from the surface, but becomes indistinct without a large day-night contrast. \label{fig:pressure_variation}}
-\end{figure*}
 
 The brightness temperature measured in a thermal phase curve depends on the composition via two sets of properties. The atmospheric composition affects the radiative features which determine the heating rate, and the thermodynamic parameters affect the temperature distribution with latitude, longitude, and pressure. Finally the radiative features determine how this manifests as a brightness temperature to an observer. In this section we will discuss how the important features of the temperature distribution vary with depth in the atmosphere, and consider how the effect of the thermodynamic parameters can be distinguished from the effect of the radiative features on observations.
 
@@ -501,11 +490,6 @@ Figure \ref{fig:pressure_variation}c shows how the hot-spot shift varies with pr
 
 Figure \ref{fig:phasecurves} shows how the radiating level determines the observed phase curve due to the vertical structure of the atmosphere. The different phase curves correspond to the $4.5\ \micron$ emission from various pressure levels in the 5 bar, H\textsubscript{2} + N\textsubscript{2} atmosphere. The phase curve of the lower atmosphere has a much larger amplitude than the upper atmosphere, while the peak offset is much larger in the upper atmosphere. This corresponds to a larger day-night contrast in the lower atmosphere, and a larger hot-spot shift in the upper atmosphere. The grey-gas model OLR corresponds roughly to the 0.2 p\textsubscript{s} radiating level (see Section \ref{sec:sim_pc}).
 
-\begin{figure}
-\plotone{phasecurves_p_level.eps}
-\caption{Phase curves for different radiating levels in the 5 bar, $4.6\ \mathrm{gmol}^{-1}$,  H\textsubscript{2} + N\textsubscript{2} atmosphere. Raising the radiating level has a very similar effect to decreasing the molar mass in Figures \ref{fig:phasecurves_flux} and \ref{fig:phasecurves_temp}, leading to a degeneracy in interpreting the observed phase curve (the black point and line show the maximum and minimum observed fluxes, with error bars).\label{fig:phasecurves}}
-\end{figure}
-
 The fundamental degeneracy in the observations is made clear by comparing Figure \ref{fig:phasecurves} and Figure \ref{fig:phasecurves_flux}. Both show a family of curves which vary from a large amplitude curve centered on 0$\degr$, to a small amplitude curve with a large offset. Increasing $t_{rad}/t_{transp}$ by changing the composition has the same effect as observing a radiating level higher in the atmosphere.
 
 Observations at different wavelengths could resolve these degeneracies by  probing different pressure levels. For instance, it is possible that the high brightness temperatures observed are due to weaker atmospheric absorption at $4.5\ \micron$ than the average longwave opacity, so the measured radiation is from a lower level than the grey-gas OLR. H\textsubscript{2}-H\textsubscript{2} or H\textsubscript{2}-N\textsubscript{2} collision-induced absorption could cause this effect, as it has weaker absorption at $4.5\ \micron$ than on average in the thermal infrared at these temperatures \citep{wordsworth2013hydrogen}. H\textsubscript{2}O could also fill this role, as it has strong overall thermal infrared absorption but weak absorption at $4.5\ \micron$ (unless it is abundant enough for self-induced continuum absorption). CO\textsubscript{2} and CO do absorb in this region, so could not be abundant if our suggestion is correct. Broadband observations would measure the overall longwave radiating level, and could be compared to the $4.5\ \micron$ measurements to identify an absorption window.
@@ -516,17 +500,69 @@ Observations at different wavelengths could resolve these degeneracies by  probi
 %SUBSECTION --
 \subsection{Mean Molecular Weight}
 
+
+\begin{figure*}
+ \gridline{\fig{H210bar_surfp.eps}{0.3\textwidth}{H\textsubscript{2}, 10 bar: surface air temperature}
+           \fig{H210bar_halfp.eps}{0.3\textwidth}{H\textsubscript{2}, 10 bar: half-surface-pressure air temperature}
+           \fig{H210bar_brightT.eps}{0.3\textwidth}{H\textsubscript{2}, 10 bar: brightness temperature}}
+ \gridline{\fig{N2_surfp.eps}{0.3\textwidth}{N\textsubscript{2}, 10 bar: surface air temperature}
+           \fig{N2_halfp.eps}{0.3\textwidth}{N\textsubscript{2}, 10 bar: half-surface-pressure air temperature}
+           \fig{N2_brightT.eps}{0.3\textwidth}{N\textsubscript{2}, 10 bar: brightness temperature}}
+ \gridline{\fig{10sh_surfp.eps}{0.3\textwidth}{H\textsubscript{2}+N\textsubscript{2}, $4.6\ \mathrm{gmol}^{-1}$, 10 bar: surface air temperature}
+           \fig{10sh_halfp.eps}{0.3\textwidth}{H\textsubscript{2}+N\textsubscript{2}, $4.6\ \mathrm{gmol}^{-1}$, 10 bar: half-surface-pressure air temperature}
+           \fig{10sh_brightT.eps}{0.3\textwidth}{H\textsubscript{2}+N\textsubscript{2}, , $4.6\ \mathrm{gmol}^{-1}$, 10 bar: brightness temperature}}
+\caption{10-day average temperature maps centred on the substellar point, after each Exo-FMS test reaches top-of-atmosphere radiative balance. The first column is surface air temperature, which generally shows the largest day-night contrast as it is strongly coupled to the surface temperature and incoming stellar flux. The second column is the half-pressure air temperature, which generally shows the largest hot-spot shift as it is normally close to the height of the superrotating jet. The third column is the brightness temperature, which determines the thermal phase curve for the model grey-gas radiation -- in reality, the thermal emission could be from a different level of the atmosphere.\label{fig:allT_results}}
+\end{figure*}
+
 %SUBSECTION --
 \subsection{Surface Pressure}
+
+
+\begin{figure*}[t]
+ \gridline{\fig{H2N2_10_halfp.eps}{0.3\textwidth}{$4.6\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, 10 bar: half-surface-pressure air temperature}
+           \fig{H2N2_5_halfp.eps}{0.3\textwidth}{$4.6\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, 5 bar: half-surface-pressure air temperature}
+           \fig{H2N2_3_halfp.eps}{0.3\textwidth}{$4.6\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, 3 bar: half-surface-pressure air temperature}}
+
+ \gridline{\fig{15GMOL_10_halfp.eps}{0.3\textwidth}{$15\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, 10 bar: half-surface-pressure air temperature}
+           \fig{15GMOL_5_halfp.eps}{0.3\textwidth}{$15\ \mathrm{gmol}^{-1}$, \textsubscript{2}+N\textsubscript{2}, 5 bar: half-surface-pressure air temperature}
+           \fig{15GMOL_3_halfp.eps}{0.3\textwidth}{$15\ \mathrm{gmol}^{-1}$, 15H\textsubscript{2}+N\textsubscript{2}, 3 bar: half-surface-pressure air temperature}}
+
+\caption{10-day average temperature maps of the half-surface-pressure level for $4.6\ \mathrm{gmol}^{-1}$ and $15\ \mathrm{gmol}^{-1}$ H\textsubscript{2} + N\textsubscript{2} atmospheres with surface pressures of 3, 5, and 10 bar, and constant opacity $\kappa = 22.4$ cm\textsuperscript{2}kg\textsuperscript{-1}. The global temperature distributions are similar but the maximum and minimum temperatures differ.\label{fig:H2N2_T_maps}}
+\end{figure*}
+
 
 %SUBSECTION --
 \subsection{Optical Thickness}
 
+
+
+\begin{figure*}[t]
+ \gridline{\fig{5sh_2_halfp.eps}{0.3\textwidth}{$4.6\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, $\tau_{\infty} = 2.0$: half-surface-pressure air temperature}
+           \fig{H2N2_5_halfp.eps}{0.3\textwidth}{$4.6\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, $\tau_{\infty} = 4.0$: half-surface-pressure air temperature}
+           \fig{5sh_8_halfp.eps}{0.3\textwidth}{$4.6\ \mathrm{gmol}^{-1}$, H\textsubscript{2}+N\textsubscript{2}, $\tau_{\infty} = 8.0$: half-surface-pressure air temperature}}
+
+\caption{10-day average temperature maps of the half-surface-pressure level for $4.6\ \mathrm{gmol}^{-1}$  H\textsubscript{2} + N\textsubscript{2} atmospheres with surface pressure 5 bar and optical thicknesses of 2.0, 4.0, and 8.0.\label{fig:vary_tau_maps}}
+\end{figure*}
+
 %SUBSECTION --
 \subsection{Vertical Structure}
 
+
+\subsection{Vertical Structure}\label{sec:vertical_structure}
+\begin{figure*}
+  \gridline{\fig{Tprofiles.eps}{0.3\textwidth}{(a) Temperature profile for several columns around the equator of the 5 bar $4.6\ \mathrm{gmol}^{-1}$ H\textsubscript{2}+N\textsubscript{2} atmosphere, with adiabats plotted in grey.}
+            \fig{dncontrast.eps}{0.3\textwidth}{(b) Day-night contrast versus pressure level, defined as the difference between the warmest and coolest hemispheres for consistency with \citet{demory2016map}.}
+            \fig{hotspotlocation.eps}{0.3\textwidth}{(c) Hot-spot shift versus pressure level for all atmospheres, up to a level where the zonal temperature gradient is too small for a distinct hot-spot shift.}}
+\caption{Vertical structure of the tested atmospheres. The best-fit ``H\textsubscript{2}+N\textsubscript{2}, 5 bar'' case here has mean molecular weight $4.6\ \mathrm{gmol}^{-1}$ and $\tau_{\infty} = 4.0$. The T(p) profiles follow the dry adiabat on the lower atmosphere of the day-side, but tend towards isothermal elsewhere. The day-night contrast always increases closer to the surface. The hot-spot shift generally increases further from the surface, but becomes indistinct without a large day-night contrast. \label{fig:pressure_variation}}
+\end{figure*}
+
 %SUBSECTION --
 \subsection{Phase Curves}
+
+\begin{figure}
+\plotone{phasecurves_p_level.eps}
+\caption{Phase curves for different radiating levels in the 5 bar, $4.6\ \mathrm{gmol}^{-1}$,  H\textsubscript{2} + N\textsubscript{2} atmosphere. Raising the radiating level has a very similar effect to decreasing the molar mass in Figures \ref{fig:phasecurves_flux} and \ref{fig:phasecurves_temp}, leading to a degeneracy in interpreting the observed phase curve (the black point and line show the maximum and minimum observed fluxes, with error bars).\label{fig:phasecurves}}
+\end{figure}
 
 %SECTION CONCLUSIONS
 
@@ -554,19 +590,11 @@ for $\frac{r_{p}}{r_{\circledast}} = 0.0187$, and I\textsubscript{$\circledast$}
 
 Figure \ref{fig:phasecurves_flux} shows the resulting phase curves for different mean molecular weight values. The maximum and minimum fluxes of the real, observed phase curve are plotted as points. It is clear that the single-gas tests do not fit the data well. Test 1 (H\textsubscript{2}, 10 bar, $\tau_{inf} = 8.0$) has a hot-spot shift, but a very flat curve due to its efficient heat circulation. Test 2 (H\textsubscript{2}, 10 bar, $\tau_{inf} = 8.0$) has a large amplitude, but no hot-spot shift due to its small radiative timescale. The phase curve of Test 5 (H\textsubscript{2}+N\textsubscript{2}, 5 bar, $\tau_{inf} = 4.0$) fits the observations better, as does its temperature distribution in section \ref{sec:theory}. It has a large peak offset and amplitude, although not as large as the observed offset and amplitude. This discrepancy may be partly due to the high radiating level imposed by the grey-gas approximation with a high optical thickness.
 
-\begin{figure}
-\plotone{phasecurves_vary_p.eps}
-\caption{Phase curves calculated using the emission from the half-surface-pressure level of the $4.6\ \mathrm{gmol}^{-1}$ H\textsubscript{2} + N\textsubscript{2} atmospheres with surface pressures of 3, 5, and 10 bar, corresponding to the temperature maps in Figure \ref{fig:H2N2_T_maps}.\label{fig:phasecurves_H2N2}}
-\end{figure}
-
 Figure \ref{fig:phasecurves_temp} shows the phase curves which would be measured from a radiating level at half the surface pressure for each mean molecular weight test -- a possibility if the atmosphere's opacity at $4.5\ \micron$ is lower than its mean opacity. The H\textsubscript{2}-N\textsubscript{2} test fits the observations better in this figure, with a larger phase curve peak offset and amplitude than the OLR phase curve. The night-side flux is still too high, but this could be explained by cloud formation on the night-side (see Section \ref{sec:condensables}).
 
 We varied the surface pressure of the 4.6 gmol\textsuperscript{-1} H\textsubscript{2}-N\textsubscript{2} case, to determine the ``best-fit'' to the observed phase curve (discussed in Section \ref{sec:ps_effect}). Figure \ref{fig:phasecurves_H2N2} shows the phase curves of the emission from the half-pressure level for the three tests. These show how increasing the pressure increases the offset and peak magnitude, but decreases the amplitude (as the opacity was constant, so the optical thickness increased). If the criterion were just to match the position and magnitude of the hot-spot shift, the 10 bar case would be the best fit. However, we chose the 5 bar case as our ``best-fit'' as it has the possibility to match the observations given high cloud formation on the night-side, which we discuss in Section \ref{sec:condensables}.
 
-\begin{figure}
-\plotone{phasecurves_vs_tau.eps}
-\caption{Phase curves calculated using the emission from the half-surface-pressure level of the 5 bar $4.6\ \mathrm{gmol}^{-1}$ H\textsubscript{2} + N\textsubscript{2} atmospheres with optical thicknesses of 2.0, 4.0, and 8.0, corresponding to the temperature maps in Figure \ref{fig:vary_tau_maps}.\label{fig:phasecurves_tauinf}}
-\end{figure}
+
 
 Figure \ref{fig:phasecurves_tauinf} shows the phase curves of the tests in Section \ref{sec:tauinf_effect}, where we varied the optical thickness of the 5 bar 4.6 gmol\textsuperscript{-1} H\textsubscript{2}-N\textsubscript{2} to determine its effect on the global circulation and temperature distribution. As expected, the optical thickness does not affect the global temperature distribution and phase curve, beyond the magnitude of the temperatures and fluxes.
 
@@ -576,15 +604,6 @@ In general, the phase curves calculated using the temperature of the half-pressu
 
 To summarise, the thermal emission from the half-pressure level of the 5 bar, 4.6 gmol\textsuperscript{-1} H\textsubscript{2}+N\textsubscript{2} test matched the observed phase curve peak offset and magnitude in Figure \ref{fig:phasecurves_temp}, but did not match the minimum flux (night-side temperature). None of the phase curves calculated with the model grey-gas OLR matched the observations, but we do not consider this to be important -- in reality, the radiating level of the $4.5\ \micron$ emission will depend entirely on the radiative species in the atmosphere. We discuss the effect of clouds and condensables in more detail in the next section, as they could decrease the apparent night-side temperature and better explain the observations.
 
-\begin{figure}
-\plotone{phasecurves_flux.eps}
-\caption{Simulated $4.5\ \micron$ phase curves calculated from the brightness temperature of the grey-gas OLR. The red curve is the 10 bar H\textsubscript{2} atmosphere, which has such efficient heat transport that it has a large peak offset and very small amplitude. The blue curve is the 10 bar N\textsubscript{2} atmosphere, with very weak heat transport so a large amplitude and peak offset. The green curve is the 5 bar H\textsubscript{2}+N\textsubscript{2} atmosphere, with a significant offset and amplitude. The offset and amplitude are not as large as the \citet{demory2016map} measurements, shown by the black point and line (with their errors shown by the bars and the shaded area).\label{fig:phasecurves_flux}}
-\end{figure}
-
-\begin{figure}
-\plotone{phasecurves_temp.eps}
-\caption{Simulated phase curves for the emission from a radiating level at half-surface-pressure. The amplitude and offset are larger than the phase curves of the OLR. The offset and amplitude are not as large as the \citet{demory2016map} measurements, but Figure \ref{fig:phasecurves_clouds} shows that the H\textsubscript{2}+N\textsubscript{2} atmosphere (blue curve) could match the observations with the night-side cloud formation discussed in Section \ref{sec:condensables}.\label{fig:phasecurves_temp}}
-\end{figure}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -604,16 +623,39 @@ Further observations at more wavelengths would be needed to find clouds on the p
 
 In conclusion, SiO from a magma ocean is a good candidate for a cloud species which would affect observations. It could form clouds high on the night-side which would increase the phase curve amplitude, making our 4.6 gmol\textsuperscript{-1}, 5 bar H\textsubscript{2} + N\textsubscript{2} test consistent with the observations. Future work could include a model of cloud formation and transport, which would be more realistic than our post-processing which essentially only predicts cloud formation in cold areas of the atmosphere.
 
-\begin{figure}
-\plotone{phasecurves_clouds.eps}
-\caption{Simulated phase curves for different equilibrium surface partial pressures of SiO in the 4.6 gmol\textsuperscript{-1}, 5 bar H\textsubscript{2} + N\textsubscript{2} atmosphere. 10 mbar corresponds to the mean day-side surface temperature, 50 mbar to the mean temperature in the region between 25N to 25S and 25E to 25W, and 100 mbar to the maximum surface temperature. The 300 mbar curve shows that clouds could form on the day-side at high enough surface partial pressures.  The offset and amplitude of the 100 mbar case almost agrees with the \citet{demory2016map} measurements within error. It is not clear which partial pressure is appropriate, as the calculated pressures strictly apply to magma under a vacuum \citep{miguel2011compositions}, and there is not a single clear magma ocean temperature in our results. \label{fig:phasecurves_clouds}}
-\end{figure}
 %%%OLD
 
 
 %SUBSECTION --
 
+\begin{figure}
+\plotone{phasecurves_vary_p.eps}
+\caption{Phase curves calculated using the emission from the half-surface-pressure level of the $4.6\ \mathrm{gmol}^{-1}$ H\textsubscript{2} + N\textsubscript{2} atmospheres with surface pressures of 3, 5, and 10 bar, corresponding to the temperature maps in Figure \ref{fig:H2N2_T_maps}.\label{fig:phasecurves_H2N2}}
+\end{figure}
+
+\begin{figure}
+\plotone{phasecurves_vs_tau.eps}
+\caption{Phase curves calculated using the emission from the half-surface-pressure level of the 5 bar $4.6\ \mathrm{gmol}^{-1}$ H\textsubscript{2} + N\textsubscript{2} atmospheres with optical thicknesses of 2.0, 4.0, and 8.0, corresponding to the temperature maps in Figure \ref{fig:vary_tau_maps}.\label{fig:phasecurves_tauinf}}
+\end{figure}
+
 %SUBSECTION --
+
+
+\begin{figure}
+\plotone{phasecurves_flux.eps}
+\caption{Simulated $4.5\ \micron$ phase curves calculated from the brightness temperature of the grey-gas OLR. The red curve is the 10 bar H\textsubscript{2} atmosphere, which has such efficient heat transport that it has a large peak offset and very small amplitude. The blue curve is the 10 bar N\textsubscript{2} atmosphere, with very weak heat transport so a large amplitude and peak offset. The green curve is the 5 bar H\textsubscript{2}+N\textsubscript{2} atmosphere, with a significant offset and amplitude. The offset and amplitude are not as large as the \citet{demory2016map} measurements, shown by the black point and line (with their errors shown by the bars and the shaded area).\label{fig:phasecurves_flux}}
+\end{figure}
+
+\begin{figure}
+\plotone{phasecurves_temp.eps}
+\caption{Simulated phase curves for the emission from a radiating level at half-surface-pressure. The amplitude and offset are larger than the phase curves of the OLR. The offset and amplitude are not as large as the \citet{demory2016map} measurements, but Figure \ref{fig:phasecurves_clouds} shows that the H\textsubscript{2}+N\textsubscript{2} atmosphere (blue curve) could match the observations with the night-side cloud formation discussed in Section \ref{sec:condensables}.\label{fig:phasecurves_temp}}
+\end{figure}
+
+
+\begin{figure}
+\plotone{phasecurves_clouds.eps}
+\caption{Simulated phase curves for different equilibrium surface partial pressures of SiO in the 4.6 gmol\textsuperscript{-1}, 5 bar H\textsubscript{2} + N\textsubscript{2} atmosphere. 10 mbar corresponds to the mean day-side surface temperature, 50 mbar to the mean temperature in the region between 25N to 25S and 25E to 25W, and 100 mbar to the maximum surface temperature. The 300 mbar curve shows that clouds could form on the day-side at high enough surface partial pressures.  The offset and amplitude of the 100 mbar case almost agrees with the \citet{demory2016map} measurements within error. It is not clear which partial pressure is appropriate, as the calculated pressures strictly apply to magma under a vacuum \citep{miguel2011compositions}, and there is not a single clear magma ocean temperature in our results. \label{fig:phasecurves_clouds}}
+\end{figure}
 
 %SECTION CONCLUSIONS
 

@@ -55,29 +55,114 @@ Tidally locked planetary atmospheres
 
 Chapter X showed that the global circulation and temperature distribution of an atmosphere on a tidally locked planet depends greatly on the zonal jets present on the planet.
 
-%SUBSECTION --
-\subsection*{Equatorial Acceleration}
+Figure X shows the variety of zonal flow profiles in GCM simulations in P+H.
+
+In this section I will discuss the different mechanisms for producing zonal jets on tidally locked planets, then address the question of how a globally superrotating state can form on these planets.
 
 %SUBSECTION --
-\subsection*{Midlatitude Acceleration}
+\subsection*{Equatorial Jet Acceleration}
+
+The equatorial jet accelerates as in Section X.X. This predicts equatorial superrotation with easterly (retrograde) flow in the midlatitudes.
+
+This matches some GCM simulations in Figure X but not all.
+
+Showman suggests another important mechanism for forming the midlatitude jets seen in Figure X.
+
+%SUBSECTION --
+\subsection*{Midlatitude Jet Acceleration}
+
+Showman 2015 suggests that the midlatitude jets in Figure X form by X.
+
+
+%SUBSECTION --
+\subsection*{Jet Number and Direction}
+
+This explains the cases in Figure X with two midlatitude jets and retrograde flow at the equator. The equatorial acceleration discussed in Section X is dominated by the acceleration due to X.
+
+The case with three jets in Figure X appears to combine both the equatorial and midlatitude jets. It is globally superrotating, with superrotation at all latitudes.
+
+This is inconsistent with combining the mechanism for equatorial superrotation and midlatitude jets, as they should both pump easterly (retrograde) momentum towards the poles, in order to produce the superrotating jets. But, there is no such compensating easterly flow at high latitudes in the GCM.
+
+What produces this global superrotation in some cases in the GCM, where the shallow-water model predicts an easterly flow at high latitudes?
+
+%SUBSECTION --
+\subsection*{Vertical Transport and the Overturning Circulation}
+
+It is possible to reach a state of equatorial superrotation by just pumping westerly momentum towards the equator, which produces easterly flow at higher latitudes as in Section X.
+
+It would be possible to reach such a state with a net angular momentum of zero.
 
 %SUBSECTION --
 \subsection*{Surface Drag}
 
-%SUBSECTION --
-\subsection*{Equatorial Flow Direction}
+
+To understand the formation of a globally superrotating state with net positive angular momentum, we need to step back from the horizontal redistribution of momentum in the atmosphere, and consider how exterior torques act on the atmosphere.
+
+The dominant torque on the atmosphere in our idealised model of a tidally locked planet is Rayleigh drag in the surface boundary layer.
+
+This produces a net positive (eastward) torque on the atmosphere in the spin-up and equilibrium states of our model, producing a superrotating state and maintaining it against drag.
+
+So, the key question is how does this net positive torque come about? It must result from a net easterly flow at the surface. Figure X shows this flow in equilibrium. How, then does this flow come about?
+
+The surface layer itself is relaxed towards zero flow by the Rayleigh drag. So, the easterly flow must be maintained by vertical transport of easterly momentum from higher in the atmosphere.
+
+Figure X shows that there is a net vertical transport of easterly momentum towards the surface at high latitudes. This should result in net easterly flow on the surface, producing the globally superrotating state in equilibrium.
+
 
 %SUBSECTION --
-\subsection*{Number of Jets}
-
-%SUBSECTION --
-\subsection*{GCM Simulations}
-
-Figure X shows a suite of tests (P+H2019) showing how the number of jets varies with rotation rate and temperature.
-
-Figure X shows the spin-up of a very rapidly rotating case.
+\subsection*{Global Angular Momentum Budget}
 
 
+Where does this net vertical transport of easterly momentum at high latitudes come from? The shallow-water model of Showman 2011 only includes a vertical transport due to thermal relaxation, which is key to the formation of equatorial superrotation. It is centered on the equator, matching the vertical wind there in Figure X, but does not represent the vertical wind at high latitudes also in Figure X.
+
+So, the shallow-water model does not represent the vertical transport at high latitudes in Figure X that I suggest is vital to the formation of a globally superrotating state. If the vertical transport towards the surface was largest at the equator, a globally superrotating state could not form as the westerly momentum from the equatorial jet would be transported to the surface, producing a net westerly flow at the surface and a net westerly torque on the atmosphere which would oppose global superrotation.
+
+So, the vertical transport of easterly momentum at high latitudes is vital to the formation of global superrotation. Where does it come from and why does the shallow-water model in Showman 2011 not represent it?
+
+Firstly, where could the easterly momentum transported to the surface be coming from? Figure X shows that the only region of easterly flow in our canonical tidally locked atmosphere circulation is at high latitudes on the night-side, due to the stationary Rossby waves there. So, if the logic so far is correct then the easterly momentum can only come from there.
+
+Next, how is this momentum transported to the surface? I suggest that it is due to an overturning circulation from the pole-equator temperature gradient, which is not represented by the shallow-water model. Figure X shows the zonal mean streamfunction, showing this overturning circulation. But, this gradient is present all around the planet, so should also transport the westerly momentum at high latitudes on the day-side down. Figure X shows that there is a net transport of easterly momentum at high latitudes, so the transport of the night-side easterly momentum must be stronger -- why?
+
+I suggest that the overturning circulation will be stronger on the night-side due to the larger pole-equator temperature gradient on the night-side (or height gradient in the shallow-water model in Section X). In Section X, I explain this as due to the sum of the zonally symmetric jet response and the stationary wave response. On the day-side, these add at all latitudes, giving a small pole-equator gradient. On the night-side these add at the equator and subtract at the pole, giving a large gradient. This should drive a greater overturning circulation on the night-side, so the vertical transport of easterly momentum at high latitudes on the night-side is stronger than the vertical transport of westerly momentum on the day-side. This gives a net vertical transport of easterly momentum at high latitudes, producing the net easterly flow at the surface that gives the net westerly torque and global superrotation.
+
+This is a little unusual as there is downward flow at the equator on the night-side, so the ``overturning'' circulation is not driven in the same way as the zonally symmetric Earth, with rising air at the equator. Rather, I suggest that the source of the air at the equator on the night-side is the equatorial jet.
+
+\section{Global Angular Momentum Evolution}
+
+To demonstrate the proposed mechanism in the formation of a globally superrotating state in our GCM, we need to consider the angular momentum budget of the atmosphere.
+
+The global angular momentum is \citep{lebonnois2012momentum}:
+
+\begin{equation}
+  M = M _ { o } + M _ { r } = \int _ { S } \Omega a ^ { 2 } \cos ^ { 2 } \theta \frac { p _ { s } } { g } d S + \int _ { V } u a \cos \theta d m
+\end{equation}
+
+This global angular momentum is changed by a torque $F$ due to drag at the surface (and the top of atmosphere, if enabled):
+
+\begin{equation}
+  F = \int _ { V } a \cos \theta \left( \frac { d u } { d t } \right) _ { F } d m
+\end{equation}
+
+There are also other sources of torque $D$, mostly numerical dissipation and drag from sponge layers.
+
+% Figure X shows how the global angular momentum of the atmosphere evolves. The X line shows the global angular momentum, which increases then reaches an equilibrium. The X line shows the total angular momentum added by the surface drag, which increases as the circulation spins up and the surface easterlies increase. Initially this line matches the total angular momentum while it is the dominant effect. But, as the global circulation spins up the dynamical drag increases, and the X line showing how much angular momentum it extracts from the atmosphere increases. Eventually each effect adds and subtracts angular momentum from the atmosphere at an equal rate and the total angular momentum equilibrates.
+
+Figure X shows the torques due to surface friction and dynamical drag. At the very start of the run, the dynamical core dominates. As the circulation spins up, the surface easterlies increase and the prograde torque on the atmosphere increases, spinning up the westerly jet. As this jet strengthens, widens, and deepens, it begins to be affected by the boundary layer drag. This applies a retrograde torque to the atmosphere, which increases as the jet strengthens. Equilibrium is reached when the prograde torque due to the surface easterlies matches the retrograde torque due to the westerly jet.
+
+If we turn off Rayleigh drag, equatorial superrotation still forms (as momentum can still be redistributed from high latitudes to the equator) but Figure X shows that there is much weaker global superrotation than before.
+
+So, the surface drag is key to the formation and equilibration of the global superrotation, affecting the dominant torques on the atmosphere and the global angular momentum budget.
+
+What happens if we vary this drag? A weak drag applied just at the surface should produce a strong jet, and take a long time to reach equilibrium. A strong drag applied in a deep layer should produce a weak jet, and not take long to reach equilibrium.
+
+Plot tests
+
+
+NB Heng and Vogt, Carone III refs for surface drag
+
+
+
+Now, I will show that this all-important surface drag is caused by ??
 
 
 %SECTION CONCLUSIONS
@@ -140,15 +225,6 @@ Instabilities appear in the GCM
 
 
 
-%SECTION 5 --
-\section{Jet Scaling Relations}
-
-%SUBSECTION --
-\subsection*{Equatorial versus Midlatitude Jets}
-
-
-
-%SECTION CONCLUSIONS
 
 
 

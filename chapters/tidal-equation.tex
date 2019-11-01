@@ -1,0 +1,202 @@
+\documentclass[12pt]{article}
+\usepackage{physics}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{subcaption}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{natbib}
+\usepackage{csquotes}
+ \usepackage{titling}
+ \usepackage{varwidth}
+ \usepackage[dvipsnames]{xcolor}
+\usepackage{geometry}
+\usepackage{floatflt}
+
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=33mm,
+right=33mm,
+ top=25mm,
+ bottom=35mm,
+ }
+ \usepackage{wrapfig}
+
+
+
+% \usepackage[
+%     math-style=ISO,
+%     bold-style=ISO,
+%     partial=upright,
+%     nabla=upright
+% ]{unicode-math}
+
+%\setmainfont{Times}
+%\setmainfont{TeX Gyre Termes}
+%\setmainfont{Palatino}
+%\setmainfont{Cardo}
+%\setsansfont{Times}
+%\setmainfont{Linux Libertine O}
+%\setmainfont{Libertinus Serif}
+%\setsansfont{Libertinus Serif}
+%\setmathfont{Libertinus Math}
+
+%\usepackage{fontspec}
+%\usepackage{txfonts}
+
+\usepackage{MinionPro}
+
+\usepackage{titlesec}
+\usepackage[skip=2pt]{caption}
+
+\usepackage[pdfauthor={Mark Hammond},pdftitle={Proposal},colorlinks=true]{hyperref}%
+
+
+
+
+%wrapfig
+%\setlength{\droptitle}{-20pt}
+%\setlength\intextsep{0pt}
+
+
+
+
+
+%
+\hypersetup{
+  colorlinks=true,
+  citecolor=MidnightBlue,
+  urlcolor=MidnightBlue,
+  linkcolor=MidnightBlue
+  %linkcolor=BrickRed
+}
+
+
+\SetBlockThreshold{1}
+%\setlength{\parindent}{2em}
+%\setlength{\parskip}{0.7em}
+%\renewcommand{\baselinestretch}{1.2}
+
+\titleformat*{\section}{\Large\rmfamily}
+\titleformat*{\subsection}{\large\rmfamily\bfseries}
+
+
+\begin{document}
+
+\title{ \Large Tidal Equation}
+
+\date{}
+
+\maketitle
+
+\vspace*{-1cm}
+
+\subsection*{Equations}
+
+The linear shallow-water equations on the sphere are:
+
+\begin{equation}
+  \begin{aligned}
+    {\frac{\partial u^{\prime}}{\partial t}+\frac{\partial\left(\overline{u} u^{\prime}\right)}{a \cos \theta \partial \lambda}+v^{\prime} \frac{\partial \overline{u}}{a \partial \theta}-\frac{\overline{u} v^{\prime} \tan \theta}{a}=2 \Omega v^{\prime} \sin \theta-\frac{g \partial h^{\prime}}{a \cos \theta \partial \lambda}} \\
+     {\frac{\partial v^{\prime}}{\partial t}+\frac{\partial\left(\overline{u} v^{\prime}\right)}{a \cos \theta \partial \lambda}+\frac{2 \overline{u} u^{\prime} \tan \theta}{a}=-2 \Omega u^{\prime} \sin \theta-\frac{g \partial h^{\prime}}{a \partial \theta}} \\
+     {\frac{\partial h^{\prime}}{\partial t}+v^{\prime} \frac{\partial \overline{h}}{a \partial \theta}+\overline{u} \frac{\partial h^{\prime}}{a \cos \theta \partial \lambda}+\overline{h} \nabla_{H} \cdot \mathbf{v}^{\prime}=0},
+  \end{aligned}
+\end{equation}
+
+where $h$ is the height of the layer, $\boldsymbol{v} = (u,v)$ is the velocity, $\theta$ is latitude, $\lambda$ is longitude, $t$ is time, $a$ is radius, $g$ is gravity, and $\Omega$ is angular velocity. Overbars denote zonal-mean quantities (the background flow and height $\overline{u}$ and $\overline{h}$). Dashes denote perturbations to this background state.
+
+The background state is stationary and in gradient wind balance:
+
+\begin{equation}
+  \frac{1}{a} \frac{\partial}{\partial \theta}\left(\overline{h}+h_{g}\right)=-\left(2 \Omega \overline{u} \sin \theta+\frac{\overline{u}^{2}}{a} \tan \theta\right).
+\end{equation}
+
+The perturbed variables are wavelike in longitude and are uniformly damped, so are proportional to $\exp [i m \lambda+\alpha t)]$. All variables are made non-dimensional with velocity scale $2 \Omega a$, height scale $(2 \Omega a)^{2}/g$ and time scale $1/(2\Omega)$, and denoted as such by an asterisk. This gives the following non-dimensional shallow-water equations:
+
+\begin{equation}
+  \begin{aligned}
+    \alpha^{*} u_{m}^{*}+i m \frac{\overline{u}^{*} u_{m}^{*}}{\cos \theta}+v_{m}^{*} \frac{\partial \overline{u}^{*}}{\partial \theta}-\overline{u}^{*} v_{m}^{*} \tan \theta &=v_{m}^{*} \sin \theta-\frac{i m h_{m}^{*}}{\cos \theta}, \\
+    \alpha^{*} v_{m}^{*}+i m \frac{\overline{u}^{*} v_{m}^{*}}{\cos \theta}+2 \overline{u}^{*} u_{m}^{*} \tan \theta &=-u_{m}^{*} \sin \theta-\frac{\partial h_{m}^{*}}{\partial \theta}, \\
+    \alpha^{*} h_{m}^{*}+i m \overline{u}^{*} \frac{h_{m}^{*}}{\cos \theta} &=-\frac{\epsilon^{*}}{\cos \theta}\left[i m u_{m}^{*}+\frac{\partial}{\partial \theta}\left(\cos \theta v_{m}^{*}\right)\right],
+  \end{aligned}
+\end{equation}
+
+where Lamb's parameter is $\epsilon \equiv(2 \Omega a)^{2} / g H$.
+
+These can be written as
+
+\begin{equation}
+  \begin{aligned}
+    - \hat{\sigma}^{*} u_{m}^{*} - \overline{\zeta}^{*}v_{m}^{*} + \frac{m h_{m}^{*} }{\cos \theta} = 0, \\
+    \hat{\sigma}^{*}  v_{m}^{*} + f_{1}^{*}u_{m}^{*} + \frac{d h_{m}^{*}}{d \theta} = 0, \\
+    \hat{\sigma}^{*}  \epsilon \alpha h_{m}^{*}+ \frac{m u_{m}^{*}}{\cos \theta} + \frac{1}{\cos \theta} \frac{d}{d \theta}(v \cos \theta) = 0,
+  \end{aligned}
+\end{equation}
+
+where
+
+\begin{equation}
+    \overline{\zeta}^{*} = f^{*} - \frac{1}{\cos \theta} \frac{d}{d \theta}(\overline{u} \cos \theta)
+\end{equation}
+
+is the absolute vorticity of the background flow,
+
+\begin{equation}
+    f_{1} = f + 2 \overline{u} \tan \theta
+\end{equation}
+
+is an effective Coriolis parameter modified by the background flow, and
+
+\begin{equation}
+    \hat{\sigma}^{*}  =  \sigma^{*} - \frac{m \overline{u}}{\cos \theta}
+\end{equation}
+
+is the Doppler-shifted time-derivate of the variables (see Chapter X).
+
+Solving the first two shallow-water equations gives the two velocity components in terms of the height field:
+
+\begin{equation}
+  \begin{aligned}
+    u_{m}^{*} = \frac{- \hat{\sigma}^{*}h_{m}^{*} m/\cos \theta - \overline{\zeta}^{*} d h_{m}^{*} / d y}{\Delta}\\
+    v_{m}^{*} = \frac{\hat{\sigma}^{*} d h_{m}^{*} / d y + f_{1}^{*} h_{m}^{*} m / \cos \theta }{\Delta}
+  \end{aligned}
+\end{equation}
+
+where $\Delta = f_{1}^{*} \overline{\zeta}^{*} - \hat{\sigma}^{*}^{2}$.
+
+Then, substituting these into the third shallow-water equation, while changing variables to $\mu = \sin \theta$ and $\phi_{m}^{*} = \left(1-\mu^{2}\right)^{-m / 2} h_{m}^{*}$ to avoid the polar singularities \citep{iga2005spherical}, gives:
+
+
+\begin{equation}
+  \frac{\partial^{2} \phi_{m}^{*}}{\partial \mu^{2}}-B\left(\sigma^{*}, \mu\right) \frac{\partial \phi_{m}^{*}}{\partial \mu}-A\left(\sigma^{*}, \mu\right) \phi_{m}^{*}=\frac{F(\theta,x)}{i \sigma}
+\end{equation}
+
+where
+
+\begin{equation}
+  \begin{aligned} A\left(\sigma^{*}, \mu\right) \equiv & \frac{1}{1-\mu^{2}}\left[m(m+1)-m \mu \frac{1}{\Delta^{*}} \frac{\partial \Delta^{*}}{\partial \mu}+\epsilon \Delta^{*}\right.\\ &+\frac{m}{\Delta^{*} \hat{\sigma}^{*}}\left(f_{1}^{*} \frac{\partial \Delta^{*}}{\partial \mu}-\Delta * \frac{\partial f_{1}^{*}}{\partial \mu}\right) ] \\ B\left(\sigma^{*}, \mu\right) & \equiv \frac{1}{\Delta^{*}} \frac{\partial \Delta^{*}}{\partial \mu}+\frac{2 \mu(m+1)}{\left(1-\mu^{2}\right)} \\ \Delta^{*} & \equiv f_{1}^{*} \overline{\zeta}^{*}-\hat{\sigma}^{* 2} \end{aligned}
+\end{equation}
+
+This equation is solved with a pseudo-spectral collocation method.
+
+\subsection*{Collocation}
+
+\citep{wang2016hough}
+
+\subsection*{Solutions}
+
+The full solutions are reconstructed
+
+\subsection*{Special Cases}
+
+\subsubsection{Equatorial Beta-Plane}
+
+The tidal equation can be modified to represent the beta-plane by setting $\cos \theta = 1$ and $f_{1} = f$
+
+
+
+
+
+
+\end{document}

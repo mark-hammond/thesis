@@ -1,13 +1,52 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{112}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Boyd(1978)]{boyd1978shearI}
+\bibitem[Amundsen et~al.(2016)Amundsen, Mayne, Baraffe, Manners, Tremblin,
+  Drummond, Smith, Acreman, and Homeier]{amundsen2016hd209}
+Amundsen, D.S. et~al.
+\newblock {The UK Met Office global circulation model with a sophisticated
+  radiation scheme applied to the hot Jupiter HD 209458b}.
+\newblock \emph{Astronomy \& Astrophysics}, 595:\penalty0 A36, 2016.
+
+\bibitem[Angelo and Hu(2017)]{angelo201755cnce}
+Angelo, I. and Hu, R.
+\newblock {A Case for an Atmosphere on Super-Earth 55 Cancri e}.
+\newblock \emph{The Astronomical Journal}, 154\penalty0 (6):\penalty0 232, Dec.
+  2017.
+
+\bibitem[Arcangeli et~al.(2019)Arcangeli, D{\'e}sert, Parmentier, Stevenson,
+  Bean, Line, Kreidberg, Fortney, and Showman]{arcangeli2019climate}
+Arcangeli, J. et~al.
+\newblock {Climate of an ultra hot Jupiter-Spectroscopic phase curve of
+  WASP-18b with HST/WFC3}.
+\newblock \emph{Astronomy \& Astrophysics}, 625:\penalty0 A136, 2019.
+
+\bibitem[Armstrong et~al.(2017)Armstrong, de~Mooij, Barstow, Osborn, Blake, and
+  Saniee]{armstrong2017variability}
+Armstrong, D.J. et~al.
+\newblock {Variability in the atmosphere of the hot giant planet HAT-P-7 b}.
+\newblock \emph{Nature Astronomy}, 1\penalty0 (1):\penalty0 0004, 2017.
+
+\bibitem[Barnes(2017)]{barnes2017tidal}
+Barnes, R.
+\newblock {Tidal locking of habitable exoplanets}.
+\newblock \emph{Celestial Mechanics and Dynamical Astronomy}, 129\penalty0
+  (4):\penalty0 509--536, 2017.
+
+\bibitem[Boutle et~al.(2017)Boutle, Mayne, Drummond, Manners, Goyal,
+  Hugo~Lambert, Acreman, and Earnshaw]{boutle2017proxima}
+Boutle, I.A. et~al.
+\newblock {Exploring the climate of Proxima B with the Met Office Unified
+  Model}.
+\newblock \emph{Astronomy {\&} Astrophysics}, 601:\penalty0 A120, May 2017.
+
+\bibitem[Boyd(1978)]{boyd1978sheari}
 Boyd, J.P.
-\newblock {The Effects of Latitudinal Shear on Equatorial Waves. Past I: Theory
+\newblock {The Effects of Latitudinal Shear on Equatorial Waves. Part I: Theory
   and Methods.}
 \newblock \emph{Journal of Atmospheric Sciences}, 35\penalty0 (1):\penalty0
   2236--2258, Dec. 1978.
@@ -17,13 +56,95 @@ Boyd, J.P.
 \newblock \emph{{Chebyshev {\&} Fourier Spectral Methods}}.
 \newblock Springer, 2000.
 
-\bibitem[Demory et~al.(2011)Demory, Gillon, Deming, Valencia, Seager, Benneke,
-  Lovis, Cubillos, Harrington, Stevenson, Mayor, Pepe, Queloz, S{\'e}gransan,
-  and Udry]{demory201155cnce}
+\bibitem[Brogi et~al.(2016)Brogi, De~Kok, Albrecht, Snellen, Birkby, and
+  Schwarz]{brogi2016rotation}
+Brogi, M. et~al.
+\newblock {Rotation and winds of exoplanet HD 189733 b measured with
+  high-dispersion transmission spectroscopy}.
+\newblock \emph{The Astrophysical Journal}, 817\penalty0 (2):\penalty0 106,
+  2016.
+
+\bibitem[Carone et~al.(2014)Carone, Keppens, and Decin]{carone2014connecting}
+Carone, L., Keppens, R. and Decin, L.
+\newblock {Connecting the dots: a versatile model for the atmospheres of
+  tidally locked Super-Earths}.
+\newblock \emph{Monthly Notices of the Royal Astronomical Society},
+  445\penalty0 (1):\penalty0 930--945, Sept. 2014.
+
+\bibitem[Carone et~al.(2015)Carone, Keppens, and Decin]{carone2015regimes}
+Carone, L., Keppens, R. and Decin, L.
+\newblock {Connecting the dots - II. Phase changes in the climate dynamics of
+  tidally locked terrestrial exoplanets}.
+\newblock \emph{Monthly Notices of the Royal Astronomical Society},
+  453\penalty0 (3):\penalty0 2412--2437, Nov. 2015.
+
+\bibitem[Charnay et~al.(2015)Charnay, Meadows, and Leconte]{charnay20153d}
+Charnay, B., Meadows, V. and Leconte, J.
+\newblock {3D Modeling of GJ 1214b's Atmosphere: Vertical Mixing Driven by an
+  Anti-Hadley Circulation}.
+\newblock \emph{The Astrophysical Journal}, 813\penalty0 (1):\penalty0 15, Nov.
+  2015.
+
+\bibitem[Cho et~al.(2015)Cho, Polichtchouk, and
+  Thrastarson]{cho2015sensitivity}
+Cho, J.K., Polichtchouk, I. and Thrastarson, H.T.
+\newblock {Sensitivity and variability redux in hot-Jupiter flow simulations}.
+\newblock \emph{Monthly Notices of the Royal Astronomical Society},
+  454\penalty0 (4):\penalty0 3423--3431, 2015.
+
+\bibitem[Courant et~al.(1928)Courant, Friedrichs, and
+  Lewy]{courant1928partiellen}
+Courant, R., Friedrichs, K. and Lewy, H.
+\newblock {{\"U}ber die partiellen Differenzengleichungen der mathematischen
+  Physik}.
+\newblock \emph{Mathematische annalen}, 100\penalty0 (1):\penalty0 32--74,
+  1928.
+
+\bibitem[Cowan and Agol(2008)]{cowan2008inverting}
+Cowan, N.B. and Agol, E.
+\newblock Inverting phase functions to map exoplanets.
+\newblock \emph{The Astrophysical Journal Letters}, 678\penalty0 (2):\penalty0
+  L129, 2008.
+
+\bibitem[Cowan and Agol(2011)]{cowan2011statistics}
+Cowan, N.B. and Agol, E.
+\newblock The statistics of albedo and heat recirculation on hot exoplanets.
+\newblock \emph{The Astrophysical Journal}, 729\penalty0 (1):\penalty0 54,
+  2011.
+
+\bibitem[Crida et~al.(2018)Crida, Ligi, Dorn, and Lebreton]{crida201855cnce}
+Crida, A. et~al.
+\newblock {Mass, radius, and composition of the transiting planet 55 Cnc e:
+  using interferometry and correlations}.
+\newblock \emph{The Astrophysical Journal}, 860\penalty0 (2):\penalty0 122,
+  2018.
+
+\bibitem[Crossfield(2015)]{crossfield2015observations}
+Crossfield, I.J.M.
+\newblock {Observations of Exoplanet Atmospheres}.
+\newblock \emph{Publications of the Astronomical Society of the Pacific},
+  127\penalty0 (9):\penalty0 941--, Oct. 2015.
+
+\bibitem[Dawson and Fabrycky(2010)]{dawson2010radial}
+Dawson, R.I. and Fabrycky, D.C.
+\newblock {Radial velocity planets de-aliased: a new, short period for
+  super-Earth 55 Cnc e}.
+\newblock \emph{The Astrophysical Journal}, 722\penalty0 (1):\penalty0 937,
+  2010.
+
+\bibitem[Demory et~al.(2011)Demory, Gillon, Deming, Valencia,
+  et~al.]{demory201155cnce}
 Demory, B.O. et~al.
-\newblock {Detection of a transit of the super-Earth 55 Cancri e with warm~
+\newblock {Detection of a transit of the super-Earth 55 Cancri e with warm
   Spitzer}.
 \newblock \emph{Astronomy {\&} Astrophysics}, 533:\penalty0 A114, Sept. 2011.
+
+\bibitem[Demory et~al.(2015)Demory, Gillon, Madhusudhan, and
+  Queloz]{demory2015variability}
+Demory, B.O. et~al.
+\newblock {Variability in the super-Earth 55 Cnc e}.
+\newblock \emph{Monthly Notices of the Royal Astronomical Society},
+  455\penalty0 (2):\penalty0 2018--2027, 2015.
 
 \bibitem[Demory et~al.(2016)Demory, Gillon, de~Wit, Madhusudhan, Bolmont, Heng,
   Kataria, Lewis, Hu, Krick, Stamenkovi{\'c}, Benneke, Kane, and
@@ -33,12 +154,93 @@ Demory, B.O. et~al.
   super-Earth exoplanet}.
 \newblock \emph{Nature}, 532\penalty0 (7598):\penalty0 207--209, Mar. 2016.
 
+\bibitem[Ding and Pierrehumbert(2016)]{ding2016convection}
+Ding, F. and Pierrehumbert, R.T.
+\newblock Convection in condensible-rich atmospheres.
+\newblock \emph{The Astrophysical Journal}, 822\penalty0 (1):\penalty0 24,
+  2016.
+
+\bibitem[Dragomir et~al.(2012)Dragomir, Matthews, Winn, Rowe,
+  et~al.]{dragomir2012most}
+Dragomir, D. et~al.
+\newblock {New MOST Photometry of the 55 Cancri System}.
+\newblock \emph{Proceedings of the International Astronomical Union},
+  8\penalty0 (S293):\penalty0 52--57, 2012.
+
+\bibitem[Drummond et~al.(2018)Drummond, Mayne, Manners, Carter, Boutle,
+  Baraffe, H{\'e}brard, Tremblin, Sing, Amundsen,
+  et~al.]{drummond2018observable}
+Drummond, B. et~al.
+\newblock {Observable signatures of wind-driven chemistry with a fully
+  consistent three-dimensional radiative hydrodynamics model of HD 209458b}.
+\newblock \emph{The Astrophysical Journal Letters}, 855\penalty0 (2):\penalty0
+  L31, 2018.
+
+\bibitem[Dunkerton(1990)]{dunkerton1990laplace}
+Dunkerton, T.J.
+\newblock {Eigenfrequencies and Horizontal Structure of Divergent Barotropic
+  Instability Originating in Tropical Latitudes.}
+\newblock \emph{Journal of Atmospheric Sciences}, 47\penalty0 (1):\penalty0
+  1288--1301, June 1990.
+
+\bibitem[Edwards and Slingo(1996)]{edwards1996socrates}
+Edwards, J. and Slingo, A.
+\newblock Studies with a flexible new radiation code. i: Choosing a
+  configuration for a large-scale model.
+\newblock \emph{Quarterly Journal of the Royal Meteorological Society},
+  122\penalty0 (531):\penalty0 689--719, 1996.
+
+\bibitem[Gierasch(1975)]{gierasch1975meridional}
+Gierasch, P.J.
+\newblock {Meridional circulation and the maintenance of the Venus atmospheric
+  rotation}.
+\newblock \emph{Journal of the Atmospheric Sciences}, 32\penalty0 (6):\penalty0
+  1038--1044, 1975.
+
+\bibitem[Gillon et~al.(2012)Gillon, Demory, Benneke, Valencia, Deming, Seager,
+  Lovis, Mayor, Pepe, Queloz, et~al.]{gillon2012improved}
+Gillon, M. et~al.
+\newblock {Improved precision on the radius of the nearby super-Earth 55 Cnc
+  e}.
+\newblock \emph{Astronomy \& Astrophysics}, 539:\penalty0 A28, 2012.
+
+\bibitem[Goldreich and Soter(1966)]{goldreich1966q}
+Goldreich, P. and Soter, S.
+\newblock {Q in the Solar System}.
+\newblock \emph{Icarus}, 5\penalty0 (1-6):\penalty0 375--389, 1966.
+
+\bibitem[Hammond and Pierrehumbert(2017)]{hammond2017climate}
+Hammond, M. and Pierrehumbert, R.T.
+\newblock {Linking the Climate and Thermal Phase Curve of 55 Cancri e}.
+\newblock \emph{The Astrophysical Journal}, 849\penalty0 (2):\penalty0 152,
+  Nov. 2017.
+
 \bibitem[Hammond and Pierrehumbert(2018)]{hammond2018wavemean}
 Hammond, M. and Pierrehumbert, R.T.
 \newblock {Wave-Mean Flow Interactions in the Atmospheric Circulation of
   Tidally Locked Planets}.
 \newblock \emph{The Astrophysical Journal}, 869\penalty0 (1):\penalty0 65, Dec.
   2018.
+
+\bibitem[Held and Hou(1980)]{held1980nonlinear}
+Held, I.M. and Hou, A.Y.
+\newblock Nonlinear axially symmetric circulations in a nearly inviscid
+  atmosphere.
+\newblock \emph{Journal of the Atmospheric Sciences}, 37\penalty0 (3):\penalty0
+  515--533, 1980.
+
+\bibitem[Held and Suarez(1994)]{held1994proposal}
+Held, I.M. and Suarez, M.J.
+\newblock A proposal for the intercomparison of the dynamical cores of
+  atmospheric general circulation models.
+\newblock \emph{Bulletin of the American Meteorological Society}, 75\penalty0
+  (10):\penalty0 1825--1830, 1994.
+
+\bibitem[Heng and Showman(2015)]{heng2015review}
+Heng, K. and Showman, A.P.
+\newblock {Atmospheric Dynamics of Hot Exoplanets}.
+\newblock \emph{Annual Review of Earth and Planetary Sciences}, 43\penalty0
+  (1):\penalty0 509--540, May 2015.
 
 \bibitem[Heng and Workman(2014)]{heng2014analytical}
 Heng, K. and Workman, J.
@@ -47,6 +249,21 @@ Heng, K. and Workman, J.
 \newblock \emph{Astrophysical Journal, Supplement Series}, 213\penalty0
   (2):\penalty0 27, Aug. 2014.
 
+\bibitem[Heng et~al.(2011)Heng, Frierson, and Phillipps]{heng2011atmospheric}
+Heng, K., Frierson, D.M.W. and Phillipps, P.J.
+\newblock {Atmospheric circulation of tidally locked exoplanets: II. Dual-band
+  radiative transfer and convective adjustment}.
+\newblock \emph{Monthly Notices of the Royal Astronomical Society},
+  418\penalty0 (4):\penalty0 2669--2696, Oct. 2011.
+
+\bibitem[Hide(1969)]{hide1969dynamics}
+Hide, R.
+\newblock {Dynamics of the atmospheres of the major planets with an appendix on
+  the viscous boundary layer at the rigid bounding surface of an
+  electrically-conducting rotating fluid in the presence of a magnetic field}.
+\newblock \emph{Journal of the Atmospheric Sciences}, 26\penalty0 (5):\penalty0
+  841--853, 1969.
+
 \bibitem[Iga and Matsuda(2005)]{iga2005spherical}
 Iga, S.I. and Matsuda, Y.
 \newblock {Shear Instability in a Shallow Water Model with Implications for the
@@ -54,16 +271,363 @@ Iga, S.I. and Matsuda, Y.
 \newblock \emph{Journal of Atmospheric Sciences}, 62\penalty0 (7):\penalty0
   2514--2527, July 2005.
 
+\bibitem[Ito et~al.(2015)Ito, Ikoma, Kawahara, Nagahara, Kawashima, and
+  Nakamoto]{ito2015theoretical}
+Ito, Y. et~al.
+\newblock {Theoretical emission spectra of atmospheres of hot rocky
+  super-Earths}.
+\newblock \emph{The Astrophysical Journal}, 801\penalty0 (2):\penalty0 144,
+  2015.
+
+\bibitem[Joshi et~al.(1997)Joshi, Haberle, and Reynolds]{joshi1997tidally}
+Joshi, M., Haberle, R. and Reynolds, R.
+\newblock {Simulations of the atmospheres of synchronously rotating terrestrial
+  planets orbiting M dwarfs: conditions for atmospheric collapse and the
+  implications for habitability}.
+\newblock \emph{Icarus}, 129\penalty0 (2):\penalty0 450--465, 1997.
+
+\bibitem[Kataria et~al.(2014)Kataria, Showman, Fortney, Marley, and
+  Freedman]{kataria2014atmospheric}
+Kataria, T. et~al.
+\newblock {The Atmospheric Circulation of the Super Earth GJ 1214b: Dependence
+  on Composition and Metallicity}.
+\newblock \emph{The Astrophysical Journal}, 785\penalty0 (2):\penalty0 92, Apr.
+  2014.
+
+\bibitem[Kataria et~al.(2015)Kataria, Showman, Fortney, Stevenson, Line,
+  Kreidberg, Bean, and D{\'e}sert]{kataria2015atmospheric}
+Kataria, T. et~al.
+\newblock {The atmospheric circulation of the hot Jupiter WASP-43b: Comparing
+  three-dimensional models to spectrophotometric data}.
+\newblock \emph{The Astrophysical Journal}, 801\penalty0 (2):\penalty0 86,
+  2015.
+
+\bibitem[Koll and Abbot(2015)]{koll2015phasecurves}
+Koll, D.D.B. and Abbot, D.S.
+\newblock {Deciphering thermal phase curves of dry, tidally locked terrestrial
+  planets}.
+\newblock \emph{The Astrophysical Journal}, 802\penalty0 (1):\penalty0 21, Mar.
+  2015.
+
+\bibitem[Koll and Abbot(2016)]{koll2016temperature}
+Koll, D.D.B. and Abbot, D.S.
+\newblock {Temperature Structure and Atmospheric Circulation of Dry Tidally
+  Locked Rocky Exoplanets}.
+\newblock \emph{The Astrophysical Journal}, 825\penalty0 (2):\penalty0 99, July
+  2016.
+
+\bibitem[Komacek and Showman(2016)]{komacek2016daynightI}
+Komacek, T.D. and Showman, A.P.
+\newblock {Atmospheric Circulation of Hot Jupiters: Dayside-Nightside
+  Temperature Differences}.
+\newblock \emph{The Astrophysical Journal}, 821\penalty0 (1):\penalty0 16, Apr.
+  2016.
+
+\bibitem[Komacek et~al.(2017)Komacek, Showman, and Tan]{komacek2017daynightII}
+Komacek, T.D., Showman, A.P. and Tan, X.
+\newblock {Atmospheric Circulation of Hot Jupiters: Dayside-Nightside
+  Temperature Differences. II. Comparison with Observations}.
+\newblock \emph{The Astrophysical Journal}, 835\penalty0 (2):\penalty0 198,
+  Feb. 2017.
+
+\bibitem[Kreidberg et~al.(2019)Kreidberg, Koll, Morley, Hu, Schaefer, Deming,
+  Stevenson, Dittmann, Vanderburg, Berardo, Guo, Stassun, Crossfield,
+  Charbonneau, Latham, Loeb, Ricker, Seager, and Vanderspek]{kreidberg2019lhs}
+Kreidberg, L. et~al.
+\newblock {Absence of a thick atmosphere on the terrestrial exoplanet
+  LHS~3844b}.
+\newblock \emph{Nature}, 2019.
+
+\bibitem[Laraia and Schneider(2015)]{laraia2015superrotation}
+Laraia, A.L. and Schneider, T.
+\newblock {Superrotation in terrestrial atmospheres}.
+\newblock \emph{Journal of the Atmospheric Sciences}, 72\penalty0
+  (11):\penalty0 4281--4296, 2015.
+
+\bibitem[Lebonnois et~al.(2012)Lebonnois, Covey, Grossman, Parish, Schubert,
+  Walterscheid, Lauritzen, and Jablonowski]{lebonnois2012momentum}
+Lebonnois, S. et~al.
+\newblock Angular momentum budget in general circulation models of
+  superrotating atmospheres: A critical diagnostic.
+\newblock \emph{Journal of Geophysical Research: Planets}, 117\penalty0 (E12),
+  2012.
+
+\bibitem[Leconte et~al.(2015)Leconte, Wu, Menou, and
+  Murray]{leconte2015asynchronous}
+Leconte, J. et~al.
+\newblock {Asynchronous rotation of Earth-mass planets in the habitable zone of
+  lower-mass stars}.
+\newblock \emph{Science}, 347\penalty0 (6222):\penalty0 632--635, 2015.
+
+\bibitem[Lee et~al.(2016)Lee, Dobbs-Dixon, Helling, Bognar, and
+  Woitke]{lee2016dynamic}
+Lee, G. et~al.
+\newblock {Dynamic mineral clouds on HD 189733b-I. 3D RHD with kinetic,
+  non-equilibrium cloud formation}.
+\newblock \emph{Astronomy \& Astrophysics}, 594:\penalty0 A48, 2016.
+
+\bibitem[Lin(2004)]{lin2004fv}
+Lin, S.J.
+\newblock A “vertically lagrangian” finite-volume dynamical core for global
+  models.
+\newblock \emph{Monthly Weather Review}, 132\penalty0 (10):\penalty0
+  2293--2307, 2004.
+
+\bibitem[Lines et~al.(2018)Lines, Mayne, Boutle, Manners, Lee, Helling,
+  Drummond, Amundsen, Goyal, Acreman, et~al.]{lines2018simulating}
+Lines, S. et~al.
+\newblock {Simulating the cloudy atmospheres of HD 209458 b and HD 189733 b
+  with the 3D Met Office Unified Model}.
+\newblock \emph{Astronomy \& Astrophysics}, 615:\penalty0 A97, 2018.
+
+\bibitem[Liu and Showman(2013)]{liu2013atmospheric}
+Liu, B. and Showman, A.P.
+\newblock {Atmospheric circulation of hot Jupiters: insensitivity to initial
+  conditions}.
+\newblock \emph{The Astrophysical Journal}, 770\penalty0 (1):\penalty0 42,
+  2013.
+
+\bibitem[Longuet-Higgins(1968)]{longuet1968tidal}
+Longuet-Higgins, M.S.
+\newblock {The eigenfunctions of Laplace's tidal equation over a sphere}.
+\newblock \emph{Philosophical Transactions of the Royal Society of London.
+  Series A, Mathematical and Physical Sciences}, 262\penalty0 (1132):\penalty0
+  511--607, 1968.
+
+\bibitem[Louden and Wheatley(2015)]{louden2015spatially}
+Louden, T. and Wheatley, P.J.
+\newblock {Spatially resolved eastward winds and rotation of HD 189733b}.
+\newblock \emph{The Astrophysical Journal Letters}, 814\penalty0 (2):\penalty0
+  L24, 2015.
+
+\bibitem[Luger et~al.(2019)Luger, Agol, Foreman-Mackey, Fleming, Lustig-Yaeger,
+  and Deitrick]{luger2019starry}
+Luger, R. et~al.
+\newblock {STARRY: Analytic occultation light curves}.
+\newblock \emph{The Astronomical Journal}, 157\penalty0 (2):\penalty0 64, 2019.
+
+\bibitem[Lutsko(2018)]{lutsko2018response}
+Lutsko, N.J.
+\newblock {The response of an idealized atmosphere to localized tropical
+  heating: Superrotation and the breakdown of linear theory}.
+\newblock \emph{Journal of the Atmospheric Sciences}, 75\penalty0 (1):\penalty0
+  3--20, 2018.
+
+\bibitem[Majeau et~al.(2012)Majeau, Agol, and Cowan]{majeau20122dmap}
+Majeau, C., Agol, E. and Cowan, N.B.
+\newblock {A two-dimensional infrared map of the extrasolar planet HD 189733b}.
+\newblock \emph{The Astrophysical Journal Letters}, 747\penalty0 (2):\penalty0
+  L20, 2012.
+
 \bibitem[Matsuno(1966)]{matsuno1966quasi}
 Matsuno, T.
 \newblock {Quasi-Geostrophic Motions in the Equatorial Area}.
 \newblock \emph{Journal of the Meteorological Society of Japan Ser II},
   44\penalty0 (1):\penalty0 25--43, 1966.
 
-\bibitem[Pierrehumbert and Hammond(2018)]{pierrehumbert2018review}
+\bibitem[Mayne et~al.(2014)Mayne, Baraffe, Acreman, Smith, Browning, Amundsen,
+  Wood, Thuburn, and Jackson]{mayne2014unified}
+Mayne, N.J. et~al.
+\newblock {The unified model, a fully-compressible, non-hydrostatic, deep
+  atmosphere global circulation model, applied to hot Jupiters-ENDGame for a HD
+  209458b test case}.
+\newblock \emph{Astronomy \& Astrophysics}, 561:\penalty0 A1, 2014.
+
+\bibitem[Mayne et~al.(2017)Mayne, Debras, Baraffe, Thuburn, Amundsen, Acreman,
+  Smith, Browning, Manners, and Wood]{mayne2017hotjupiter}
+Mayne, N.J. et~al.
+\newblock {Results from a set of three-dimensional numerical experiments of a
+  hot Jupiter atmosphere}.
+\newblock \emph{Astronomy {\&} Astrophysics}, 604:\penalty0 A79, Aug. 2017.
+
+\bibitem[Mayne et~al.(2019)Mayne, Drummond, Debras, Jaupart, Manners, Boutle,
+  Baraffe, and Kohary]{mayne2019limits}
+Mayne, N.J. et~al.
+\newblock {The Limits of the Primitive Equations of Dynamics for Warm, Slowly
+  Rotating Small Neptunes and Super Earths}.
+\newblock \emph{The Astrophysical Journal}, 871\penalty0 (1):\penalty0 56,
+  2019.
+
+\bibitem[McArthur et~al.(2004)McArthur, Endl, Cochran, Benedict, Fischer,
+  Marcy, Butler, Naef, Mayor, Queloz, et~al.]{mcarthur2004detection}
+McArthur, B.E. et~al.
+\newblock {Detection of a Neptune-mass planet in the $\rho$1 Cancri system
+  using the Hobby-Eberly Telescope}.
+\newblock \emph{The Astrophysical Journal Letters}, 614\penalty0 (1):\penalty0
+  L81, 2004.
+
+\bibitem[Mendon{\c{c}}a et~al.(2016)Mendon{\c{c}}a, Grimm, Grosheintz, and
+  Heng]{mendoncca2016thor}
+Mendon{\c{c}}a, J.M. et~al.
+\newblock {THOR: a new and flexible global circulation model to explore
+  planetary atmospheres}.
+\newblock \emph{The Astrophysical Journal}, 829\penalty0 (2):\penalty0 115,
+  2016.
+
+\bibitem[Mendon{\c{c}}a et~al.(2018)Mendon{\c{c}}a, Malik, Demory, and
+  Heng]{mendoncca2018revisiting}
+Mendon{\c{c}}a, J.M. et~al.
+\newblock {Revisiting the Phase Curves of WASP-43b: Confronting Re-analyzed
+  Spitzer Data with Cloudy Atmospheres}.
+\newblock \emph{The Astronomical Journal}, 155\penalty0 (4):\penalty0 150,
+  2018.
+
+\bibitem[Menou(2012)]{menou2012magnetic}
+Menou, K.
+\newblock Magnetic scaling laws for the atmospheres of hot giant exoplanets.
+\newblock \emph{The Astrophysical Journal}, 745\penalty0 (2):\penalty0 138,
+  2012.
+
+\bibitem[Merlis and Schneider(2010)]{merlis2010atmospheric}
+Merlis, T.M. and Schneider, T.
+\newblock Atmospheric dynamics of earth-like tidally locked aquaplanets.
+\newblock \emph{Journal of Advances in Modeling Earth Systems}, 2\penalty0 (4),
+  2010.
+
+\bibitem[Miguel(2018)]{miguel2018observability}
+Miguel, Y.
+\newblock {Observability of molecular species in a nitrogen dominated
+  atmosphere for 55 Cancri e}.
+\newblock \emph{Monthly Notices of the Royal Astronomical Society},
+  482\penalty0 (3):\penalty0 2893--2901, 2018.
+
+\bibitem[Miguel et~al.(2011)Miguel, Kaltenegger, Fegley, and
+  Schaefer]{miguel2011compositions}
+Miguel, Y. et~al.
+\newblock {Compositions of hot super-Earth atmospheres: exploring Kepler
+  candidates}.
+\newblock \emph{The Astrophysical Journal Letters}, 742\penalty0 (2):\penalty0
+  L19, 2011.
+
+\bibitem[Noda et~al.(2017)Noda, Ishiwatari, Nakajima, Takahashi, Takehiro,
+  Onishi, Hashimoto, Kuramoto, and Hayashi]{noda2017circulation}
+Noda, S. et~al.
+\newblock {The circulation pattern and day-night heat transport in the
+  atmosphere of a synchronously rotating aquaplanet: Dependence on planetary
+  rotation rate}.
+\newblock \emph{Icarus}, 282:\penalty0 1--18, Jan. 2017.
+
+\bibitem[Norton(2006)]{norton2006tropical}
+Norton, W.
+\newblock {Tropical wave driving of the annual cycle in tropical tropopause
+  temperatures. Part II: Model results}.
+\newblock \emph{Journal of the atmospheric sciences}, 63\penalty0 (5):\penalty0
+  1420--1431, 2006.
+
+\bibitem[Parmentier and Crossfield(2017)]{parmentier2017handbook}
+Parmentier, V. and Crossfield, I.J.M.
+\newblock {Exoplanet Phase Curves: Observations and Theory}.
+\newblock \emph{Handbook of Exoplanets}, 564\penalty0 (7):\penalty0 116--22,
+  2017.
+
+\bibitem[Parmentier et~al.(2013)Parmentier, Showman, and
+  Lian]{parmentier20133d}
+Parmentier, V., Showman, A.P. and Lian, Y.
+\newblock {3D mixing in hot Jupiters atmospheres-I. Application to the
+  day/night cold trap in HD 209458b}.
+\newblock \emph{Astronomy \& Astrophysics}, 558:\penalty0 A91, 2013.
+
+\bibitem[Parmentier et~al.(2016)Parmentier, Fortney, Showman, Morley, and
+  Marley]{parmentier2016transitions}
+Parmentier, V. et~al.
+\newblock {Transitions in the Cloud Composition of Hot Jupiters}.
+\newblock \emph{The Astrophysical Journal}, 828\penalty0 (1):\penalty0 22,
+  Sept. 2016.
+
+\bibitem[Pekeris(1975)]{pekeris1975laplace}
+Pekeris, C.L.
+\newblock {A Derivation of Laplace's Tidal Equation from the Theory of Inertial
+  Oscillations}.
+\newblock In \emph{Proceedings of the Royal Society of London. Series A}, pages
+  81--86, June 1975.
+
+\bibitem[Perez-Becker and Showman(2013)]{perez2013atmospheric}
+Perez-Becker, D. and Showman, A.P.
+\newblock {Atmospheric heat redistribution on hot Jupiters}.
+\newblock \emph{The Astrophysical Journal}, 776\penalty0 (2):\penalty0 134,
+  2013.
+
+\bibitem[Perryman(2018)]{perryman2018exoplanet}
+Perryman, M.
+\newblock \emph{{The Exoplanet Handbook}}.
+\newblock Cambridge University Press, 2018.
+
+\bibitem[Pierrehumbert and Gaidos(2011)]{pierrehumbert2011hydrogen}
+Pierrehumbert, R. and Gaidos, E.
+\newblock {Hydrogen Greenhouse Planets Beyond the Habitable Zone}.
+\newblock \emph{The Astrophysical Journal Letters}, 734\penalty0 (1):\penalty0
+  L13, June 2011.
+
+\bibitem[Pierrehumbert(2010)]{pierrehumbert2010principles}
+Pierrehumbert, R.T.
+\newblock \emph{{Principles of Planetary Climate}}.
+\newblock Cambridge University Press, 2010.
+
+\bibitem[Pierrehumbert and Ding(2016)]{pierrehumbert2016dynamics}
+Pierrehumbert, R.T. and Ding, F.
+\newblock Dynamics of atmospheres with a non-dilute condensible component.
+\newblock \emph{Proceedings of the Royal Society A: Mathematical, Physical and
+  Engineering Sciences}, 472\penalty0 (2190):\penalty0 20160107, 2016.
+
+\bibitem[Pierrehumbert and Hammond(2019)]{pierrehumbert2018review}
 Pierrehumbert, R.T. and Hammond, M.
-\newblock {Atmospheric circulation of tide-locked exoplanets}.
-\newblock \emph{Annual Reviews, Submitted}, 2018.
+\newblock Atmospheric circulation of tide-locked exoplanets.
+\newblock \emph{Annual Review of Fluid Mechanics}, 51:\penalty0 275--303, 2019.
+
+\bibitem[Polichtchouk et~al.(2014)Polichtchouk, Cho, Watkins, Thrastarson,
+  Umurhan, and de~la Torre~Ju{\'a}rez]{polichtchouk2014intercomparison}
+Polichtchouk, I. et~al.
+\newblock Intercomparison of general circulation models for hot extrasolar
+  planets.
+\newblock \emph{Icarus}, 229:\penalty0 355--377, 2014.
+
+\bibitem[Polvani et~al.(2004)Polvani, Scott, and
+  Thomas]{polvani2004numerically}
+Polvani, L.M., Scott, R. and Thomas, S.
+\newblock {Numerically converged solutions of the global primitive equations
+  for testing the dynamical core of atmospheric GCMs}.
+\newblock \emph{Monthly Weather Review}, 132\penalty0 (11):\penalty0
+  2539--2552, 2004.
+
+\bibitem[Putman and Lin(2007)]{putman2007cubed}
+Putman, W.M. and Lin, S.J.
+\newblock {Finite-volume transport on various cubed-sphere grids}.
+\newblock \emph{Journal of Computational Physics}, 227\penalty0 (1):\penalty0
+  55--78, Nov. 2007.
+
+\bibitem[Read(1986)]{read1986super}
+Read, P.
+\newblock {Super-rotation and diffusion of axial angular momentum: II. A review
+  of quasi-axisymmetric models of planetary atmospheres}.
+\newblock \emph{Quarterly Journal of the Royal Meteorological Society},
+  112\penalty0 (471):\penalty0 253--272, 1986.
+
+\bibitem[Read and Lebonnois(2018)]{read2018superrotation}
+Read, P.L. and Lebonnois, S.
+\newblock {Superrotation on Venus, on Titan, and elsewhere}.
+\newblock \emph{Annual Review of Earth and Planetary Sciences}, 46:\penalty0
+  175--202, 2018.
+
+\bibitem[Ribstein et~al.(2014)Ribstein, Zeitlin, and
+  Tissier]{ribstein2014instability}
+Ribstein, B., Zeitlin, V. and Tissier, A.S.
+\newblock {Barotropic, baroclinic, and inertial instabilities of the easterly
+  Gaussian jet on the equatorial $\beta$-plane in rotating shallow water
+  model}.
+\newblock \emph{Physics of Fluids}, 26\penalty0 (5):\penalty0 056605, May 2014.
+
+\bibitem[Rossow and Williams(1979)]{rossow1979large}
+Rossow, W.B. and Williams, G.P.
+\newblock {Large-scale motion in the Venus stratosphere}.
+\newblock \emph{Journal of the Atmospheric Sciences}, 36\penalty0 (3):\penalty0
+  377--389, 1979.
+
+\bibitem[Rothman et~al.(2010)Rothman, Gordon, Barber, Dothe, Gamache, Goldman,
+  Perevalov, Tashkun, and Tennyson]{rothman2010hitemp}
+Rothman, L. et~al.
+\newblock {HITEMP, the high-temperature molecular spectroscopic database}.
+\newblock \emph{Journal of Quantitative Spectroscopy and Radiative Transfer},
+  111\penalty0 (15):\penalty0 2139--2150, 2010.
 
 \bibitem[Shell and Held(2004)]{shell2004superrotation}
 Shell, K.M. and Held, I.M.
@@ -72,17 +636,58 @@ Shell, K.M. and Held, I.M.
 \newblock \emph{Journal of Atmospheric Sciences}, 61\penalty0 (2):\penalty0
   2928--2935, Dec. 2004.
 
+\bibitem[Showman and Guillot(2002)]{showman2002atmospheric}
+Showman, A.P. and Guillot, T.
+\newblock {Atmospheric circulation and tides of “51 Pegasus b-like”
+  planets}.
+\newblock \emph{Astronomy \& Astrophysics}, 385\penalty0 (1):\penalty0
+  166--180, 2002.
+
 \bibitem[Showman and Polvani(2010)]{showman2010superrotation}
 Showman, A.P. and Polvani, L.M.
-\newblock {The Matsuno-Gill model and equatorial superrotation}.
-\newblock \emph{Geophysical Research Letters}, 37\penalty0 (1):\penalty0
-  L18811--n/a, Sept. 2010.
+\newblock The matsuno-gill model and equatorial superrotation.
+\newblock \emph{Geophysical Research Letters}, 37\penalty0 (18), 2010.
 
 \bibitem[Showman and Polvani(2011)]{showman2011superrotation}
 Showman, A.P. and Polvani, L.M.
 \newblock {Equatorial Superrotation on Tidally Locked Exoplanets}.
 \newblock \emph{The Astrophysical Journal}, 738\penalty0 (1):\penalty0 71,
   Sept. 2011.
+
+\bibitem[Showman et~al.(2012)Showman, Wordsworth, and
+  Merlis]{showman2012review}
+Showman, A.P., Wordsworth, R.D. and Merlis, T.M.
+\newblock {Atmospheric Circulation of Terrestrial Exoplanets}.
+\newblock \emph{Comparative Climatology of Terrestrial Planets}, 1675:\penalty0
+  8090, June 2012.
+
+\bibitem[Showman et~al.(2015)Showman, Lewis, and
+  Fortney]{showman2015circulation}
+Showman, A.P., Lewis, N.K. and Fortney, J.J.
+\newblock {Three-dimensional atmospheric circulation of warm and hot Jupiters:
+  Effects of orbital distance, rotation period, and nonsynchronous rotation}.
+\newblock \emph{Astrophysical Journal}, 801\penalty0 (2):\penalty0 95, Mar.
+  2015.
+
+\bibitem[Stevenson et~al.(2014)Stevenson, D{\'e}sert, Line, Bean, Fortney,
+  Showman, Kataria, Kreidberg, McCullough, Henry, et~al.]{stevenson2014thermal}
+Stevenson, K.B. et~al.
+\newblock Thermal structure of an exoplanet atmosphere from phase-resolved
+  emission spectroscopy.
+\newblock \emph{Science}, 346\penalty0 (6211):\penalty0 838--841, 2014.
+
+\bibitem[Sugimoto et~al.(2019)Sugimoto, Takagi, and Matsuda]{sugimoto2019fully}
+Sugimoto, N., Takagi, M. and Matsuda, Y.
+\newblock {Fully Developed Superrotation Driven by the Mean Meridional
+  Circulation in a Venus GCM}.
+\newblock \emph{Geophysical Research Letters}, 46\penalty0 (3):\penalty0
+  1776--1784, 2019.
+
+\bibitem[Thrastarson and Cho(2010)]{thrastarson2010effects}
+Thrastarson, H.T. and Cho, J.Y.
+\newblock Effects of initial flow on close-in planet atmospheric circulation.
+\newblock \emph{The Astrophysical Journal}, 716\penalty0 (1):\penalty0 144,
+  2010.
 
 \bibitem[Thuburn and Lagneau(1999)]{thuburn1999zonalmean}
 Thuburn, J. and Lagneau, V.
@@ -91,6 +696,15 @@ Thuburn, J. and Lagneau, V.
 \newblock \emph{Journal of Atmospheric Sciences}, 56\penalty0 (5):\penalty0
   689--710, Mar. 1999.
 
+\bibitem[Tinetti et~al.(2016)Tinetti, Drossart, Eccleston, Hartogh, Heske,
+  Leconte, Micela, Ollivier, Pilbratt, Puig, et~al.]{tinetti2016ariel}
+Tinetti, G. et~al.
+\newblock {The science of ARIEL (Atmospheric Remote-sensing Infrared Exoplanet
+  Large-survey)}.
+\newblock In \emph{Space Telescopes and Instrumentation 2016: Optical,
+  Infrared, and Millimeter Wave}, volume 9904. International Society for Optics
+  and Photonics, 2016.
+
 \bibitem[Tsai et~al.(2014)Tsai, Dobbs-Dixon, and Gu]{tsai2014three}
 Tsai, S.M., Dobbs-Dixon, I. and Gu, P.G.
 \newblock {Three-dimensional structures of equatorial waves and the resulting
@@ -98,18 +712,66 @@ Tsai, S.M., Dobbs-Dixon, I. and Gu, P.G.
 \newblock \emph{Astrophysical Journal}, 793\penalty0 (2):\penalty0 141, Oct.
   2014.
 
+\bibitem[Tsiaras et~al.(2016)Tsiaras, Rocchetto, Waldmann, Venot, Varley,
+  Morello, Damiano, Tinetti, Barton, Yurchenko, et~al.]{tsiaras2016detection}
+Tsiaras, A. et~al.
+\newblock {Detection of an atmosphere around the super-Earth 55 Cancri e}.
+\newblock \emph{The Astrophysical Journal}, 820\penalty0 (2):\penalty0 99,
+  2016.
+
 \bibitem[Vallis(2006)]{vallis2006book}
 Vallis, G.K.
 \newblock {Atmospheric and Oceanic Fluid Dynamics}.
 \newblock \emph{Atmospheric and Oceanic Fluid Dynamics}, pages 770--, Nov.
   2006.
 
+\bibitem[Von~Braun et~al.(2011)Von~Braun, Tabetha, Theo, Kane, Van~Belle,
+  Ciardi, Raymond, L{\'o}pez-Morales, McAlister, Schaefer, et~al.]{von201155}
+Von~Braun, K. et~al.
+\newblock {55 Cancri: Stellar astrophysical parameters, a planet in the
+  habitable zone, and implications for the radius of a transiting super-Earth}.
+\newblock \emph{The Astrophysical Journal}, 740\penalty0 (1):\penalty0 49,
+  2011.
+
+\bibitem[Wang et~al.(2016)Wang, Boyd, and Akmaev]{wang2016hough}
+Wang, H., Boyd, J.P. and Akmaev, R.A.
+\newblock {On computation of Hough functions}.
+\newblock \emph{Geoscientific Model Development}, 9\penalty0 (4):\penalty0
+  1477--1488, Apr. 2016.
+
+\bibitem[Wang and Mitchell(2014)]{wang2014instability}
+Wang, P. and Mitchell, J.L.
+\newblock {Planetary ageostrophic instability leads to superrotation}.
+\newblock \emph{Geophysical Research Letters}, 41\penalty0 (12):\penalty0
+  4118--4126, 2014.
+
+\bibitem[Wetzel et~al.(2013)Wetzel, Klevenz, Gail, Pucci, and
+  Trieloff]{wetzel2013sio}
+Wetzel, S. et~al.
+\newblock {Laboratory measurement of optical constants of solid SiO and
+  application to circumstellar dust}.
+\newblock \emph{Astronomy \& Astrophysics}, 553:\penalty0 A92, 2013.
+
 \bibitem[Winn et~al.(2011)Winn, Matthews, Dawson, Fabrycky, Holman, Kallinger,
-  Kuschnig, Sasselov, Dragomir, Guenther, Moffat, Rowe, Rucinski, and
-  Weiss]{winn201155cnce}
+  Kuschnig, Sasselov, Dragomir, Guenther, et~al.]{winn2011super}
 Winn, J.N. et~al.
-\newblock {A Super-Earth Transiting a Naked-Eye Star }.
-\newblock \emph{The Astrophysical Journal}, 737\penalty0 (1):\penalty0 L18,
-  Aug. 2011.
+\newblock {A super-Earth transiting a naked-eye star}.
+\newblock \emph{The Astrophysical Journal Letters}, 737\penalty0 (1):\penalty0
+  L18, 2011.
+
+\bibitem[Zellem et~al.(2014)Zellem, Lewis, Knutson, Griffith, Showman, Fortney,
+  Cowan, Agol, Burrows, Charbonneau, et~al.]{zellem2014hd209}
+Zellem, R.T. et~al.
+\newblock {The 4.5 $\mu$m full-orbit phase curve of the hot Jupiter HD
+  209458b}.
+\newblock \emph{The Astrophysical Journal}, 790\penalty0 (1):\penalty0 53,
+  2014.
+
+\bibitem[Zhang and Showman(2017)]{zhang2017dynamics}
+Zhang, X. and Showman, A.P.
+\newblock {Effects of Bulk Composition on the Atmospheric Dynamics on Close-in
+  Exoplanets}.
+\newblock \emph{The Astrophysical Journal}, 836\penalty0 (1):\penalty0 73, Feb.
+  2017.
 
 \end{thebibliography}
